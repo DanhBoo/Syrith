@@ -38,7 +38,6 @@
 - Gaia lớn (Eldtree, Sophianon, Arreteon, Luweh-trung-tâm): bán kính an toàn ~50-80 km. Diện tích ~7.000-20.000 km².
 - Gaia trung (Konohana, một số Gaia phụ chưa đặt tên): bán kính ~20-40 km. Diện tích ~1.200-5.000 km².
 - Gaia nhỏ/tách rời (rễ con của Luweh, các cụm Saltree nhỏ): bán kính ~5-15 km.
-
 Ngoài vùng này = Syren-độc cho Valdren = chỉ Norden, Korven, Tatarus sống được. Đây cũng giải thích vì sao Bagat Galkhar và Dogshin Galkhar (Norden) chiếm vùng đất rộng mênh mông - họ không cần Gaia.
 
 **Dân số mỗi thành bang Gaia**
@@ -52,9 +51,7 @@ Trong vùng an toàn 50-80 km bán kính của một Gaia lớn, với săn bắ
 Đây không phải con số tuỳ tiện. Logic: săn bắt bền vững cần khoảng 0.5-1 km² rừng an toàn mỗi người dân (nếu săn là _bổ sung_ chứ không phải nguồn lương thực chính). 30.000 dân × 0.7 km² = ~21.000 km² rừng an toàn - vừa khít vùng Gaia lớn. Lúc đó 80-90% diện tích Gaia là rừng săn, 10% canh tác, 1-2% đô thị. Săn bắt thực sự _thoải mái_ vì mật độ thấp.
 
 Nếu muốn dày hơn (50.000 dân), giảm vai trò săn xuống thành "thể thao + thuốc + lông" và tăng nông nghiệp + chăn nuôi.
-
 **Khoảng cách giữa các thành bang**
-
 Khoảng cách _giữa các Gaia_ = khoảng cách giữa các trung tâm thành bang. Đề xuất 150-300 km giữa các Gaia lớn. Lý do:
 
 - Đủ xa để vùng thanh tẩy không chồng nhau (nếu không thì 2 Gaia tranh giành dinh dưỡng đất).

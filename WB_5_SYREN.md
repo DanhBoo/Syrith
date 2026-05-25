@@ -19,7 +19,7 @@ Ngoài lưới rối đa phần ở trên, mỗi hạt Syren còn có đúng m�
 - Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)**, có ở thể rắn , lỏng, khí, plasma và "hồi" tùy điều kiện tác động.
 - Syren-Hồi (Echo Form) là pha thứ 5 của Syren — một dạng năng lượng hữu hình tạm thời, hình thành khi liên kết rối giữa Syren bên này và twin bên kia được **khuếch đại đủ mạnh** để **sao chép cấu trúc và lịch sử state của twin** lên một vật chứa Syren bên này (ví dụ: một cục đá)
 - Vật chứa Syren đóng vai trò "khung", còn thông tin twin đóng vai trò "khuôn" Mạch ma lực dạng sợi lấy năng lượng từ nguồn syren đan hình dạng lại. Kết quả là một bản sao/phần bản sao gần đúng của twin (hoặc của thông tin môi trường quanh twin) ở dạng năng lượng có hình thù chạm được, nhưng liên kết không bền — decohere có thời gian biến mất trả lại trạng thái Syren ban đầu (trạng thái cục đá chứa syren)
-> Mạch ma lực là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật khung chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi.
+> [[WB_6_Sinh học#3) Mạch ma lực|Mạch ma lực]] là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật khung chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi. 
 
 **Đặc tính**:
 
@@ -47,7 +47,6 @@ Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]]
 - Cá thể có dòng năng lượng phụ trợ chạy song song với năng lượng sinh học bình thường → khỏe hơn.
 - Năng lượng Syren có thể kích thích trao đổi chất → đốt mỡ, hồi phục nhanh.
 - Crystal có thể là kho dự trữ năng lượng → có ích trong vận động.
-
 
 #### 2) Thực vật 
 
