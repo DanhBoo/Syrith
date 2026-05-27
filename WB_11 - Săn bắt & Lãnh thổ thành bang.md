@@ -56,7 +56,7 @@ Thú trong Astraea **không sợ người** vì:
 - Người không sống trong rừng - chỉ ra săn rồi về
 - Thú bảo vệ lãnh thổ riêng, quen thuộc trong vùng nó sinh sống
 
-→ Săn không cần truy vết xa. Vào lãnh thổ thú → tìm → chém. Khác hoàn toàn lịch sử thực nơi thú học sợ người và chạy xa.
+→ Săn không cần truy vết xa. Vào lãnh thổ thú → tìm → săn. Khác hoàn toàn lịch sử thực nơi thú học sợ người và chạy xa.
 
 ## Phân loại theo độ phức tạp
 
