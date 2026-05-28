@@ -72,7 +72,35 @@
 - mô thần kinh nối với syren bậc cao của sinh động vật được cho là hết hoạt động hoặc 
 - mạch ma lực nối với syren bậc cao của thực vật nối với cấu trúc cây đã chết
 → túi syren sẽ ngừng chức năng và cấu trúc syren/sinh vật tan dần ra môi trường
-### 3) Mạch ma lực
+
+### 3) Phân loại túi và flow cơ chế hoạt động
+
+Các vật chứa (túi) Syren chia hai kiểu theo việc có hay không Syren cấp cao bẩm sinh tại.
+
+**Túi Syren phụ** — chứa Syren và phát mạch ma lực được, không có Syren cấp cao bẩm sinh:
+- [[WB_5_SYREN#II. Kryst, Veld & Nhiễm Syren|Veld nhiễm]] sau Kryst
+- [[WB_9_Vessel#I. Bản chất Vessel|Vessel]] nhân tạo
+  
+**Túi Syren thực** — có Syren cấp cao bẩm sinh liên kết với hệ thần kinh (động vật) hoặc mạch ma lực trung ương (thực vật):
+- Túi Syren động vật bẩm sinh (mục a trên)
+- Túi Syren thực vật của cây (mục c trên)
+- Bầu đất [[WB_10_Phytor#2. Bầu đất Phytor|Phytor]] bao bọc túi cây sống
+
+
+	###### Flow điều khiển
+Não bộ chủ thể lưu thông tin ký ức twin từ Syren cấp cao trong túi Syren thực bản thân. Khi muốn vận hành, não kết hợp ký ức twin + ý muốn hiện tại → truyền tín hiệu qua hệ thần kinh, mạch máu, cảm giác → đến nguồn đang vận hành. Từ đây tách hai kiểu:
+
+###### Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)
+- Túi phụ nhận thông tin từ não qua hệ thần kinh + mạch máu + cảm giác, tạo hồi dùng thông tin twin của túi thực chủ thể. Chậm hơn và yếu hơn so với khi hồi xuất từ chính túi thực, vì thông tin đi đường vòng và bản thân túi phụ thiếu Syren cấp cao tại chỗ.
+- Để giảm độ trễ và tăng độ rõ, túi thực chủ thể có thể nối thẳng một mạch ma lực vào túi phụ — thông tin truyền trực tiếp, ít sai lệch hơn.
+- Hai túi giữ năng lượng riêng. Năng lượng có thể bơm dần qua mạch ma lực giữa hai bên, nhưng chậm và khó.
+
+###### Kiểu 2 — vận hành túi thực bên ngoài (Verdor nối cây, Phytor)
+- Não chủ thể đẩy thông tin "muốn làm gì" qua mạch ma lực sang túi thực bên ngoài (túi cây).
+- Túi thực bên ngoài có Syren cấp cao riêng, diễn giải thông tin theo cách của nó (twin riêng + bản năng loài), thực hiện theo cách của nó.
+- Não chủ thể thiếu parten về twin của túi bên ngoài nên không nắm chính xác phản ứng ở lệnh chi tiết. Chi tiết mức điều khiển xem [[WB_9_Vessel#Mức điều khiển|Vessel Phyto - Mức điều khiển]].
+
+### 4) Mạch ma lực
 
 > Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — pha lỏng-coherent trung gian: dòng plasma Syren mật độ thấp duy trì MQC nhờ nguồn cấp liên tục từ túi Syren. Khi nguồn ngắt, sợi tan.
 > Khi giữ năng lượng cấp liên tục, các sợi đan lưới hoàn thiện thành dạng năng lượng [[WB_5_SYREN#3. Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn này đi nơi khác, mạng lưới truyền đi này gọi là mạch ma lực
@@ -80,13 +108,13 @@
 - Hệ thần kinh thì cơ thể con người sẽ phản ứng đồng bộ ngay lập tức, thì mạch ma lực phản hồi có **độ trễ**. Vậy nên nếu phần Crystal/Kryst/nguồn chứa Syren bị nhiễm ngay chân/cẳng tay — nơi cách xa trung ương thần kinh (tủy sống và não bộ) — sẽ có độ process trễ hơn. Khó kiểm soát hơn, dễ hiểu là các chi đó **lấy năng lượng chậm hơn**.
 - Khi trong trạng thái Kryst/Veld nặng thì mạch ma lực sẽ **áp đảo thần kinh vận động** của cơ thể ở đó. Nên cơ thể sẽ thấy chậm chạp và delay ngay phần chi này — dù não gửi tín hiệu nhưng sẽ có độ trễ.
 - Mạch ma lực được tạo ra từ "Túi Syren" bên định nghĩa 2 trên thì có thể được ngắt không cần truyền đi và giữ syren tại túi Syren nếu không sử dụng, khi đó nó sẽ tan biến
-### 4) Sinh sản
+### 5) Sinh sản
 - Các loài văn minh gần người có thể giao phối với nhau, con sẽ mang adn thông thường chỉ biểu hiện của ba hoặc mẹ, số ít thì của ông bà trước, số ít nữa thì pha trộn giữa các ADN gia phả người con có do ba mẹ tạo nên.
 - Valdren không thể có con với Korven và Taldren
 - Ở thời Syrith, khi [[WB_5_SYREN#I. SYREN|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren được chắt lọc sẽ chuyển lên túi Syren, nếu dư thì đào thải ra ngoài phân nước tiểu.
 - Các loài Valdren khi sinh con thì suy giảm các chức năng thải độc-suy giảm khả năng thải syren khi mang thai ảnh hưởng đến cơ thể nên mỗi khi sinh con người mẹ sẽ bị nhiễm syren hơn, càng ngày càng nguy hiểm nếu sinh nhiều. Hậu quả là mỗi người mẹ Valdren đối mặt với nguy hiểm chết người khi sinh nhiều con sau người thứ 2 hoặc 3, tỉ lệ chết tăng cao.
-### 5) Hệ thống tự chữa trị sinh học từ Syren
-- Với Túi Syren/veld ổn định và Vessel nghe lời trung ương thần kinh/não bộ qua hệ thần kinh thì hệ thống này tạo mạch ma lực để tự khâu các vết thương cho chủ thể khi bị thương/ngắt mạch ma lực khi chủ thể ổn định
+### 6) Hệ thống tự chữa trị sinh học từ Syren
+- Với túi Syren bẩm sinh, Veld nhiễm ổn định, hoặc Vessel — khi đã nghe lời trung ương thần kinh/não bộ qua hệ thần kinh thì hệ thống này tạo mạch ma lực để tự khâu các vết thương cho chủ thể khi bị thương/ngắt mạch ma lực khi chủ thể ổn định
 - Sự ổn định và tốc độ hệ thống này phụ thuộc vào thói quen sử dụng túi, tập luyện ,tiềm năng ,dị bản, tài năng từng loài
 - Với cá thể có thông tin twin syren cấp cao không tương tự/tương thích, thì "syren lõi" trong túi syren không đủ thông tin để chữa trị cho vật chủ nên vật chủ sẽ hình thành biến dị do chữa sai cách hoặc không được chữa trị
 

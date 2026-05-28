@@ -37,23 +37,8 @@ xương cuồn là tác nhân thảm họa?
 
 Antonio 
  Esmat
-
-
-Giả định cây Gaia darian còn sống sau thảm họa
-DArian là liên minh thành quốc, liên minh với Vireth vì người Vireth có công thức giúp cây gaia đặc biệt của Darian giúp sinh học người vireth lẫn dân cư darian sinh sống chung được, tạo một liên minh có cây phòng thủ tuyệt đối với người tiến hóa ngoài cây, có mũi nhọn vireth tấn công được các bộ lạc khát máu bên ngoài, 
-đại diện darian phản bội dùng công thức tính kích hoạt một thông tin GAia có thể biến Syren lại thành dạng trước thảm họa, xóa sổ hoàn toàn các loài tiến hóa, đưa tỉ lệ sinh đẻ lại bình thường mà k biếtVireth đánh tráo giả vì khong chắc chắn darian phản bội hay không, cây gaia darian hóa điên hóa Tatarus một thực vật giả lập thông tin cấp cao twin thần linh (thần linh bên twin kia có thể chỉ là một vị vua giả thần như pharaol đưa ra các thông tin giả thần) cái cây đưa ra ý chỉ nếu không hiến tế người mỗi thời gian loài vireth hoặc valdern sẽ tiêu diệt xung quanh, di chuyển kích thước gaia,tatarus tấn công các bộ lạc, thành quốc, cây xương cuồng này mất giá trị mà còn nguy hiểm
-người darian di cư hết sang các thành quốc khác vì cây mất tính gaia
-Người Vireth và valdern căng thẳng vì cần hiến tế  người gây rạn nứt, cộng với sự phản bội trước đó của vua darian
-Antonio là ngườ sarvel , dược vireth tiên tri là sẽ dẹp cây xương cuồng tatarus, ổn định kết giới vireth và valdren có thể sống chung, người máu lạnh thì rõ ràng có tiên tri về antonio có nguy cơ mầm mống ngu hiểm đến họ cũng k thích và muốn diệt anh ta. tiên tri isa ở sarvel thì muốn anh kích hoạt thuộc tính cây xương cuồng để đưa syren trở lại pha trước thảm họa như vua darian. tất cả đều trong biến số tiên tri được nên rất nhiều faction muốn giết/ liên minh anh,
-tiên tri ở lục địa k nhiều và cũng k đủ nhân lực  nên có số ít faction liên minh để cố gắng tìm anh nên a mới lẩn trốn được  
- antonio từ nhỏ ghét bị tiên tri này nọ vì biến cố gia đình tiên tri giống ý chỉ chúa bắt mẹ a sinh con thứ tư, người rất giỏi sau này, nên sau khi nghe thông tin, có bắt cóc dẫn theo bé tiên tri sarvel đệ tử isath, bé này ghét a không làm theo lời tiên tri a bắt cóc cốt để làm con tin trốn khỏi sarvel, sau này bé bám lấy anh khi anh thả đi, bảo anh bé phải giám sát, nhận ra tầm quan trọng tiên tri a cũng cho bé vào hành trình
- 
- faction sarvel nhận ra a bỏ trốn thì có một đội cố support a theo tiên tri mới để a làm theo lời isath 
-faction vireth thì coi anh là cứu tinh cho một gaia riêng của vireth ổn định sau này nếu theo vireth thì rất có thể họ sẽ ở được trong và ngoài một cây gaia, khả năng sẽ nghiên cứu tương lai xa một mầm mống vireth nghiên cứu được cách ở trong các gaia khác. Các gaia khác xem tương lai này là nguy hiểm vì tỉ lệ sinh vireth =bình thường, tỉ lệ sinh trong gaia ít, tương lai khi vireth sống dc trong gaia thì triết học các quốc gia khi đó thấy cỡ nào lũ người này sẽ lấn chiếm, tàn phá vì giống loài ngoài gaia đối với họ là loài tàn phá nếu không giới hạn
- 
- nhận ra làm cách nào cũng k được sau này a quyết định k nghe tiên tri, hủy luôn khả năng vireth ở trong đó, khôi phục gaia gốc cái mà chỉ darian sống được, khi đó bạn bè a không bên nào chết, darian trở về quê, a là người đứng giữa hòa giải hai bên
-
-
+GAia scifi là dạng khai phá triết học, đóng cửa nghiên cứu sự kiện vũ trụ, các đồng tộc đi thu thập dữ kiện để bàn về hệ tư tưởng triết
+- Nồi chung giữ nóng vài giờ → "cả bàn múc dần". Đây là phong tục bàn ăn cộng đồng phát sinh tự nhiên, không cần áp đặt "người Syrith yêu gia đình".
 
 	phân theo bộ loài và phân tích theo góc nhìn tiềm năng của bộ những loài lai tạp ADN sẽ mix tính năng tùy vào cá thể
 ## 1) Lớp thú 
@@ -79,3 +64,5 @@ faction vireth thì coi anh là cứu tinh cho một gaia riêng của vireth �
 ### b) có vảy
 ### c) cá
 
+tối cần chốt: có bao nhiêu tuyến liên quan map(giờ có masqura)
+story, cái để focuslens

@@ -91,7 +91,7 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 | Sinh tồn cục bộ | ~năm 0                 | Người sống sót co cụm theo cá nhân/gia đình. Mất hầu hết tổ chức cũ. Sống dựa vào ký ức người già.  |
 | Cộng đồng nhỏ   | ~năm 100               | Bộ lạc / làng nhỏ tự tổ chức. Kế thừa **bản sắc cũ qua lễ + truyền miệng** nhưng quy mô đã rất nhỏ. |
 | Liên minh vùng  | ~năm 300               | Các làng cùng vùng kết nối với nhau. Trade nhỏ/ thợ chuyên môn tái xuất hiện.                       |
-| Tiểu quốc       | ~năm 800               | Quy mô đế chế nhỏ                                                                                   |
+| Tiểu quốc       | ~năm 800               | Quy mô thành quốc liên minh                                                                         |
 
  
 ---
@@ -114,24 +114,20 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 - Đắc khan (một đồ tể thuộc họ máu lạnh hung bạo) xưng bá thành lập liên minh bộ lạc nổi bật ở Bagat Galkhar, Aetum cũ, liên minh này chủ yếu là bò sát, liên minh thành lập giữa các bộ tộc khi các con đầu đàn chiến đấu với nhau đề cao sức mạnh thanh trừng kẻ chống đối
 - Nhiều bộ lạc bò sát chưa nằm trong khối liên minh 
 - Các tổ chức chiến tranh liên tục
->Dogshin Galkhan
-- Khu vực norven gần cửa biển, tiếp giáp với mỏm "hy vọng" thương mại của masquara 
 >Vireth
 - Vireth là bộ lạc rải rác các loài Korven với nhau
 >Eldryn
-- Sau khi Aetum biến mất và thời đại nguy hiểm Syren, Eldryn liên kết tất lãnh địa xung quanh bản sắc Tây Thyria cũ với mác tôn giáo chung, người đứng đầu là Thần Quan, chịu trách nhiệm điều hành vương quốc
->Đông Thyria
-- Nhỏ hơn trước thời Syren trở thành nhà nước cộng hòa 
+- Sau khi Aetum biến mất và thời đại nguy hiểm Syren, Eldryn liên kết tất lãnh địa xung quanh bản sắc Tây Thyria cũ với mác tôn giáo chung, người đứng đầu là Thần Quan, chịu trách nhiệm điều hành liên minh thành quốc
 >Masquara
-- Nhờ Syren làm suy yếu đông Thyria biến động, masquara được một nhóm tiên phong dẫn đầu cho việc liên lạc thương mại với sarvel trong bối cảnh sarvel tính chất quốc gia và Gaia di chuyển liên tục khó mà liên lạc, khi liên lạc được khẳng định vị thế là cộng đồng có ảnh hưởng với thyria, thành lập liên minh đối địch ủng hộ một phe thyria thống nhất đất nước, họ khẳng định vị thế, lấy một phần các thánh tích của thyria từng bước hình thành bộ máy nhà nước đầy đủ, có tôn giáo, thừa thắng họ vượt được dãy núi liên lạc được với eldryn liên minh để cuối cùng dc thyria, eldryn và sarvel công nhận nhà nước độc lập, liên lạc với mizuho và luweh sau này, họ liên kết làm ăn với cộng đồng người vireth khu vực gần luweh với sự giúp sức luweh, mizuho để tạo thành tuyến đường thương mại đường bộ ra eo biển, Masquara thành mắt xích liên kết đông tây Luweh>vireth>mizuho>Đông thyria>Sarvel  họ đã khẳng định chủ quyền và có những cách thức dù không Gaia vẫn áp lực được Thyria-
+- Thành lập tuyến thương mại, thành quốc với các tộc nhân nhóm chuột, gặm nhấm sử dụng cơ chế ngủ đông để carry nhau di chuyển giữa các vùng đất không gaia để tạo liên kết đông tây buôn bán
 >Khối Sarvel
-- Mất một nửa lục địa do tính chất Gaia không quản lý được, do tính chất gaia và mất phần lớn vùng đất họ thu nhỏ lãnh địa thành một quốc gia nhỏ di chuyển
+- Thu hẹp thành 1 thành quốc duy nhất di chuyển trên đá sa minh, dùng sức mạnh tiên tri để phong tước và sửa/tăng sức mạnh syren cấp cao cho lãnh đạo các bộ lạc vireth xung quanh, đá saverl di chuyển bốn mùa để nhận cống nạp từ các bộ lạc chư hầu này
 >Mizuho
 - Thay đổi bộ máy Hoàng Tôn Huyền Chính đứng đầu quyền lợi của tướng quân về phía Hoàng Tôn để chống trả thảm họa thống nhất đất nước, Mizuho Học hỏi văn hóa Masquara và đông Thyria trong công cuộc cải cách trong khi vẫn giữ bản sắc phương đông
 >Đại viên (Darian)
-- Biến mất khỏi bản đồ vì không có Gaia tiến hóa đúng cách, rải rác khắp lục địa từ Đông sang Tây ôm mộng khôi phục giang sơn
+- Vua Darian tham vọng bị hóa điên vì biến cố vách ngăn cổ đại/gaia trở thành gaia điên bạo chúa, người dân darian số chạy loạn số bị ép vua điên toàn quyền sinh sát 
 >Luweh
-- Dân số ít đi nhưng không bị thay đổi bộ máy cho lắm
+- Bộ máy ổn định thảm họa vẫn làm thu hẹp quốc gia
 
 
 ---
@@ -153,7 +149,7 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 - Astraea tiếp tục, nhưng không còn Syrith.
 - Những loài đã tiến hóa trong Syren thì lại mất dần đặc điểm tiến hóa sau này hoặc biến mất.
 
-| Mốc                 | Sự kiện                                                                                                                                       | Hệ quả                                                  |
+| Mốc                 | Sự kiện trước thảm họa                                                                                                                        | Hệ quả                                                  |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | **T-5000 → T-2000** | Sarvel đã là đế quốc cao nguyên/hoang mạc đa dân tộc ổn định. Luwel có Tam triều đối lập. Tiền-Thyria còn rời rạc.                            | Bối cảnh nền: 3 khối lớn cổ nhất.                       |
 | **T-1500** (?)      | **Luwel:** Minh Hoàng thống nhất Tam triều → cực thịnh, văn hóa phương đông ổn định.                                                          | Luwel thành "nguồn văn hóa" mà Mizuho học theo.         |
@@ -164,12 +160,5 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 | **T-500 → T-100**   | **Aetum xâm Tây Thyria liên tục.** Vị trí thương mại Tây Thyria kém + phải gồng phòng thủ → kinh tế kiệt → **Tây Thyria chia 5 xẻ 7 nội bộ**. | Romulus/Remus motif suy. Quyền lực Tây trượt.           |
 | **T-100 → Năm 0**   | **Masquara di cư** từ Tây Thyria lên bờ biển, vào vùng vẫn thuộc Đông Thyria (vùng hồng trên map). Đông Thyria bảo trợ tạm.                   | là cộng đồng nhỏ làng chài đoàn kết                     |
 
-| Mốc                 | Sự kiện                                                                                                                                                                                                                                                                                                                                                                                    | Hệ quả                                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Năm 0 ~100          | **Ateum và Đại Viên biến mất** — không có Gaia tiến hóa đúng cách trong vùng. Dân rải rác từ Đông sang Tây, ôm mộng khôi phục.                                                                                                                                                                                                                                                             | (hai khu vựckhông có Gaia bảo vệ trong vùng)  Đại Viên trở thành "lớp dân nhập cư" ở mọi đế chế khác.Học giả aetum chạy sang Sarvel.                |
-| **Năm 100 → ~300**  | **Eldryn hình thành:** các văn minh Tây Thyria cũ co cụm quanh Gaia (Eldtree), gắn kết bằng tôn giáo chung dưới Thần Quan.<br><br>**Sarvel** mất nửa lục địa (vùng Gaia không quản lý nổi)<br><br>**Mizuho:** Hoàng Tôn Huyền Chính cầm quyền (bỏ song hành tướng quân) để chống thảm họa.<br><br>**Đông Thyria tái sinh** — nhỏ hơn trước, chuyển thành nhiều thành bang chiến tranh lạnh | Tây Thyria "tôn giáo hóa" — khác hẳn bản sắc Romulus cũ.<br><br>Sarvel co lại<br><br>Mizuho cải cách.<br><br>Thyria trong pha phân mảnh             |
-| **Năm 300→ ~800     | **Masquara trỗi dậy:** giúp Đông Thyria cải cách + đánh bại các phe nội bộ thù địch + tìm đường liên minh sarvel, eldryn → được công nhận đồng minh quan trọng.                                                                                                                                                                                                                            | Masquara từ "dân di cư bảo trợ" → "đối tác chính trị".                                                                                              |
-| **Năm 500 → ~800**  | **Bagat Galkhar và Dogshin Galkkharnổi lên:** Đắc khan xưng bá ở 1 góc sarvel và Ateum cũ, lập liên minh bộ lạc bò sát. trong đó hai bên giằng co nhau<br>cũng có các bộ lạc rải rác khắp lục địa<br>                                                                                                                                                                                      | Bị thế lực masquara và sarvel cố ý hoặc ố gắng mọi cách không cho ổn định thống nhất vì thế lực này rất hung bạo ở biên giới sát masquara và sarvel |
-| **Năm 500 → ~800**  | **Vireth** lập liên minh bộ lạc phía đông và rải rác khắp lục địa<br>                                                                                                                                                                                                                                                                                                                      | Vùng phía đông lúc này là cầu nối giữa luweh và mizuho                                                                                              |
-| **Năm 600 → ~1000** | **Masquara thành mắt xích thương mại** Luwel → vireth → Mizuho → Đông Thyria → Sarvel. Tận dụng sinh học đặc biệt + công thức di chuyển qua vùng Syren.                                                                                                                                                                                                                                    | Masquara giàu nhất lục địa dù **không có Gaia của riêng mình** — đây là USP của tộc này.                                                            |
+
 

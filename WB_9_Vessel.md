@@ -3,36 +3,71 @@
 
 ### 1. Định nghĩa
 
-- Sinh vật văn minh muốn khai thác năng lượng dồi dào của [[WB_5_SYREN#II. . Kryst, Veld & Nhiễm Syren|Kryst, Veld]] — nhưng tránh cái giá: mạch ma lực khâu vĩnh viễn vào mô sinh học, ngộ độc năng lượng quá tải, ảo giác thông tin twin Syren, biến đổi cơ thể không kiểm soát. Câu hỏi đặt ra: có thể tạo ra một **dạng Kryst/Veld bên ngoài cơ thể** không — thứ giữ được lợi ích của nó mà không cần găm rễ ma lực vào da thịt?
-- Câu trả lời là **Vessel** — về bản chất, đây là một **túi Syren nhân tạo bên ngoài cơ thể**, mô phỏng cấu trúc [[WB_6_Sinh học#2) Túi Syren|túi Syren]] và Veld nhưng đặt sau một vách ngăn vật liệu thay vì khâu mạch ma lực vào mô sống. Vessel có Crystal Kryst/Veld bên trong (lưu năng lượng), có lực bám với cơ thể (đeo không cần tay giữ), có thể đẩy năng lượng qua hệ thần kinh vật chủ — chỉ khác là **không có Syren lõi** và **không khâu mạch ma lực trực tiếp** vào thần kinh vật chủ.
-- Tính chất bám của Syren/Kryst,Veld như một **nam châm cơ thể sinh học** và là nguồn năng lượng để sử dụng để Vessel dễ dàng đeo bên người
-### 2. Cơ chế vách ngăn
+**Vessel** là vách ngăn cầu nối mạch ma lực giữa người dùng và một nguồn Syren ngoài cơ thể.
 
-Vách ngăn là **vật liệu trung gian** được nghiên cứu phát triển, làm hai việc cùng lúc:
+### 2. Hai dạng Vessel
+Theo nguồn Syren mà vách kết nối, Vessel chia hai dạng:
 
-1. **Giữ lực bám của Kryst đối với sinh vật.** Crystal bên trong Vessel vẫn hoạt hóa, vẫn muốn bám vào cơ thể như Kryst tự nhiên — nhưng bị vách ngăn cản, nên thay vì đâm rễ mạch ma lực vào mô, lực bám chuyển thành **hấp dẫn bề mặt**. Vessel "dính" vào đầu/ngực/tay/chân vật chủ như nam châm sinh học mà không gây thương tổn.
-2. **Cầu nối năng lượng tới hệ thần kinh trung ương.** Vách ngăn truyền năng lượng từ Crystal qua **liên kết gián tiếp** vào hệ thần kinh vật chủ — không cần mạch ma lực đâm trực tiếp vào da như Kryst. Vật chủ điều khiển Vessel qua một dạng "cảm giác" tương tự cách họ điều khiển túi Syren bẩm sinh, nhưng chậm hơn và phải qua luyện tập.
+- **Vessel Crysto** — vách gắn liền Kryst/Veld nhân tạo bên trong. Mang theo nguồn năng lượng riêng, dùng mọi lúc mọi nơi. Crystal bên trong là [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|túi Syren phụ]] (kiểu 1).
+- **Vessel Phyto** — vách trống, cầu nối tới túi Syren thực vật của cây bên ngoài. Vận hành cây kiểu [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|túi Syren thực]] bên ngoài (kiểu 2).
 
->Tương tự với Syren-Hồi và Linh hồn bảo mệnh
-- Vessel có **chức năng tạo Syren-Hồi tương đương** [[WB_6_Sinh học#2) Túi Syren|túi Syren]] bẩm sinh và Veld trên cơ thể — . Cơ chế Hồi của sinh vật Syrith luôn lấy thông tin twin từ [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] của chính vật chủ (đây là Syren duy nhất có liên kết twin cố định cá nhân). Vessel đóng vai trò **một anchor point** để hữu hình hóa [[WB_7_Năng lực#II. Linh hồn bảo mệnh|Linh hồn bảo mệnh]] từ vị trí Vessel — giống cách túi Syren bẩm sinh và Veld làm anchor ở vị trí của chúng.
+### 3. Cơ chế vách ngăn
+Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo hướng đảm nhiệm chức năng khác nhau:
 
-Vessel **chậm hơn** túi Syren bẩm sinh vì nằm ngoài cơ thể, xa hệ thần kinh trung ương hơn — tuân theo quy tắc [[WB_6_Sinh học#3) Mạch ma lực|mạch ma lực có độ trễ theo khoảng cách]]. Priority giữa Crown / Core / Limb Vessel:
-- Phần gần **trung tâm kiểm soát thần kinh nhất** (đầu, cột sống) sẽ được **ưu tiên** lấy năng lượng và dễ vận hành.
-- Những phần xa hơn sẽ xử lý chậm, lâu và khó hơn.
-- **Không có conflict** giữa nhiều Vessel cùng lúc nếu người dùng có đeo thêm. Cách thức hoạt động giống chủ thể bị nhiễm Kryst, Veld:
-- Sử dụng nhiều Vessel đòi hỏi người dùng phải có **huấn luyện đặc biệt** hoặc thói quen / nghề đặc thù, vì ngoài khó sử dụng thì **giá Vessel cũng không quá rẻ** để mua tích trữ sửa chữa. với người dân thông dụng.
+1. **Cách ly sinh học** — chặn Syren bên trong tiếp xúc trực tiếp với mô người dùng, thay cho việc khâu mạch ma lực vĩnh viễn vào mô sống như [[WB_5_SYREN#II. Kryst, Veld & Nhiễm Syren|Kryst/Veld nhiễm]] tự nhiên gây ra.
+2. **Cầu mạch ma lực hai chiều** — vách cho phép mạch ma lực đi xuyên qua: chiều vào kích thích nguồn, chiều ra mang hồi và năng lượng phản ứng tới người dùng.
 
->Visual hình dạng phần vách ngăn
-- Vật chứa này thường có hình dạng **chiếc bình** hoặc biến thể (mũ, tấm ngực, vòng tay). Phần đáy / lớp tiếp xúc với cơ thể là **lõi Vessel** 
-### 3.Các dạng Vessel
+### 4. Vessel Crysto
 
-| Loại                  | Mô tả                                                                                                                                                                                                                         |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vessel thông dụng** | Dùng năng lượng phục vụ đời sống — ai cũng dùng được, bị hạn chế năng lượng tấn công.                                                                                                                                         |
-| **Vessel quân sự**    | Dùng năng lượng cho mục đích quân sự. Sẽ tùy vào đội binh mà Vessel sẽ có bộ lọc và hạn chế mức nào. Cơ bản sẽ bị khóa các dòng năng lượng đơn giản, tránh quân binh dùng nó trong mục đích dân sự đơn giản sẽ bị gây rủi ro. |
-| **Vessel custom**     | Tùy vào mục đích mà sẽ được bộ phận kỹ thuật thiết kế để các bên này sử dụng Vessel với mục đích khác nhau.                                                                                                                   |
+- Vách gắn liền Crystal Kryst/Veld nhân tạo bên trong. Crystal vẫn hoạt hóa và muốn bám vào cơ thể như Kryst tự nhiên, nhưng bị vách cản — lực bám chuyển thành hấp dẫn bề mặt, Vessel "dính" vào đầu, ngực, tay, chân vật chủ như nam châm sinh học, giữ tính ổn định.
+- Cơ chế Hồi của Vessel Crysto lấy thông tin twin từ [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] của chính vật chủ (Crystal trong Vessel là túi phụ, không có Syren cấp cao riêng). Vessel đóng vai trò anchor point để hữu hình hóa [[WB_7_Năng lực#II. Linh hồn bảo mệnh|Linh hồn bảo mệnh]] từ vị trí Vessel.
+- Vessel Crysto chậm hơn túi Syren bẩm sinh do thông tin đi đường vòng qua hệ thần kinh + mạch máu — xem [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|cơ chế kiểu 1]]. Mức độ trễ còn phụ thuộc khoảng cách tới trung tâm thần kinh, dẫn tới phân loại theo vị trí đeo.
+
+#### Ví dụ types theo vị trí đeo
+- **Crown Vessel** — đầu, ưu tiên cao nhất do gần trung tâm thần kinh.
+- **Core Vessel** — ngực, ưu tiên thứ hai.
+- **Limb Vessel** — tay/chân, chậm nhất.
 
 ---
+
+### 5. Vessel Phyto
+
+- Vách trống, cầu nối tới túi Syren của cây bên ngoài. Cây sống tại vị trí cây mọc, vách là kênh dẫn mạch ma lực giữa người dùng và túi cây.
+- Cây có twin cấp cao riêng mang hình thái theo twin của cây. Vessel Phyto cho người dùng kênh để giao lệnh cho cây dùng thông tin dựa trên syren cấp cao bản thân, kênh của cây nhận phản hồi và cây thực hiện giao thức dựa trên phản hồi thông tin đó, khi 2 syren cấp cao của người và cây càng tương thích, càng dễ điều khiển.
+
+#### Flow điều khiển
+
+Người dùng chạm tay hoặc cơ thể vào mặt vách phía mình:
+
+1. Não người dùng tạo ý muốn → tín hiệu thần kinh xuống Syren lõi và túi Syren của bản thân.
+2. Túi Syren người dùng đẩy mạch ma lực mang thông tin ý muốn + năng lượng ra điểm tiếp xúc → xuyên vách → đến túi Syren cây áp ở mặt vách còn lại.
+3. Túi Syren cây tiếp nhận thông tin, diễn giải theo cách hiểu của nó (twin loài cây + bản năng phòng vệ).
+4. Cây phản ứng theo cách của cây: tạo hồi syren, đẩy linh hồn hộ mệnh, cử động cành rễ.
+5. Hồi và phản ứng truyền ngược qua vách trở ra mặt người, người dùng tiếp nhận và sử dụng.
+
+#### Mức điều khiển
+
+Ba mức theo độ phức tạp lệnh — sai lệch tăng dần khi lệnh vượt khỏi vùng tương thích twin:
+
+- **Mức đơn giản** — cảm xúc cơ bản (muốn năng lượng, muốn phòng thủ, muốn cành che) + ý chí mạnh. Cây nhận rõ và phản ứng đúng.
+- **Mức trung gian** — yêu cầu định hình cụ thể như linh hồn hộ mệnh hướng nhất định, kiểu tấn công nhất định. Cây nghe phần lớn, có sai lệch.
+- **Mức phức tạp** — nhiều lệnh chi tiết, thao tác tinh xảo. Cây thường tự xử theo cảm nhận túi Syren của loài mình.
+
+Một số faction luyện cảm nhận sâu với loài cây cụ thể để tăng tương thích twin — đọc nhịp túi Syren, đẩy cảm xúc tương ứng. Người dùng dày kinh nghiệm điều khiển được cây mượt mà gần như cánh tay nối dài.
+
+### 6. Ưu tiên khi đeo nhiều Vessel
+
+Vessel đặt gần trung tâm thần kinh người dùng vận hành nhanh và mạnh hơn. Nhiều Vessel kích hoạt cùng lúc chia nhau mạch ma lực — kích hoạt tuần tự giữ năng lượng tốt hơn so với kích hoạt đồng thời.
+
+Sử dụng nhiều Vessel đòi hỏi người dùng có huấn luyện đặc biệt hoặc thói quen / nghề đặc thù. Vessel Crysto giá đắt nên ít người dân thông dụng tích trữ; Vessel Phyto rẻ hơn nhưng phụ thuộc nguồn cây sống.
+
+### 7. Thuật ngữ chung
+
+- **Pronunciation:** VES-səl
+- **Vibe:** Vật chứa hoặc vách ngăn cầu nối, đa cấu hình.
+- **Thuật ngữ thông dụng:** Vessel
+- **Thuật ngữ đường phố:**
+  - Vessel Crysto: "pot", "lid" (vật chứa trên đầu), "can" (miệt thị, rẻ tiền)
 
 # II. Vách ngăn và quy trình sản xuất
 
@@ -74,4 +109,3 @@ Vessel **chậm hơn** túi Syren bẩm sinh vì nằm ngoài cơ thể, xa hệ
 | **Quân sự** | 4-8 tiếng |
 | **Custom** | 1-3 ngày tùy độ phức tạp |
 → Có thể còn phụ thuộc tùy vào tay nghề phù thủy mà dao động.
-

@@ -98,6 +98,6 @@ nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại
 | **18-25°C** | **Nhẹ-trung bình** | Khó chịu chạm OK chạm lâu chục giây gây hoạt tính yếu, tiếp xúc kéo dài > 15 phút thì Kryst ,lumniar hoạt tính yếu khi chạm ở dạng này |
 | 25-30°C     | Hoạt tính nhẹ      | Tương đối an toàn nếu < 15 phút, hơn 15 phút gây hoạt tính yếu, không hấp thu                                                          |
 | > 30°C      | Không hoạt tính    | An toàn                                                                                                                                |
-## IV.  Veld và Kryst mặc định trên cá thể
+## IV.  Túi Syren mặc định trên cá thể
 
->Tóm tắt :Có một dạng Veld Kryst đặc biệt mặc định từ lúc sinh ra trên cơ thể chủ thể, xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Túi Syren]] 
+>Tóm tắt: Có một dạng túi Syren đặc biệt mặc định từ lúc sinh ra trên cơ thể chủ thể, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Túi Syren]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.

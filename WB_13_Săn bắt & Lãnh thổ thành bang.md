@@ -1,5 +1,5 @@
-
-
+z
+![[WORLDS-CONCEPT-BLOCK/Map/map4 copy.jpg]]
 # I. Thành bang & Lãnh thổ săn
 
 Bán kính = từ trung tâm thành bang ra rìa vùng săn. Bảng chia 3 giai đoạn: **đi ra (tải nhẹ) → săn → về (tải nặng)**.
