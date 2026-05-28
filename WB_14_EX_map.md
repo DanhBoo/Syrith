@@ -15,22 +15,22 @@
 |Gaia|Cấp Trung (1 thân chính + 4-6 lá rễ phụ)|
 |Country|Thành viên liên minh khu vực|
 
-## Phân bố nghề (so chuẩn 40%)
+## Phân bố nghề (so chuẩn săn 40%)
 
-|Nghề|% dân|Số người|
-|---|---|---|
-|Lực lượng săn (50%)|50%|4.000|
-|↳ Full-time|25%|2.000|
-|↳ Part-time|17.5%|1.400|
-|↳ Tập sự|7.5%|600|
-|Thủ công săn|10%|800|
-|Xử lý chiến lợi phẩm (chế biến xuất khẩu)|7%|560|
-|Vessel + Gaia + Luminar|2%|160|
-|Nông nghiệp chuyên (nhập gạo từ ngoài)|1%|80|
-|Y tế, hành chính, thương, xây, nghệ thuật|4%|320|
-|Trẻ em <10 + lão niên 65+|25.5%|2.040|
-|Tập sự ngoài săn (10-15)|0.5%|40|
-|**Tổng**|**100%**|**8.000**|
+| Nghề                                      | % dân thành săn | %dân thành thương mại |     |
+| ----------------------------------------- | --------------- | --------------------- | --- |
+| Lực lượng săn (50%)                       | 50% 4.000       | 30 %  3000 người      |     |
+| ↳ Full-time                               | 25%             |                       |     |
+| ↳ Part-time                               | 17.5%           |                       |     |
+| ↳ Tập sự                                  | 7.5%            |                       |     |
+| Thủ công săn                              | 10%             |                       |     |
+| Xử lý chiến lợi phẩm (chế biến xuất khẩu) | 7%              |                       |     |
+| Vessel + Gaia + Luminar                   | 2%              |                       |     |
+| Nông nghiệp chuyên (nhập gạo từ ngoài)    | 1%              |                       |     |
+| Y tế, hành chính, thương, xây, nghệ thuật | 4%              | 320                   |     |
+| Trẻ em <10 + lão niên 65+                 | 25.5%           | 2.040                 |     |
+| Tập sự ngoài săn (10-15)                  | 0.5%            | 40                    |     |
+| **Tổng**                                  | **100%**        | **8.000**             |     |
 
 → Tăng "xử lý chiến lợi phẩm" lên 7% (vs 5% chuẩn) vì lượng thịt-lông xuất khẩu lớn, cần nhiều thợ xông khói/muối/thuộc da.
 

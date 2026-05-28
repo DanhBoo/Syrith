@@ -39,8 +39,8 @@ Bầu đất giữ linh hồn ở trạng thái nghỉ — túi Syren còn nguy�
 
 Người dùng bóp cò. Trình tự kích hoạt:
 
-1. Mạch ma lực nguồn Syren của người dùng truyền vào khoang nạp súng.
-2. Năng lượng Syren tràn vào bầu đất — đất dinh dưỡng bị rửa trôi hoặc đốt cháy nhanh tùy cơ chế rửa hoặc đốt, biến mất khỏi bầu.
+1. Mạch ma lực nguồn Syren của người dùng hoặc năng lượng syren chất lỏng đặc trong khoang có sẵn trên thân truyền vào khoang nạp súng.
+2. Năng lượng Syren tràn vào bầu đất — đất dinh dưỡng bị rửa trôi hoặc đốt cháy nhanh tùy cơ chế rửa hoặc đốt năng lượng, áp suất, biến mất khỏi bầu.
 3. Linh hồn thực vật rơi vào trạng thái phản vệ cực độ vì cùng lúc: mất đất nuôi, ngập trong Syren ngoài cường độ cao, vẫn còn năng lượng túi Syren riêng, mạch ma lực dồn toàn lực vào bầu do mô vật chủ chỉ còn vụn.
 4. Linh hồn bùng nổ năng lượng hồi qua mạch ma lực với tốc độ vượt xa nhịp di chuyển rễ và hồi phản vệ tự nhiên.
 5. Vỏ súng bao kín khối bùng nổ, chừa duy nhất một lối thoát ở nòng — năng lượng dồn ra thành làn sóng có hướng.
@@ -56,7 +56,7 @@ Người dùng bóp cò. Trình tự kích hoạt:
 Sức công phá phụ thuộc ba yếu tố:
 
 - Kích cỡ túi Syren thực vật trong bầu.
-- Mức năng lượng nguồn nạp từ người dùng (nguồn mạnh → đạn mạnh).
+- Mức năng lượng nguồn nạp từ người dùng (không đáng kể).
 - Đặc tính phản vệ của loài cây gốc — cây bản chất bắn ra cho đạn xuyên mạnh, cây bản chất bám quấn cho đạn dính lâu lực xuyên nhẹ hơn.
 
 ### 3. Bầu đất dùng một lần

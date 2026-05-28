@@ -83,16 +83,16 @@ Liên minh dựa vào trao đổi tài nguyên - mỗi nước không thiếu l�
 
 Bản đồ:
 
-|Vùng|Phong cách|Sản phẩm chuyên|
-|---|---|---|
-|**Tím tây (Eldryn-Thyria)**|Tây Âu trung cổ|Vessel cao cấp, sữa Gaia tinh, lông thú, đồ săn, kim loại|
-|**Hồng giữa-trái (Venice)**|Venice / Genoa|Tàu thủy, ngân hàng, môi giới, hải quân|
-|**Vàng**|Ba Tư|Thảm, đá quý, nước hoa, gia vị, thủy tinh|
-|**Xanh sẫm**|Hy Lạp|Triết học, nghệ thuật, gốm, dầu, rượu|
-|**Cam**|Chưa rõ|Khả năng: nông nghiệp ngũ cốc + papyrus + tang lễ (Ai Cập-like) hoặc văn minh sông cổ (Babylon-like)|
-|**Hồng đảo (Mizuho)**|Nhật Bản|Kiếm thép, sơn mài, gốm, lụa, ngọc trai, sản phẩm cá|
-|**Hồng phải (Luweh-China)**|Trung Quốc|Tơ lụa, trà, sứ, giấy, gia vị, thuốc, Vessel kiểu Đông|
-|**Vùng kế Luweh**|Việt Nam / ĐNA|Gạo, gia vị nhiệt đới, đồ thủ công gỗ, vàng, đá quý nhiệt đới|
+| Vùng                        | Phong cách      | Sản phẩm chuyên                                                                                      |
+| --------------------------- | --------------- | ---------------------------------------------------------------------------------------------------- |
+| **Tím tây (Eldryn-Thyria)** | Tây Âu trung cổ | Vessel cao cấp, sữa Gaia tinh, lông thú, đồ săn, kim loại                                            |
+| **Hồng giữa-trái (Venice)** | Venice / Genoa  | Tàu thủy, ngân hàng, môi giới, hải quân                                                              |
+| **Vàng**                    | Ba Tư           | Thảm, đá quý, nước hoa, gia vị, thủy tinh                                                            |
+| **Xanh sẫm**                | Hy Lạp          | Triết học, nghệ thuật, gốm, dầu, rượu                                                                |
+| **Cam**                     | Chưa rõ         | Khả năng: nông nghiệp ngũ cốc + papyrus + tang lễ (Ai Cập-like) hoặc văn minh sông cổ (Babylon-like) |
+| **Hồng đảo (Mizuho)**       | Nhật Bản        | Kiếm thép, sơn mài, gốm, lụa, ngọc trai, sản phẩm cá                                                 |
+| **Hồng phải (Luweh-China)** | Trung Quốc      | Tơ lụa, trà, sứ, giấy, gia vị, thuốc, Vessel kiểu Đông                                               |
+| **Vùng kế Luweh**           | Việt Nam / ĐNA  | Gạo, gia vị nhiệt đới, đồ thủ công gỗ, vàng, đá quý nhiệt đới                                        |
 
 Mặt hàng chủ đạo tuyến Đông-Tây: **tơ lụa, gia vị, trà, sứ, kiếm, Vessel đặc thù vùng, thảm, đá quý, nước hoa**. Không có lương thực thô vì mỗi nước tự đủ.
 
