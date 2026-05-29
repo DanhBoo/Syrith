@@ -8,8 +8,8 @@
 ### 2. Hai dạng Vessel
 Theo nguồn Syren mà vách kết nối, Vessel chia hai dạng:
 
-- **Vessel Crysto** — vách gắn liền Kryst/Veld nhân tạo bên trong. Mang theo nguồn năng lượng riêng, dùng mọi lúc mọi nơi. Crystal bên trong là [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|túi Syren phụ]] (kiểu 1).
-- **Vessel Phyto** — vách trống, cầu nối tới túi Syren thực vật của cây bên ngoài. Vận hành cây kiểu [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|túi Syren thực]] bên ngoài (kiểu 2).
+- **Vessel Crysto** — vách gắn liền Kryst/Veld nhân tạo bên trong. Mang theo nguồn năng lượng riêng, dùng mọi lúc mọi nơi. Crystal bên trong là [[WB_6_Sinh học#Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)|túi Syren phụ]] (kiểu 1).
+- **Vessel Phyto** — vách trống, cầu nối tới túi Syren thực vật của cây bên ngoài. Vận hành cây kiểu [[WB_6_Sinh học#Kiểu 2 — vận hành túi thực bên ngoài (Verdor nối cây, Phytor)|túi Syren thực]] bên ngoài (kiểu 2).
 
 ### 3. Cơ chế vách ngăn
 Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo hướng đảm nhiệm chức năng khác nhau:

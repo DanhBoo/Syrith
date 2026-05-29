@@ -86,8 +86,7 @@ Các vật chứa (túi) Syren chia hai kiểu theo việc có hay không Syren 
 - Túi Syren thực vật của cây (mục c trên)
 - Bầu đất [[WB_10_Phytor#2. Bầu đất Phytor|Phytor]] bao bọc túi cây sống
 
-
-	###### Flow điều khiển
+###### Flow điều khiển
 Não bộ chủ thể lưu thông tin ký ức twin từ Syren cấp cao trong túi Syren thực bản thân. Khi muốn vận hành, não kết hợp ký ức twin + ý muốn hiện tại → truyền tín hiệu qua hệ thần kinh, mạch máu, cảm giác → đến nguồn đang vận hành. Từ đây tách hai kiểu:
 
 ###### Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)
@@ -111,8 +110,8 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren cấp cao trong t
 ### 5) Sinh sản
 - Các loài văn minh gần người có thể giao phối với nhau, con sẽ mang adn thông thường chỉ biểu hiện của ba hoặc mẹ, số ít thì của ông bà trước, số ít nữa thì pha trộn giữa các ADN gia phả người con có do ba mẹ tạo nên.
 - Valdren không thể có con với Korven và Taldren
-- Ở thời Syrith, khi [[WB_5_SYREN#I. SYREN|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren được chắt lọc sẽ chuyển lên túi Syren, nếu dư thì đào thải ra ngoài phân nước tiểu.
 - Các loài Valdren khi sinh con thì suy giảm các chức năng thải độc-suy giảm khả năng thải syren khi mang thai ảnh hưởng đến cơ thể nên mỗi khi sinh con người mẹ sẽ bị nhiễm syren hơn, càng ngày càng nguy hiểm nếu sinh nhiều. Hậu quả là mỗi người mẹ Valdren đối mặt với nguy hiểm chết người khi sinh nhiều con sau người thứ 2 hoặc 3, tỉ lệ chết tăng cao.
+- Ở thời Syrith, khi [[WB_5_SYREN#I. SYREN|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren được chắt lọc sẽ chuyển lên túi Syren, nếu dư thì đào thải ra ngoài phân nước tiểu.
 ### 6) Hệ thống tự chữa trị sinh học từ Syren
 - Với túi Syren bẩm sinh, Veld nhiễm ổn định, hoặc Vessel — khi đã nghe lời trung ương thần kinh/não bộ qua hệ thần kinh thì hệ thống này tạo mạch ma lực để tự khâu các vết thương cho chủ thể khi bị thương/ngắt mạch ma lực khi chủ thể ổn định
 - Sự ổn định và tốc độ hệ thống này phụ thuộc vào thói quen sử dụng túi, tập luyện ,tiềm năng ,dị bản, tài năng từng loài
