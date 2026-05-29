@@ -13,7 +13,8 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 
 ##### Rối cấp cao — liên kết đặc biệt 1-1
 
-Ngoài lưới rối đa phần ở trên, mỗi hạt Syren còn có đúng một liên kết rối đặc biệt 1-1 với một hạt twin cụ thể trong số đó. Ví dụ: hạt Syren số 1 ở vũ trụ này rối cơ bản với toàn bộ Syren số 1 ở 1000+ Syrith-copy khác, nhưng đồng thời có một liên kết cấp cao riêng với Syren số 52 ở một Syrith-copy nhất định — liên kết mà không hạt Syren nào khác chia sẻ. Liên kết cấp cao nổi bật hơn rối cơ bản. Mọi hạt Syren đều có đúng một liên kết rối cấp cao như vậy.Liên kết rối cấp cao này có thể thay thế giữa các Syren twin rối cơ bản khác khi đạt đủ điều kiện tác động cụ thể. (ví dụ chuyển liên kết cấp cao syren1- 52 ra Syren 1-300)
+- Ngoài lưới rối đa phần ở trên, mỗi hạt Syren còn có đúng một liên kết rối 1 chiều đặc biệt 1-1 với một hạt twin cụ thể trong số đó. Ví dụ: hạt Syren số 1 ở vũ trụ này rối cơ bản với toàn bộ Syren số 1 ở 1000+ Syrith-copy khác, nhưng đồng thời có một liên kết cấp cao riêng với Syren số 52 ở một Syrith-copy nhất định — liên kết mà không hạt Syren nào khác chia sẻ. Liên kết cấp cao nổi bật hơn rối cơ bản. Mọi hạt Syren đều có đúng một liên kết rối cấp cao như vậy.Liên kết rối cấp cao này có thể thay thế giữa các Syren twin rối cơ bản khác khi đạt đủ điều kiện tác động cụ thể. (ví dụ chuyển liên kết cấp cao syren1- 52 ra Syren 1-300)
+- Gọi là rối 1-1 một chiều vì syren chỉ nhận thông tin rối twin kia chứ không ngược lại
 #### 3) Syren "hồi" và các trạng thái Syren
 
 - Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)**, có ở thể rắn , lỏng, khí, plasma và "hồi" tùy điều kiện tác động.

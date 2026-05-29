@@ -36,7 +36,6 @@ Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo 
 - Cây có twin cấp cao riêng mang hình thái theo twin của cây. Vessel Phyto cho người dùng kênh để giao lệnh cho cây dùng thông tin dựa trên syren cấp cao bản thân, kênh của cây nhận phản hồi và cây thực hiện giao thức dựa trên phản hồi thông tin đó, khi 2 syren cấp cao của người và cây càng tương thích, càng dễ điều khiển.
 
 #### Flow điều khiển
-
 Người dùng chạm tay hoặc cơ thể vào mặt vách phía mình:
 
 1. Não người dùng tạo ý muốn → tín hiệu thần kinh xuống Syren lõi và túi Syren của bản thân.
@@ -46,7 +45,6 @@ Người dùng chạm tay hoặc cơ thể vào mặt vách phía mình:
 5. Hồi và phản ứng truyền ngược qua vách trở ra mặt người, người dùng tiếp nhận và sử dụng.
 
 #### Mức điều khiển
-
 Ba mức theo độ phức tạp lệnh — sai lệch tăng dần khi lệnh vượt khỏi vùng tương thích twin:
 
 - **Mức đơn giản** — cảm xúc cơ bản (muốn năng lượng, muốn phòng thủ, muốn cành che) + ý chí mạnh. Cây nhận rõ và phản ứng đúng.
