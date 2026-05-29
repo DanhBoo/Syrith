@@ -11,6 +11,8 @@
 - các cá thể sinh học văn minh không thể giao tiếp và phân loài cùng họ của chúng  đã tiến hóa trong thời bị nhiễm Syren. (vd người thằn lằn+thằn lằn)
 ###### Valdren 
 - các cá thể sinh học văn minh có thể giao tiếp cần sống an toàn xoay quanh các thực thể Gaia (vd người mèo+mèo)
+- Phân biệt nguồn gốc bốn nhãn này: xem [[WB_6_Sinh học#e.Giải thích phân hóa văn minh]].
+
 ###### Tardren   
 - các cá thể sinh học văn minh không thể giao tiếp cần sống an toàn xoay quanh các thực thể Gaia (vd người thằn lằn+thằn lằn)
 ###### Anaktor 

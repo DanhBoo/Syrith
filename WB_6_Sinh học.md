@@ -22,9 +22,21 @@
 - Bản thân văn minh nhóm máu lạnh vẫn có liên minh con đầu đàn hoặc lớn hơn giữa những con đầu đàn để chọn ra con đầu đàn mạnh hơn, hòng tăng tỉ lệ sống sót giữa đối chọi với các thế lực văn minh có thể giao tiếp coi chúng là thù địch, chúng tự biết phải đi theo bầy để chống lại các khối văn minh giao tiếp theo bản năng, bản năng ít giết đồng tộc và tiêu diệt kẻ thù cũng từ đây mà ra.
 - Nhóm văn minh côn trùng thường thấy theo văn minh mẫu hệ, con đầu đàn mẹ thường khác biệt ,các con non trung thành bảo vệ lãnh thổ và mẹ chúng và nhóm này thường không thể liên minh.
 - Các nghề nghiệp đặc thù may vá,rèn, sản xuất ứng dụng nhóm này thuộc tầng lớp thấp kém của chúng bị con chúa/đầu đàn phân công nhiệm vụ, quyền lợi không công bằng giữa các cá thể
+> nhóm văn minh không thể trao đổi gồm
+- Norden - các cá thể sinh học văn minh không thể giao tiếp và phân loài cùng họ của chúng  đã tiến hóa trong thời bị nhiễm Syren. (vd người thằn lằn+thằn lằn)
+- Tardren - các cá thể sinh học văn minh không thể giao tiếp cần sống an toàn xoay quanh các thực thể Gaia (vd người thằn lằn+thằn lằn)
 ### d.Giao tiếp cảm nhận sinh vật tự nhiên
 - Loài tiến hóa văn minh có thể trao đổi thì có khả năng hiểu được một số cảm xúc/giao tiếp đơn giản với loài thuần cùng họ với loài đó: ví dụ: người-mèo hiểu được tốt hơn các thú hoang họ mèo,báo..., nhưng cơ bản các loài này có hệ thống cảm xúc họ sẽ hiểu một mức nào đó toàn bộ giống loài khác, mức độ hiểu biết-giao tiếp theo phân tầng :loài có vú>chim>cá>bò sát>côn trùng>thực vật :ví dụ người mèo vẫn hiểu mấy con chuột nghỉ gì một ít dù không cùng họ mèo.
 - Các loài động vật thuần ví dụ như chó ,mèo, ngựa dù gọi là động vật văn minh trên lục địa có thể giao tiếp nhưng chúng không thể hiểu nhanh như sinh vật văn minh, ví dụ chúng có thể biểu đạt: đói ,no, sợ,chạy, ăn nhưng không nhớ. biết mùa đông không nên ra ngoài nhà.
+### e.Giải thích phân hóa văn minh
+- Thời sau thảm họa người văn minh cổ đại bị syren ảnh hưởng đời sống khó khăn trong sinh hoạt và các tiền thân các Gaia,Tatarus phá hầu hết các cơ sở hạ tầng nên văn minh cổ đại dù sau ổn định vẫn chưa biết đến Gaia có thể là nơi sinh hoạt đủ tốt. Sau khi bị phân mảnh đủ nhiều mới có nhiều nhóm nhỏ nhận ra Gaia ổn định phù hợp cho sinh hóa của họ thì họ tập trung quanh Gaia gọi là người Valdren.
+ - Mỗi cộng đồng Gaia ổn định thuộc một trong hai loại: Valdren (giao tiếp được) hoặc Tardren (không giao tiếp). Một Gaia không chứa cả hai văn minh đối địch cùng lúc vì không đủ lớn, nhưng vẫn có thể có một loại thống trị kèm thiểu số loại kia lệ thuộc. Valdren tiêu biểu lập liên minh thành bang; Tardren không lập được liên minh thành bang vì bản năng máu lạnh không cho tin tưởng-liên minh (mục c), thay vào đó tụ thành một tổ/đàn đơn nhất hoặc kim tự tháp con-đầu-đàn quanh Gaia, nên Tardren hiếm hơn.
+- Các loài cổ đại và bộ lạc bên ngoài Gaia thì một là họ không biết tồn tại Gaia ổn định hoặc quá sợ hãi về nó nên không di cư, các cấu trúc xã hội sau nhiều thế hệ chọn lọc tỉ lệ quá thấp dẫn đến mất hầu hết văn hóa tổ tiên nền tảng, do sinh sống khắc nghiệt nhóm này sẽ bị chậm nhịp phát triển cấu trúc xã hội, văn hóa mới hình thành do phải phát triển sinh học nên nhóm này vẫn thuần bộ lạc và liên minh rời rạc, nhóm này gọi là Norden và Korven, sau này  tiến hóa thì Những loài tiến hóa mạnh trong thời Syren ngoài Gaia bị phụ thuộc vào Syren như Korven khi vào vùng Gaia sẽ bị yếu đi nên không vào nữa
+### f.Giải thích phân hóa sinh học
+- Sinh học của các loài động thực vật bậc thấp không phải văn minh thì trong Gaia hầu hết thuộc nhóm sống được cả trong và ngoài Gaia,trừ nhóm phụ thuộc nặng
+- sự phân hóa khác biệt bậc cao và thấp dựa vào việc nhóm có ý thức văn minh khi gặp môi trường không mong muốn mà tìm được môi trường tốt hơn sẽ di cư chứ không ở trong đó. Nên việc nhóm bậc thấp ở bên ngoài bị đẩy vào trong Gaia hay nhóm trong Gaia bị đẩy ra ngoài rìa làm chúng dần có khả năng tiến hóa cả hai khác với nhóm bậc cao.
+- Bậc cao không phải không tiến hóa — họ chuyên hóa sâu hơn vào đúng môi trường đã chọn (Valdren vào vùng sạch Gaia, Korven/Norden vào vùng Syren cao); cái họ thiếu là dung sai kép của bậc thấp. Vì khi gặp môi trường xấu họ né bằng di cư hoặc bằng văn hóa-công nghệ (đun nước, sữa Gaia, Vessel, ngủ đông) thay vì bằng cơ thể, nên áp lực chọn lọc lên sinh lý được giải tỏa và họ đứng yên (đối chiếu "hiệu ứng Bogert" ngoài đời: hành vi né môi trường làm chậm tiến hóa sinh lý). Khi Syren đã ổn định thấm nhuần, lớp đệm văn hóa càng dày nên bậc cao càng không có cơ sở thành generalist như bậc thấp.
+- Vì đề kháng Syren cao (ngưỡng chịu Syren rộng, xem bảng đề kháng [[WB_5_SYREN]]), loài bậc thấp generalist không dính hình phạt sinh sản của Valdren (mục 5) nên sinh sản khỏe. Con mồi săn bắt thuộc nhóm này, đàn hồi phục nhanh — nền kinh tế săn (sàn ~40% dân, xem [[WB_13_Săn bắt & Lãnh thổ thành bang]]) bền vững, không lo cạn quái săn.
 # II) Sinh học lục địa ASTRAEA
 ### 1) Syren lõi
 > Trong cơ thể sinh vật lục địa có mang một hoặc vài Syren đặc biệt ở các trung tâm thần kinh ,thường thấy ở tủy sống gọi là Syren lõi. Syren lõi này liên kết với não bộ qua hệ thần kinh vật chủ nối vào vùng này.
@@ -72,11 +84,9 @@
 - mô thần kinh nối với syren bậc cao của sinh động vật được cho là hết hoạt động hoặc 
 - mạch ma lực nối với syren bậc cao của thực vật nối với cấu trúc cây đã chết
 → túi syren sẽ ngừng chức năng và cấu trúc syren/sinh vật tan dần ra môi trường
-
 ### 3) Phân loại túi và flow cơ chế hoạt động
 
 Các vật chứa (túi) Syren chia hai kiểu theo việc có hay không Syren cấp cao bẩm sinh tại.
-
 **Túi Syren phụ** — chứa Syren và phát mạch ma lực được, không có Syren cấp cao bẩm sinh:
 - [[WB_5_SYREN#II. Kryst, Veld & Nhiễm Syren|Veld nhiễm]] sau Kryst
 - [[WB_9_Vessel#I. Bản chất Vessel|Vessel]] nhân tạo
@@ -85,20 +95,16 @@ Các vật chứa (túi) Syren chia hai kiểu theo việc có hay không Syren 
 - Túi Syren động vật bẩm sinh (mục a trên)
 - Túi Syren thực vật của cây (mục c trên)
 - Bầu đất [[WB_10_Phytor#2. Bầu đất Phytor|Phytor]] bao bọc túi cây sống
-
 ###### Flow điều khiển
 Não bộ chủ thể lưu thông tin ký ức twin từ Syren cấp cao trong túi Syren thực bản thân. Khi muốn vận hành, não kết hợp ký ức twin + ý muốn hiện tại → truyền tín hiệu qua hệ thần kinh, mạch máu, cảm giác → đến nguồn đang vận hành. Từ đây tách hai kiểu:
-
 ###### Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)
 - Túi phụ nhận thông tin từ não qua hệ thần kinh + mạch máu + cảm giác, tạo hồi dùng thông tin twin của túi thực chủ thể. Chậm hơn và yếu hơn so với khi hồi xuất từ chính túi thực, vì thông tin đi đường vòng và bản thân túi phụ thiếu Syren cấp cao tại chỗ.
 - Để giảm độ trễ và tăng độ rõ, túi thực chủ thể có thể nối thẳng một mạch ma lực vào túi phụ — thông tin truyền trực tiếp, ít sai lệch hơn.
 - Hai túi giữ năng lượng riêng. Năng lượng có thể bơm dần qua mạch ma lực giữa hai bên, nhưng chậm và khó.
-
 ###### Kiểu 2 — vận hành túi thực bên ngoài (Verdor nối cây, Phytor)
 - Não chủ thể đẩy thông tin "muốn làm gì" qua mạch ma lực sang túi thực bên ngoài (túi cây).
 - Túi thực bên ngoài có Syren cấp cao riêng, diễn giải thông tin theo cách của nó (twin riêng + bản năng loài), thực hiện theo cách của nó.
 - Não chủ thể thiếu parten về twin của túi bên ngoài nên không nắm chính xác phản ứng ở lệnh chi tiết. Chi tiết mức điều khiển xem [[WB_9_Vessel#Mức điều khiển|Vessel Phyto - Mức điều khiển]].
-
 ### 4) Mạch ma lực
 
 > Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — pha lỏng-coherent trung gian: dòng plasma Syren mật độ thấp duy trì MQC nhờ nguồn cấp liên tục từ túi Syren. Khi nguồn ngắt, sợi tan.
