@@ -2,7 +2,6 @@
 
 **Tổng tuyến Đông-Tây: 2.000 km**
 
-Tham chiếu: Con đường Tơ lụa thật ~6.400 km, hàng hóa qua 5-10 trung gian. Astraea rút ngắn vì:
 
 - Dân số ít → không thị trường trung gian dày đặc
 - Lục địa thực tế nhỏ hơn

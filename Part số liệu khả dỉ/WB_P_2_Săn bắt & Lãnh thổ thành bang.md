@@ -67,7 +67,7 @@ Thú trong Astraea **không sợ người** vì:
 | **Săn đàn** (10+ con)      | 1-3 ngày      | Đặt bẫy lớn, dồn đàn, vây - cần đoàn 10+ người + chuẩn bị  |
 | **Truy vết quái vật**      | 3-7 ngày      | Săn riêng thú đặc biệt, mục tiêu nguyên liệu đặc biệt/dược |
 
-Đoàn truy vết dài ngày là _ngoại lệ_, không phải chuẩn. Đánh đổi: thời gian quý + rủi ro cao đổi lấy thu hoạch lớn hoặc nguyên liệu đặc biệt (sừng wyvern, mật quái, da thú lớn).
+Đoàn truy vết dài ngày là _ngoại lệ_, không phải chuẩn. Đánh đổi: thời gian quý + rủi ro cao đổi lấy thu hoạch lớn hoặc nguyên liệu đặc biệt (sừng wyvern, mật quái, da thú lớn..ect).
 
 ---
 

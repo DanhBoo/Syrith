@@ -1,4 +1,5 @@
 # Tổng quan thế giới Astraea để khách quan reserach nhanh khi dùng tạo sinh
+> vẫn đang hoàn thiện
 
 # A. Nền tảng
 
