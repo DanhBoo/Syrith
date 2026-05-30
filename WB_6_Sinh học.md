@@ -25,6 +25,14 @@
 > nhóm văn minh không thể trao đổi gồm
 - Norden - các cá thể sinh học văn minh không thể giao tiếp và phân loài cùng họ của chúng  đã tiến hóa trong thời bị nhiễm Syren. (vd người thằn lằn+thằn lằn)
 - Tardren - các cá thể sinh học văn minh không thể giao tiếp cần sống an toàn xoay quanh các thực thể Gaia (vd người thằn lằn+thằn lằn)
+
+| Nhóm        | Có thể giao tiếp                           | Cần Gaia |
+| ----------- | ------------------------------------------ | -------- |
+| **Valdren** | ✓ (động vật có vú/chim/cá tiến hoá người)  | ✓        |
+| **Tardren** | ✗ (bò sát máu lạnh)                        | ✓        |
+| **Korven**  | ✓ (đã tiến hoá trong Syren)                | ✗        |
+| **Norden**  | ✗ (đã tiến hoá trong Syren, bộ lạc bò sát) | ✗        |
+
 ### d.Giao tiếp cảm nhận sinh vật tự nhiên
 - Loài tiến hóa văn minh có thể trao đổi thì có khả năng hiểu được một số cảm xúc/giao tiếp đơn giản với loài thuần cùng họ với loài đó: ví dụ: người-mèo hiểu được tốt hơn các thú hoang họ mèo,báo..., nhưng cơ bản các loài này có hệ thống cảm xúc họ sẽ hiểu một mức nào đó toàn bộ giống loài khác, mức độ hiểu biết-giao tiếp theo phân tầng :loài có vú>chim>cá>bò sát>côn trùng>thực vật :ví dụ người mèo vẫn hiểu mấy con chuột nghỉ gì một ít dù không cùng họ mèo.
 - Các loài động vật thuần ví dụ như chó ,mèo, ngựa dù gọi là động vật văn minh trên lục địa có thể giao tiếp nhưng chúng không thể hiểu nhanh như sinh vật văn minh, ví dụ chúng có thể biểu đạt: đói ,no, sợ,chạy, ăn nhưng không nhớ. biết mùa đông không nên ra ngoài nhà.
@@ -36,7 +44,7 @@
 - Sinh học của các loài động thực vật bậc thấp không phải văn minh thì trong Gaia hầu hết thuộc nhóm sống được cả trong và ngoài Gaia,trừ nhóm phụ thuộc nặng
 - sự phân hóa khác biệt bậc cao và thấp dựa vào việc nhóm có ý thức văn minh khi gặp môi trường không mong muốn mà tìm được môi trường tốt hơn sẽ di cư chứ không ở trong đó. Nên việc nhóm bậc thấp ở bên ngoài bị đẩy vào trong Gaia hay nhóm trong Gaia bị đẩy ra ngoài rìa làm chúng dần có khả năng tiến hóa cả hai khác với nhóm bậc cao.
 - Bậc cao không phải không tiến hóa — họ chuyên hóa sâu hơn vào đúng môi trường đã chọn (Valdren vào vùng sạch Gaia, Korven/Norden vào vùng Syren cao); cái họ thiếu là dung sai kép của bậc thấp. Vì khi gặp môi trường xấu họ né bằng di cư hoặc bằng văn hóa-công nghệ (đun nước, sữa Gaia, Vessel, ngủ đông) thay vì bằng cơ thể, nên áp lực chọn lọc lên sinh lý được giải tỏa và họ đứng yên (đối chiếu "hiệu ứng Bogert" ngoài đời: hành vi né môi trường làm chậm tiến hóa sinh lý). Khi Syren đã ổn định thấm nhuần, lớp đệm văn hóa càng dày nên bậc cao càng không có cơ sở thành generalist như bậc thấp.
-- Vì đề kháng Syren cao (ngưỡng chịu Syren rộng, xem bảng đề kháng [[WB_5_SYREN]]), loài bậc thấp generalist không dính hình phạt sinh sản của Valdren (mục 5) nên sinh sản khỏe. Con mồi săn bắt thuộc nhóm này, đàn hồi phục nhanh — nền kinh tế săn (sàn ~40% dân, xem [[WB_13_Săn bắt & Lãnh thổ thành bang]]) bền vững, không lo cạn quái săn.
+- Vì đề kháng Syren cao (ngưỡng chịu Syren rộng, xem bảng đề kháng [[WB_5_SYREN]]), loài bậc thấp generalist không dính hình phạt sinh sản của Valdren (mục 5) nên sinh sản khỏe. Con mồi săn bắt thuộc nhóm này, đàn hồi phục nhanh — nền kinh tế săn (sàn ~40% dân, xem [[WB_P_2_Săn bắt & Lãnh thổ thành bang]]) bền vững, không lo cạn quái săn.
 # II) Sinh học lục địa ASTRAEA
 ### 1) Syren lõi
 > Trong cơ thể sinh vật lục địa có mang một hoặc vài Syren đặc biệt ở các trung tâm thần kinh ,thường thấy ở tủy sống gọi là Syren lõi. Syren lõi này liên kết với não bộ qua hệ thần kinh vật chủ nối vào vùng này.
@@ -126,3 +134,25 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren cấp cao trong t
 >Những loài tiến hóa mạnh trong thời syren nằm ngoài ảnh hưởng Gaia thường bị phụ thuộc vào syren, túi syren để dùng mạch ma lực hoạt động các chức năng tổng quan nói chung, càng tiến hóa mạnh càng bị phụ thuộc vào syren thay thế chức năng bộ phận từ khi sinh ra. Các loài này khi vào trong vùng Gaia sẽ bị yếu đi tương quan với góc độ này.
 >
 >Với hệ thống này có những loài tiến hóa cực hạn syren với góc độ chỉ còn hình dáng hồi syren thay thế các cơ quan là chủ yếu. Gọi là loài bán Syren
+### 7) Đường cong sụp đổ ngoài Gaia
+> Ngoài Gaia, Syren dư tràn vào liên tục buộc cơ thể tống ra không ngừng; khi dàn lọc đuối, Syren ứ lại và kết tinh trong mô. Đường cong sụp đổ vì vậy đi từ quá tải đến hóa đá.
+
+Cơ chế nền: Syren vào người qua khí, nước, da, thức ăn rồi bị phân loại — phần lọc được chuyển lên túi Syren, phần dư đào thải qua phân–nước tiểu (mục 5). Đào thải tốn năng lượng, mà Syren môi trường đẩy thẳng vào lại khó dùng (mục 2a), nên ngoài Gaia cơ thể **lỗ năng lượng ròng**: nạp nhiều, thu lại ít, bơm ra liên tục.
+
+Bốn pha sụp đổ của một cá thể đề kháng hẹp (Valdren) trong vùng Syren dày:
+
+| Pha | Trong người | Cảm giác |
+| --- | --- | --- |
+| 1. Quá tải | Túi Syren đầy nhanh, gan–thận–cơ quan lọc độc chạy hết công suất | Nặng, tức, đầy; chỗ túi Syren trên da nóng ran, châm chích |
+| 2. Lao lực | Bơm Syren ra không ngừng, đốt dự trữ nhanh hơn thu vào | Mệt rã như lao động nặng không dừng, buồn nôn, đi tiểu liên tục |
+| 3. Cạn kiệt | Hết năng lượng để đào thải; dự trữ Syren tụt thấp | Đầu mụ, dễ dính [[WB_7_Năng lực#II. Ảo thuật|ảo thuật]] và [[WB_7_Năng lực#III. Nguyền rủa|nguyền]] vì ít Syren thì khó đào thải |
+| 4. Kết tinh | Syren ứ lại không tống được nữa, bắt đầu **Kryst trong mô** | Cứng người, hóa đá từ bên trong — đau và thấy được, không phải giấc ngủ |
+
+Điểm chết là Kryst từ bên trong, cùng kiểu hít bụi Luminar gây [[WB_5_SYREN#II. Kryst, Veld & Nhiễm Syren|Kryst]] trong phổi.
+
+Biến số kéo dài hay rút ngắn đường cong:
+- Đề kháng loài: Valdren ngưỡng hẹp, xuống nhanh; Korven ngưỡng rộng, sống khỏe ngoài đó nhưng vào Gaia lại yếu đi (mục f). Xem bảng đề kháng [[WB_5_SYREN]].
+- luyện quen: cơ thể luyện quen thì đào thải hiệu quả và chịu Kryst cao hơn. (Năng lượng thay thế từ túi ở mục 2b là cho lúc Syren khan, không gỡ được quá tải.)
+- Mang thai: Valdren mang thai suy giảm thải độc (mục 5) nên tụt pha nhanh hơn hẳn.
+
+Gỡ đường cong: vào [[WB_7_Năng lực#IV.Ngủ đông|ngủ đông]] để cơ thể tự đẩy Syren tác động xuống ~25-50% như vùng [[WB_5_SYREN#III. Bảng trạng thái chi tiết|Gaia ảnh hưởng]] dù môi trường ngoài là baseline 100% — dàn lọc khỏi chạy, không tích mệt, không tiến tới Kryst. Ứng dụng vào di chuyển dài ngày: [[WB_11_Ngủ đông thương mại]].

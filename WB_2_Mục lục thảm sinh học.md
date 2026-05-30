@@ -93,6 +93,22 @@ _Phân bố môi trường:
 - **Hoang dã vs nuôi nhốt:** Nuôi nhốt
 _Ứng dụng:
 - làm enzim yếu dần — nước vẫn bớt Syren nhưng không đủ để uống trực tiếp, vẫn cần nấu.
+#### Voi bụng lớn 
+_Hình dạng & loài & đặc điểm: 
+- Bộ có vòi, thú bốn chân có vòi, thuộc nhóm [[WB_6_Sinh học#6) Hệ thống tự chữa trị sinh học từ Syren|bán Syren]] cực đại — phần lớn cơ quan đã bị hồi Syren thay thế.
+- Phần còn lại không phải Syren chỉ gồm các cơ quan duy trì trao đổi chất và nòi giống: não, miệng, dạ dày, cơ quan sinh sản, tai, mũi, cơ quan lọc độc.
+- Không có mắt. Định vị bằng sóng âm phát qua mũi/vòi và thu qua tai.
+- Trên lưng có một lõi Syren ([[WB_6_Sinh học#a) Túi Syren|túi Syren thực]]) trồi rõ — đầu mối để cộng sinh điều hòa Syren.
+- Trong thân có một khoang bụng Syren chứa dịch, tách biệt với dạ dày. Đây là phần xẹp xuống đầu tiên mỗi khi chúng phun Syren.
+- Phun Syren xong thì cơ thể teo lại cho tới khi tích nạp đủ trở lại.
+- Thuần hóa cộng sinh bằng cách dụ thức ăn ưa thích (cỏ, hoa).
+_Phân bố môi trường: 
+- Sống ở các vùng gần rìa Gaia, ranh giới giữa vùng sạch và vùng nhiễm. Ở đó các loài lạ chưa quen Syren, nên đòn phun Syren của chúng phát huy tối đa.
+- Phòng vệ bằng cách phun Syren vào loài lạ như một thứ vũ khí rồi bỏ chạy, hiếm khi dùng hồi.
+- Nhát gan, hoảng loạn khi tới gần biển và không chịu lên tàu — chỉ dùng được trên đường bộ.
+_Ứng dụng:
+- Phương tiện carry người qua các vùng không Gaia bằng đường bộ — bù cho điểm yếu của tuyến biển (xem [[WB_11_Ngủ đông thương mại]]).
+
 # V. Khoáng sản
 
 #### Auren

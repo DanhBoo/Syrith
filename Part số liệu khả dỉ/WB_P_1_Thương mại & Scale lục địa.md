@@ -1,6 +1,6 @@
 # I. Khoảng cách Đông-Tây
 
-**Tổng tuyến Đông-Tây đề xuất: 2.500-3.500 km**
+**Tổng tuyến Đông-Tây: 2.000 km**
 
 Tham chiếu: Con đường Tơ lụa thật ~6.400 km, hàng hóa qua 5-10 trung gian. Astraea rút ngắn vì:
 
@@ -8,7 +8,7 @@ Tham chiếu: Con đường Tơ lụa thật ~6.400 km, hàng hóa qua 5-10 trun
 - Lục địa thực tế nhỏ hơn
 - Cần đủ dài để biện minh giá thương mại cao
 
-Với 2.500-3.500 km: đường biển 30-50 ngày, đường bộ 80-120 ngày một chiều.
+Với 2.000 km: đường biển 17-25 ngày, đường bộ 50-67 ngày một chiều.
 
 ---
 
@@ -28,18 +28,18 @@ Với 2.500-3.500 km: đường biển 30-50 ngày, đường bộ 80-120 ngày 
 
 # III. Thời gian chuyến đi điển hình
 
-Giả định tuyến Đông-Tây ~3.000 km:
+Giả định tuyến Đông-Tây 2.000 km:
 
 |Hình thức|Một chiều|Khứ hồi|Chuyến/năm|
 |---|---|---|---|
-|Tàu đại dương (90 km/ngày)|~33 ngày|~70 ngày|3-4|
-|Tàu ven biển (70 km/ngày)|~43 ngày|~90 ngày|2-3|
-|Đoàn lạc đà (40 km/ngày)|~75 ngày|~150-180 ngày|1-2|
-|Đoàn chậm (30 km/ngày)|~100 ngày|~210 ngày|1|
-|Hỗn hợp tàu + lạc đà|~50-60 ngày|~120 ngày|2-3|
+|Tàu đại dương (90 km/ngày)|~22 ngày|~50 ngày|5-6|
+|Tàu ven biển (70 km/ngày)|~29 ngày|~65 ngày|4-5|
+|Đoàn lạc đà (40 km/ngày)|~50 ngày|~110-130 ngày|2-3|
+|Đoàn chậm (30 km/ngày)|~67 ngày|~140 ngày|2|
+|Hỗn hợp tàu + lạc đà|~35-45 ngày|~80-100 ngày|3-4|
 
-- Thương nhân biển: 2-3 chuyến Đông-Tây/năm
-- Thương nhân đường bộ chuyên: 1 chuyến/năm (xuân-hè đi, thu về, nghỉ đông)
+- Thương nhân biển: 4-5 chuyến Đông-Tây/năm
+- Thương nhân đường bộ chuyên: 2 chuyến/năm (xuân-hè đi, thu về, nghỉ đông)
 
 ---
 
@@ -71,9 +71,9 @@ Với khoảng cách thành bang ~30-60 km, một "country" thường là liên 
 |Country trung (Thyria, Persia-yellow)|~150-250 km|5-10|60-120 nghìn|
 |Country lớn (Luweh-China, Aetum cũ)|~300-500 km|10-20|150-400 nghìn|
 
-Tuyến Đông-Tây 3.000 km: ước **6-8 country đứng cạnh nhau**. Mỗi country đi xuyên qua mất 1-2 tuần đường bộ.
+Tuyến Đông-Tây 2.000 km: ước **4-6 country đứng cạnh nhau**. Mỗi country đi xuyên qua mất 1-2 tuần đường bộ.
 
-**Tổng dân Valdren lục địa**: 700.000 - 1.2 triệu (chưa kể Korven ngoài).
+**Tổng dân Valdren lục địa**: 500.000 - 1 triệu (chưa kể Korven ngoài).
 
 Liên minh dựa vào trao đổi tài nguyên - mỗi nước không thiếu lương thực (tự đủ qua săn + nông tối thiểu), chỉ thiếu tài nguyên đặc thù vùng khác.
 
@@ -109,5 +109,4 @@ Dân số ít + tàu nhỏ + chuyến dài → quy mô cảng nhỏ hơn lịch 
 |Cảng nhỏ (đảo phụ, Persia ven biển)|1-3 tàu|3-7 nghìn|Trạm ghé, không phải đích chính|
 
 Tham chiếu: Venice thực thời đỉnh có cả trăm tàu/tháng. Astraea-Venice với dân số 1/10 thì 10-20 tàu/tháng tương xứng - vẫn sầm uất so với phần còn lại.
-
-**Tổng tàu buôn đại dương hoạt động cùng lúc trên cả lục địa: ~80-150 tàu**. Một tàu mất tích = sự kiện lớn cả lục địa biết.
+ 

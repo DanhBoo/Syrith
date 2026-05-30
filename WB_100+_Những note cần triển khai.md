@@ -66,3 +66,29 @@ GAia scifi là dạng khai phá triết học, đóng cửa nghiên cứu sự k
 
 tối cần chốt: có bao nhiêu tuyến liên quan map(giờ có masqura)
 story, cái để focuslens
+
+dựa vào cốt truyện trong Story Danh và setting thế giới worldbuidingbase, t muốn có ý tưởng về chuyến hành trình của antonio và esmet, cần có mục tiêu hành trình và biến cố hợp lý, có thể thử thách và giải đố để đánh bại xương cuồng (gaia điên) có ý tưởng về antonio và esmet sẽ cần tìm cách vượt các khu vực ngoài Gaia
+một thương nhân tên là Polo đã
+
+đọc world buidling base rồi phân tích
+khi vượt biển chỉ những tộc có khả năng ngủ đông khi bị áp lực syren mới vượt được biển bằng đường thương mại, nhóm ngủ đông này kiểu vượt nơi xa ngoài gaia bằng cách khi đi nhóm có đội ngũ đông và đội thức, đội thức thì thay phiên nhau sử dụng các mảnh gaia cuốn trong giấy kín để đóng băng nó,mở hạn chế sẵn mở ra để tạo vùng an toàn cho sinh học để di chuyển kéo hàng hóa và nhóm ngủ đông, khi tới các trạm nghỉ thì mở nhiều gói Gaia hơn  ,tối ưu là có thể phải viết kỹ phần sinh hóa này cho họ buộc làm thế để có thể họp nhau vào 1 buổi ví dụ như tối  ăn chung để trao đổi thông tin nhóm ngủ đông và không ngủ đông để tạo cảm giác đồng đội một chút, khí đó nhóm không ngủ đông bữa đó gọi nhóm ngủ đông dậy để hồi sức sinh hóa trong vùng gaia thanh lọc, cả hai tạo một vùng đủ dày các mảnh Gaia để các cơ quan sinh học của nhóm Gaia họ hoạt động bình thường
+
+khi gặp biến giữa đường thì đánh thức nhóm ngủ đông cách nào đó để phòng vệ với nền tảng vậy thì ngủ đông làm chậm đóng băng quá trình trao đổi chất, giúp họ dễ đi xa hơn còn nếu người thường thì sẽ bị tốn tài nguyên mảnh gaia liên tục để an toàn, t nghĩ cần một bảng cơ chế hợp lý có thể dựa vào tham khảo "WB_12" để xem scale di chuyển lục địa không Gaia xa cở nào để đủ giới han nhóm người không ngủ đông không tự mình đi được vì vác quá nhiều hành lý ,có thể tham khảo "WB_13" để biết vận tốc thồ hàng là bao nhiêu xem trong "wb_4" để biết đi xa một mảnh nhỏ Gaia là thì mang vác bao nhiêu mảnh được bao lâu, đủ để các thông số làm được :nhóm thương nhân ngủ đông tối thiểu 2 người luân phiên đi xa có lãi (trừ đi khối lượng phí carry các thớ gỗ Gaia) còn nhóm không ngủ đông thì không hợp lý không có lãi đủ để tạo được họ chỉ có thể nhờ nhóm thương nhân gặm nhấm ngủ đông này khi thương mại
+
+nếu muốn chuyển nhân khẩu những người muốn sang đông tây hoặc đường xa gaia thì sẽ có các cách khác
+
+> có một loại quái vật ngoài gaia có thể cộng sinh, thuộc nhóm bán Syren trong mục II) phần 6 của WB_6, để chở carry qua các vùng không Gaia này bằng đường bộ
+-  loài quái này có tên là "Voi bụng lớn" trong WB 2, loài này thì là 1 trong nhóm bán syren cực đại hình dạn một con thú 4 chân có vòi, phần không syren của chúng gồm não bộ, miệng, dạ dày, cơ quan sinh sản,tai,mũi,lọc độc các cơ quan để trao đổi chất và duy trì thế hệ sau chúng không có mắt, dùng âm thanh để tạo sóng âm để định vị vật thể qua tai
+- những con quái này chúng dùng syren như vũ khí phun syren vào loài khác chứ không mấy khi dùng hồi, rồi bỏ chạy, sinh sống gần các vùng rìa gaia để phù hợp với khả năng phun vào các loài không quen thuộc syren dễ bề phòng vệ hơn, phần syren được phun thì làm chúng teo lại
+- những thương nhân tìm thấy chúng dụ dỗ và thuần hóa cộng sinh bằng cho chúng ăn thức ăn yêu thích (cỏ, hoa gì đó) 
+- khi muốn carry người thì người cần carry dùng mạch ma lực chạm vào lõi syren trên lưng chúng để chúng hiểu và giúp syren trên người chúng không gây ảnh hưởng xấu đến người muốn carry
+- khi syren người chúng an toàn , người muốn carry chui thẳng vào bên trong bụng syren của chúng, phần bụng này không đụng trúng dạ dầy, thường là phần xẹp xuống đầu tiên khi chúng phun syren
+- ý tưởng là người được carry sẽ ngủ mê mệt trong bụng chúng/ phần nước của chúng có thể có oxy hoặc tìm cách sao để người trong đó không sao, phần nước tiểu có khi được gan chúng lọc lúc ngủ mê man
+- người được carry có thể cũng phải được cho tỉnh dậy vào cuối ngày để ăn uống trao đổi chất chẳng hạn, họ sẽ bị như say xe và buôn nôn vì thở lại như bình thường khác với hấp thụ oxy qua da, qua đường ăn uống syren như trong cơ thể con voi này
+- khi chúng quá hoảng sợ chúng cũng tự không giữ người carry mà xổ nước vứt đi và bỏ chạy
+- cách đánh thức người carry thì chỉ cần thoát ra ngoài gặp không khí thì tự tỉnh dậy ói ra syren và say xỉn
+- chúng nhát gan nên k đi được tàu và phát rồ gần biển nên k thể mang chúng ổn định chỉ có thể carry trên biển
+
+
+vậy thì t cần m phân tích điền thông tin con quái voi này gọn gàng nhưng đầy đủ  vào WB_1 phần có con voi ấy
+phân tích điền về loài gặm nhấm và cách thức vận chuyển/ngủ đông, thông số phân tích giải quyết các vấn đề trên điền vào WB_16

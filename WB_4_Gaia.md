@@ -9,23 +9,7 @@
 - "Linh hồn Gaia" ảnh hưởng trực tiếp đến sức mạnh lan rộng của Gaia, có thể xem nó là **năng lượng** thực thể Gaia.
 - Bộ rễ nếu trong khi phát triển vượt quá kích thước tương quan từng phân loài của từng loại "linh hồn Gaia" chúng sẽ **tự mục ruỗng**.
 - Mọi phần trên thân các Gaia đều có khả năng thanh lọc một vùng [[WB_5_SYREN#I. SYREN|Syren]]. Nếu cắt bỏ hay rụng một phần tách ra khỏi cây chủ thể thì phần thân cắt rời này đều có khả năng thanh lọc Syren. Chúng trao đổi chất, hô hấp với môi trường bên ngoài để tiếp tục thanh lọc Syren xung quanh cho đến khi hết năng lượng trong mô của phần cắt rời đó.
-- Khi bị bịt kín (ví dụ như cuốn vải vài lớp), phần thân cắt rời này sẽ **tạm ngủ đông** và ngừng tiết năng lượng trao đổi chất. Khi bị tác động kích thích (ví dụ như đổ Syren vào lại) thì phần này lại tiếp tục chu trình thanh lọc đến khi hết năng lượng.
-  
-	Thời gian thanh lọc ngoài môi trường:
 
-| Phần          | Thời gian |
-| ------------- | --------- |
-| Linh hồn Gaia | ~1 ngày   |
-| Thân gỗ / rễ  | ~vài giờ  |
-| Lá            | ~vài phút |
-
-	Khi bảo quản trong đất có dinh dưỡng
-
-| Phần          | Thời gian |
-| :------------ | :-------- |
-| Linh hồn Gaia | ~1 tuần   |
-| Thân gỗ / rễ  | ~1 ngày   |
-| Lá            | ~vài giờ  |
 
 ### Cơ chế phòng thủ
 > "Linh hồn Gaia" rất giàu dinh dưỡng, khi quá lớn chúng sẽ thu hút các loài thú như **rồng, wyvern, sâu khổng lồ.. tấn công chính chúng. 
