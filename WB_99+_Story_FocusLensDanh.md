@@ -88,3 +88,7 @@ Tiên tri ở lục địa không nhiều, các faction không đủ nhân lực
 - Gia đình ruột ở Darian: còn sống / chết / có em ruột — tùy plot khi viết chi tiết.
 - Em (con bà dì) ở Sarvel: vai cụ thể "kiệt xuất cho nền móng Sarvel" — tướng quân / học giả / kỹ sư Vessel / khác.
 - Vua Darian (sau khi bị cắt khỏi vách ngăn): tỉnh lại đối mặt tội ác hay chết.
+
+
+
+faction
