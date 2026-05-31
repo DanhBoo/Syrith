@@ -19,7 +19,7 @@ Bầu đất giữ linh hồn ở trạng thái nghỉ — Linh hồn thực v�
 ### 3. Thuật ngữ chung
 
 - **Pronunciation:** FY-tor
-- **Vibe:** Vũ khí công nghiệp, gọn, một lần dùng.
+- **Vibe:** Vũ khí công nghiệp, một lần dùng.
 - **Thuật ngữ thông dụng:** Phytor
 - **Thuật ngữ đường phố:** "súng cây", "bình hoa", "nòng vườn"
 

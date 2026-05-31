@@ -15,7 +15,7 @@ Theo nguồn Syren mà vách kết nối, Vessel chia hai dạng:
 Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo hướng đảm nhiệm chức năng khác nhau:
 
 1. **Cách ly sinh học** — chặn Syren bên trong tiếp xúc trực tiếp với mô người dùng, thay cho việc khâu mạch ma lực vĩnh viễn vào mô sống như [[WB_5_SYREN#II. Kryst, Veld & Nhiễm Syren|Kryst/Veld nhiễm]] tự nhiên gây ra.
-2. **Cầu mạch ma lực hai chiều** — vách cho phép mạch ma lực đi xuyên qua: chiều vào kích thích nguồn, chiều ra mang hồi và năng lượng phản ứng tới người dùng.
+2. **Cầu mạch ma lực — vách cho phép mạch ma lực đi xuyên qua: chiều vào kích thích nguồn, chiều ra mang hồi và năng lượng phản ứng tới người dùng.
 
 ### 4. Vessel Crysto
 
@@ -93,12 +93,7 @@ Sử dụng nhiều Vessel đòi hỏi người dùng có huấn luyện đặc 
 - đun cô đặc **30 phút** cho sệt lại.
 
 	Bước 5: Phù thủy tráng vách ngăn
-- Phù thủy dùng dung dịch này để tráng lên lớp **lõi thô "Luminar an toàn"**, tinh chỉnh bằng **bàn chải quét** và **bút kim khắc** để:
-- Lớp tráng dày mỏng.
-- Độ phủ hay độ áp lực lớp tráng bằng cách khắc lỗ. Sao cho phù hợp với mục tiêu sử dụng Vessel
-- Quy trình này phù thủy **cảm nhận ma lực chảy qua lại** để xác định và định hình lớp tráng. 
->Sau cùng hoàn thiện bộ lõi sẽ có những vết khắc kì quái của phù thủy — được xem như **chữ ký của họ**.
-
+- Phù thủy dùng dung dịch này để tráng lên lớp **lõi thô "Luminar an toàn"**, tinh chỉnh bằng **bà 
 ### 2. Thời gian sản xuất
 
 | Loại Vessel | Thời gian khắc |

@@ -141,7 +141,7 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 - Nhánh tiến hóa mới thay thế Syrith.
 
 	Kết B — Astraea bị nuốt chửng
-- Một Gaia chiếm ưu thế tuyệt đối. Luweh thử nghiệm trên Gaia bị Gaia nuốt chửng
+- Một Gaia chiếm ưu thế tuyệt đối. Lục địa bị Gaia nuốt chửng
 - Mọi văn minh khác bị xóa sổ
 
 	Kết C — Syrith chấm dứt

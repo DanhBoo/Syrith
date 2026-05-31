@@ -8,8 +8,3 @@ Endmin tới và nhận ra lục địa này syren vô cùng dày đủ để si
 LẬp các trạm scifi chức năng (tiếp tế)
 Có thể em của antonio là một tiên tri sinh ra thời Vua Darian nổi loạn, Endmin tới thời điểm này, các thành bang cố hình thành liên minh chống lại Darian, khó có thành bang nào hiểu về Syren mật độ tăng, chỉ có eldryn với bề dày lịch sử giúp cho Endmin và Sarvel giúp a có tiên tri Gioan làm người đi theo để chứng kiến mọi sự
 Eldryn
-trạm gì (trung chuyển? )
-gaia nhân tạo, cần năng lượng bơm vào và tụi văn minh khác không tạo ra được OPT
-
-TRẠM nghiên cứu
-tới con voi
