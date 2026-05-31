@@ -21,8 +21,6 @@ Nhà Tiên Tri thường ở trong trạng thái thiền định để đủ t�
 # IV.Ngủ đông
 - Là trạng thái phòng vệ của loài khi môi trường syren liên tục cơ thể phải lọc và gây kiệt sức, ngủ đông giúp tránh trao đổi chất tạm thời giúp trạng thái trước và sau khi ngủ không khác biệt
 
-# V. Hồi máu
-Là quá trình trích xuất thông tin syren cơ bản của twin để mô phỏng bằng hồi trạng thái trước khi bị thương của cơ thể mục tiêu, khi hồi thì có  thời gian cầm máu, vết thương, xem xét trạng thái lành lặn mấu cơ và trạng thái thông tin cơ thể vết thương, độc tố trước khi bị thương để đưa ra giải pháp và y tế sau đó. Hồi cũng giúp cầm máu và giữ chủ thể mục tiêu ổn định hơn
 
-# VI. Phù thủy
-Là nhánh người sử dụng mạch ma lực tốt
+# V. Phù thủy
+Là nhánh người cảm nhận về hồi và dụng mạch ma lực điêu luyện

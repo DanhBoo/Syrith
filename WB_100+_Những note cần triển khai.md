@@ -92,3 +92,51 @@ nếu muốn chuyển nhân khẩu những người muốn sang đông tây ho�
 
 vậy thì t cần m phân tích điền thông tin con quái voi này gọn gàng nhưng đầy đủ  vào WB_1 phần có con voi ấy
 phân tích điền về loài gặm nhấm và cách thức vận chuyển/ngủ đông, thông số phân tích giải quyết các vấn đề trên điền vào WB_16
+
+
+
+[TÌM ĐỒNG SÁNG TÁC — WORLDBUILD SYRITH]
+
+Tưởng tượng một thế giới sau thảm họa, nơi muốn uống nước tự nhiên 
+bạn phải đun nóng trên 30°C hoặc ướp lạnh dưới 12°C. Vì trong 
+khoảng giữa, một chất tên Syren bám vào cơ thể và kết tinh mô 
+người thành crystal sắc nhọn.
+
+Cả nền ẩm thực, kinh tế, mùa di cư của lục địa xoay quanh hai thái 
+cực này: lẩu nóng bốc khói hoặc đồ ướp lạnh ngậm đá. Mùa đông là 
+mùa duy nhất an toàn hơn để khai phá đường mới.
+
+Chất gây thảm họa là Syren — tàn dư từ thuở vũ trụ còn nén một 
+điểm. Sau Big Bang, vũ trụ giãn ra thành vô số vũ trụ song song, 
+mỗi cái chứa một bản sao khác của bạn. Mỗi hạt Syren trong người 
+bạn vẫn nối với một bản sao đó.
+
+Không phải rối dạng Tam Thể — gần với đa vũ trụ của Doctor Strange 
+hơn. Tiên tri = đọc trộm ký ức bản sao đang sống ở tương lai 
+nhanh hơn bạn. Hồi máu = phục dựng cơ thể từ bản sao trước khi bạn 
+bị thương.
+
+Setting kĩ hơn thì trong doc nhưng là một dạng hard fantasy trung cổ
+
+Về mình
+Họa sĩ + concept game từng trong mảng outsourc về game AAA, hiểu về AI và sense về game/người 
+đọc/người chơi. Đã dựng được 8 doc canon, bản đồ, concept art, character 
+library. Không phải nhà văn chuyên — và đó là lý do mời bạn vào.
+
+Tìm ai
+tìm ~3 người người thích viết
+ nếu là viết báo, truyện ngắn, kịch bản phim, kịch bản TVC là điểm mạnh. Bạn 
+chọn một "focus lens" — một góc nhìn, một nhân vật, một vùng — và 
+đào sâu theo cách riêng. Chúng ta sẽ giúp nhau điều đó
+Của mình thì hiện đang là
+focus lens dạng hành trình văn hóa dạng ba tư đi qua hy lạp, venice giao và tiến về phía đông Việt nam
+
+Quyền lợi
+Phần bạn đóng góp, bạn toàn quyền dùng cho dự án sáng tác cá nhân 
+về sau: truyện ngắn, novel, kịch bản, comic, podcast. Không bắt 
+credit, không chia lợi nhuận. Mỗi thế giới là một góc nhìn riêng 
+của tác giả.
+Khi chung một systerm thì điểm thú vị là tính giao thoa giữa tác phẩm với nhau
+
+ Inbox cho mình, mình gửi ít brief một trích 
+đoạn để bạn cảm trước.

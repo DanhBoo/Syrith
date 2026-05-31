@@ -33,7 +33,7 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 
 Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]], syren từ đá [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]] phân tán hầu hết toàn bộ vào nước, chất lỏng, không khí ở lục địa, làm cho tiêu chuẩn nước/chất lỏng/không khí ở lục địa thời Syrith được văn minh đây liên tưởng đến nhiễm Syren
 
-> Kryst xảy ra khi sinh vật bị nhiễm năng lượng Syren từ bên ngoài. Syren bám dính chặt vào điểm tiếp xúc và **tự sinh mạch ma lực bất ổn định** đâm rễ vào mô sinh học của nạn nhân sau đó, chúng đẩy năng lượng syren vào cơ thể bất chấp  — phần tiếp xúc bị tổn thương **hoạt hóa thu hút Syren xung quanh hội tụ về**, khiến Crystal Kryst lớn dần theo thời gian. Mô vật chủ tổn thương cấp. Đây là **trạng thái bùng phát**.
+> Kryst xảy ra khi sinh vật bị nhiễm năng lượng Syren từ bên ngoài. Syren bám dính chặt vào điểm tiếp xúc và **tự sinh mạch ma lực bất ổn định** đâm rễ vào mô sinh học của nạn nhân sau đó, chúng đẩy năng lượng syren vào cơ thể bất chấp  — phần tiếp xúc bị tổn thương **hoạt hóa thu hút Syren xung quanh hội tụ về**, khiến Crystal Kryst lớn dần theo thời gian. Mô vật chủ tổn thương cấp. Đây là trạng thái bùng phát Vì cần neo ổn định để đâm rễ, Kryst chỉ khởi phát ở **bề mặt đứng yên đủ lâu** — bề mặt đang chuyển động hoặc bị nước cuốn liên tục thì Syren không bám neo được.
 > 
 > Veld là giai đoạn Kryst dừng bùng phát và mạch ma lực ổn định nối được với hệ thần kinh vật chủ- não bộ đã tiết enzim ức chế để chúng ngừng hoạt hóa mất tự chủ—  Crystal chuyển sang hóa thành dạng tròn/oval/vuông ít sắc cạnh, chậm thu hút Syren mới. liên tục đẩy năng lượng vào vật chủ
 - Bản tính Syren,Kryst,Veld có tính vá víu và sửa đổi cấu trúc cho vật chủ tiếp xúc bền chặt hơn
@@ -63,21 +63,22 @@ Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]]
 
 >uống hoặc ăn ngưỡng nguy hiểm Syren tùy đề kháng từng loài sẽ làm các sinh vật không hấp thụ được và bị "nhiễm Syren"
 >chạm tiếp xúc ngưỡng nguy hiểm Syren tùy đề kháng từng loài làm các sinh vật bị "nhiễm Syren"
+>Kryst chỉ neo được khi điểm tiếp xúc **đứng yên đủ lâu** để Syren bám và đâm mạch ma lực (xem mục II).
 
 Bảng dưới phản ánh về mức đề kháng tiếp xúc loài văn minh Valdren, Tardren với Syren 
 
 ### (Baseline) — Syren 100%
 
-| <12°C   | Không hoạt tính    | an toàn                                                     |
-| ------- | ------------------ | ----------------------------------------------------------- |
-| 12-18°C | Hoạt tính nhẹ      | chạm OK chạm lâu chục giây gây hoạt tính yếu, không hấp thu |
-| 18-25°C | Hoạt tính mạnh,bám | Cực nguy hiểm, đá lumniar hoạt tính yếu khi chạm ở dạng này |
-| 25-30°C | Hoạt tính nhẹ      | chạm OK chạm lâu chục giây gây hoạt tính yếu, không hấp thu |
-| > 30°C  | Không hoạt tính    | an toàn                                                     |
+| <12°C   | Không hoạt tính    | an toàn                                                                      |
+| ------- | ------------------ | ---------------------------------------------------------------------------- |
+| 12-18°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                        |
+| 18-25°C | Hoạt tính mạnh,bám | Cực nguy hiểm, Ngâm yên = Kryst đá lumniar hoạt tính yếu khi chạm ở dạng này |
+| 25-30°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                        |
+| > 30°C  | Không hoạt tính    | an toàn                                                                      |
 ví dụ đơn giản:
-nhiệt độ tắm ấm như người hiện đại (35-42°) an toàn
-nước bình thường nhiệt đới: (22–28°C) nguy hiểm
-nước bình thường ôn đới: (8-18) chạm lâu hoạt tính yếu, không thể hấp thu
+nhiệt độ tắm nước ấm như người hiện đại (35-42°) an toàn
+Nước nhiệt đới ngâm tĩnh (22–28°C): nguy hiểm nếu **nằm/ngâm bất động** lâu 
+Nước ôn đới (8–18°C): ngâm yên lâu mới hoạt tính yếu, không hấp thu
 nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại ăn uống (0–10°C) an toàn
 
 	Bữa ăn cá nhân = ăn nhanh
@@ -92,13 +93,13 @@ nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại
 → Bảng nhiệt độ **gần như không áp dụng**. Đây là thánh địa.
 ### (Gaia ảnh hưởng) — Syren ~25-50%
 
-| Nhiệt độ    | Hoạt tính pha lỏng | Hệ quả                                                                                                                                 |
-| ----------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| < 12°C      | Không hoạt tính    | An toàn                                                                                                                                |
-| 12-18°C     | Hoạt tính nhẹ      | Tương đối an toàn nếu < 15 phút, hơn 15 phút gây hoạt tính yếu, không hấp thu                                                          |
-| **18-25°C** | **Nhẹ-trung bình** | Khó chịu chạm OK chạm lâu chục giây gây hoạt tính yếu, tiếp xúc kéo dài > 15 phút thì Kryst ,lumniar hoạt tính yếu khi chạm ở dạng này |
-| 25-30°C     | Hoạt tính nhẹ      | Tương đối an toàn nếu < 15 phút, hơn 15 phút gây hoạt tính yếu, không hấp thu                                                          |
-| > 30°C      | Không hoạt tính    | An toàn                                                                                                                                |
+| Nhiệt độ    | Hoạt tính pha lỏng | Hệ quả                                                                                             |
+| ----------- | ------------------ | -------------------------------------------------------------------------------------------------- |
+| < 12°C      | Không hoạt tính    | An toàn                                                                                            |
+| 12-18°C     | Hoạt tính nhẹ      | Ngâm yên < 15 phút tương đối an toàn, hơn 15 phút gây hoạt tính yếu, không hấp thu                 |
+| **18-25°C** | **Nhẹ-trung bình** | Vận động/tắm OK; **ngâm yên bất động> 15 phút thì Kryst ,lumniar hoạt tính yếu khi chạm ở dạng này |
+| 25-30°C     | Hoạt tính nhẹ      | Ngâm yên < 15 phút tương đối an toàn, hơn 15 phút gây hoạt tính yếu, không hấp thu                 |
+| > 30°C      | Không hoạt tính    | An toàn                                                                                            |
 ## IV.  Túi Syren mặc định trên cá thể
 
 >Tóm tắt: Có một dạng túi Syren đặc biệt mặc định từ lúc sinh ra trên cơ thể chủ thể, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Túi Syren]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.
