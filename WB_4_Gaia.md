@@ -7,7 +7,7 @@
 - Gaia là các loài có kích thước khủng bố hoặc tiền thân chúng là như vậy nên chúng có tính allelopathy mạnh. Chúng tạo ra hợp chất enzim ức chế đất đặc thù khi bộ rễ vươn tới, làm cho đa số loài cây xung quanh không sống được.
 - "Linh hồn Gaia" ảnh hưởng trực tiếp đến sức mạnh lan rộng của Gaia, có thể xem nó là **năng lượng** thực thể Gaia.
 - Bộ rễ nếu trong khi phát triển vượt quá kích thước tương quan từng phân loài của từng loại "linh hồn Gaia" chúng sẽ **tự mục ruỗng**.
-- Mọi phần trên thân các Gaia đều có khả năng thanh lọc một vùng [[WB_5_SYREN#I. SYREN|Syren]]. Nếu cắt bỏ hay rụng một phần tách ra khỏi cây chủ thể thì phần thân cắt rời này đều có khả năng thanh lọc Syren. Chúng trao đổi chất, hô hấp với môi trường bên ngoài để tiếp tục thanh lọc Syren xung quanh cho đến khi hết năng lượng trong mô của phần cắt rời đó.
+- Mọi phần trên thân các Gaia đều có khả năng thanh lọc một vùng [[WB_5_SYREN#I. SYREN|Syren]]. Nếu cắt bỏ hay rụng một phần tách ra khỏi cây chủ thể thì phần thân cắt rời này đều có khả năng thanh lọc Syren trong vài giây, phút, giờ.
 
 
 ### Cơ chế phòng thủ
