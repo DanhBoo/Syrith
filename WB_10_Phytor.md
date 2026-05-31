@@ -3,7 +3,7 @@
 
 ### 1. Định nghĩa
 
-**Phytor** là súng năng lượng dùng [[WB_6_Sinh học#c) Túi Syren thực vật- Linh hồn thực vật|túi Syren thực vật]] làm bầu đất. Khi kích hoạt, bầu được ép giải phóng toàn bộ năng lượng phản vệ của cây qua nòng, mang theo hình thái twin cấp cao của loài cây gốc.
+**Phytor** là súng năng lượng dùng [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]] làm bầu đất. Khi kích hoạt, bầu được ép giải phóng toàn bộ năng lượng phản vệ của cây qua nòng, mang theo hình thái twin cấp cao của loài cây gốc.
 
 ### 2. Bầu đất Phytor
 
@@ -14,7 +14,7 @@ Bầu đất Phytor là **một viên đất nhỏ chứa linh hồn thực vậ
 - Linh hồn Syren khi bị tách dùng mạch ma lực tìm đất tốt để khâu vá vật chủ vì nó vẫn là cơ quan trung ương. Gặp đất giàu dinh dưỡng, linh hồn tạm rời chế độ phản vệ và chuyển sang phục hồi chậm.
 - Mô vật chủ bám rễ rút dưỡng chất nuôi linh hồn đứng yên trong bầu đất, giữ vai trò vật chủ neo và dừng vòng đời cây tại điểm này.
 
-Bầu đất giữ linh hồn ở trạng thái nghỉ — túi Syren còn nguyên năng lượng, mạch ma lực hoạt động cấp thấp, chờ tín hiệu kích hoạt.
+Bầu đất giữ linh hồn ở trạng thái nghỉ — Linh hồn thực vật còn nguyên năng lượng, mạch ma lực hoạt động cấp thấp, chờ tín hiệu kích hoạt.
 
 ### 3. Thuật ngữ chung
 
@@ -41,7 +41,7 @@ Người dùng bóp cò. Trình tự kích hoạt:
 
 1. Mạch ma lực nguồn Syren của người dùng hoặc năng lượng syren chất lỏng đặc trong khoang có sẵn trên thân truyền vào khoang nạp súng.
 2. Năng lượng Syren tràn vào bầu đất — đất dinh dưỡng bị rửa trôi hoặc đốt cháy nhanh tùy cơ chế rửa hoặc đốt năng lượng, áp suất, biến mất khỏi bầu.
-3. Linh hồn thực vật rơi vào trạng thái phản vệ cực độ vì cùng lúc: mất đất nuôi, ngập trong Syren ngoài cường độ cao, vẫn còn năng lượng túi Syren riêng, mạch ma lực dồn toàn lực vào bầu do mô vật chủ chỉ còn vụn.
+3. Linh hồn thực vật rơi vào trạng thái phản vệ cực độ vì cùng lúc: mất đất nuôi, ngập trong Syren ngoài cường độ cao, vẫn còn năng lượng Linh hồn thực vật riêng, mạch ma lực dồn toàn lực vào bầu do mô vật chủ chỉ còn vụn.
 4. Linh hồn bùng nổ năng lượng hồi qua mạch ma lực với tốc độ vượt xa nhịp di chuyển rễ và hồi phản vệ tự nhiên.
 5. Vỏ súng bao kín khối bùng nổ, chừa duy nhất một lối thoát ở nòng — năng lượng dồn ra thành làn sóng có hướng.
 
@@ -55,17 +55,17 @@ Người dùng bóp cò. Trình tự kích hoạt:
 
 Sức công phá phụ thuộc ba yếu tố:
 
-- Kích cỡ túi Syren thực vật trong bầu.
+- Kích cỡ Linh hồn thực vật trong bầu
 - Mức năng lượng nguồn nạp từ người dùng (không đáng kể).
 - Đặc tính phản vệ của loài cây gốc — cây bản chất bắn ra cho đạn xuyên mạnh, cây bản chất bám quấn cho đạn dính lâu lực xuyên nhẹ hơn.
 
 ### 3. Bầu đất dùng một lần
 
-Túi Syren thực vật có bộ lọc thải Syren yếu. Sau khi bị ép giải phóng toàn lực:
+Linh hồn thực vật có bộ lọc thải Syren yếu. Sau khi bị ép giải phóng toàn lực:
 
 - Bầu ngộ độc Syren do tràn năng lượng quá ngưỡng.
 - Mô rễ + thân vật chủ còn sót chết dần trong vài giây sau phát bắn.
-- Túi Syren mất chức năng vĩnh viễn.
+- Linh hồn thực vật mất chức năng vĩnh viễn
 
 Mỗi bầu đất tương đương một hoặc vài viên đạn. Bắn xong tháo bầu cũ, nạp bầu mới.
 
@@ -79,7 +79,7 @@ Phần Phytor đeo gần trung tâm thần kinh người dùng vận hành nhanh
 
 ### Bước 1 — Tách linh hồn từ cây gốc
 
-Cây trưởng thành thuộc loài tự vệ bằng hồi Syren, đã hình thành túi Syren thực vật ổn định. Cắt tách phần linh hồn ra khỏi cây, chừa lại một ít mô rễ và mảnh thân dính với khối linh hồn làm vật chủ neo. Phần thân lá gỗ còn lại trở thành nguyên liệu phụ cho ngành khác.
+Cây trưởng thành thuộc loài tự vệ bằng hồi Syren, đã hình thành Linh hồn thực vật ổn định. Cắt tách phần linh hồn ra khỏi cây, chừa lại một ít mô rễ và mảnh thân dính với khối linh hồn làm vật chủ neo. Phần thân lá gỗ còn lại trở thành nguyên liệu phụ cho ngành khác.
 
 ### Bước 2 — Đóng bầu đất
 

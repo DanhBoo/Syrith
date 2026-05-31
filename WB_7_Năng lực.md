@@ -12,11 +12,11 @@ Tiên tri không thành công là khi chọn lọc twin syren ở vũ trụ bị
 Thời Syrith, tiên tri thường đi đôi với nghi lễ 
 Nhà Tiên Tri thường ở trong trạng thái thiền định để đủ tập trung giao thức Tiên Tri, số khác tiên tri dưới dạng có thể vừa sinh hoạt, vận động vừa tiên tri nhưng ở dạng cảnh báo tiềm thức cảm xúc mạnh như cảm nhận sát ý, theo dõi... 
 
-# II. Ảo thuật
-- Syren do sinh vật chứa trong túi syren có thể đẩy thông tin cho đối tượng bị nhắm tới truyền đối tượng sẽ phải tiếp nhận lượng lớn thông tin ,một phần đưa vào túi syren của đối tượng và gây trạng thái ảo giác khi túi syren đưa thông tin lên não qua mạch ma lực, các syren truyền thẳng vào túi đột ngột này sẽ bị cơ thể sốc và dễ bị tự đào thải, cơ thể càng còn ít syren càng dễ dính ảo thuật
+# II. Ảo thuật (OTP)
+- Syren do sinh vật chứa trong túi syren có thể đẩy thông tin cho đối tượng bị nhắm tới truyền đối tượng sẽ phải tiếp nhận lượng lớn thông tin ,một phần "đẩy thông tin vào Syren lưu hành của đối tượng… qua mạch ma lực lên não và gây trạng thái ảo giác khi túi syren đưa thông tin lên não qua mạch ma lực, các syren truyền thẳng vào túi đột ngột này sẽ bị cơ thể sốc và dễ bị tự đào thải, cơ thể càng còn ít syren càng dễ dính ảo thuật
 
 # III. Nguyền rủa
-- Là cơ chế khi syren giả lõi thâm nhập vào túi syren, chúng tự nối với vài hệ thần kinh và gây trạng thái  ảo giác thông tin cho vật chủ , những thông tin này gây ra trạng thái túi syren đào thải syren liên tục vì nghĩ có syren không chuyển hóa được ,khi đào thải thì tốn năng lượng syren và cơ thể gây ra kiệt sức cho người sử dụng, cơ thể càng ít syren thì khó đào thải vì thiếu năng lượng cũng dễ bị  ảo thuật hơn
+- Là cơ chế khi syren giả lõi cắm vào mạng Syren lưu hành, chúng tự nối với vài hệ thần kinh và gây trạng thái  ảo giác thông tin cho vật chủ , những thông tin này gây ra trạng thái đào thải syren liên tục vì nghĩ có syren không chuyển hóa được ,khi đào thải thì tốn năng lượng syren và cơ thể gây ra kiệt sức cho người sử dụng, cơ thể càng ít syren thì khó đào thải vì thiếu năng lượng cũng dễ bị  ảo thuật hơn
 
 # IV.Ngủ đông
 - Là trạng thái phòng vệ của loài khi môi trường syren liên tục cơ thể phải lọc và gây kiệt sức, ngủ đông giúp tránh trao đổi chất tạm thời giúp trạng thái trước và sau khi ngủ không khác biệt

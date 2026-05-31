@@ -33,13 +33,13 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 
 Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]], syren từ đá [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]] phân tán hầu hết toàn bộ vào nước, chất lỏng, không khí ở lục địa, làm cho tiêu chuẩn nước/chất lỏng/không khí ở lục địa thời Syrith được văn minh đây liên tưởng đến nhiễm Syren
 
-> Kryst xảy ra khi sinh vật bị nhiễm năng lượng Syren từ bên ngoài. Syren bám dính chặt vào điểm tiếp xúc và **tự sinh mạch ma lực bất ổn định** đâm rễ vào mô sinh học của nạn nhân sau đó, chúng đẩy năng lượng syren vào cơ thể bất chấp  — phần tiếp xúc bị tổn thương **hoạt hóa thu hút Syren xung quanh hội tụ về**, khiến Crystal Kryst lớn dần theo thời gian. Mô vật chủ tổn thương cấp. Đây là trạng thái bùng phát Vì cần neo ổn định để đâm rễ, Kryst chỉ khởi phát ở **bề mặt đứng yên đủ lâu** — bề mặt đang chuyển động hoặc bị nước cuốn liên tục thì Syren không bám neo được.
-> 
-> Veld là giai đoạn Kryst dừng bùng phát và mạch ma lực ổn định nối được với hệ thần kinh vật chủ- não bộ đã tiết enzim ức chế để chúng ngừng hoạt hóa mất tự chủ—  Crystal chuyển sang hóa thành dạng tròn/oval/vuông ít sắc cạnh, chậm thu hút Syren mới. liên tục đẩy năng lượng vào vật chủ
+> Kryst xảy ra khi sinh vật bị nhiễm năng lượng Syren từ bên ngoài. Syren bám dính chặt vào điểm tiếp xúc và **tự sinh mạch ma lực bất ổn định** đâm rễ vào mô sinh học của nạn nhân sau đó, chúng đẩy năng lượng syren vào cơ thể bất chấp  — phần tiếp xúc bị tổn thương **hoạt hóa thu hút Syren xung quanh hội tụ về**, khiến Crystal Kryst lớn dần theo thời gian. Mô vật chủ tổn thương cấp. Đây là trạng thái bùng phát Vì cần neo ổn định để đâm rễ
+> Veld là giai đoạn Kryst dừng bùng phát và mạch ma lực ổn định, cơ thể tích hợp được Syren mới vào hệ Syren lưu hành để chúng ngừng hoạt hóa mất tự chủ—  Crystal chuyển sang hóa thành dạng tròn/oval/vuông ít sắc cạnh, chậm thu hút Syren mới. liên tục đẩy năng lượng vào vật chủ
 - Bản tính Syren,Kryst,Veld có tính vá víu và sửa đổi cấu trúc cho vật chủ tiếp xúc bền chặt hơn
-- Ví dụ dễ hình dung: cơ bắp chân sinh vật dính vào syren lâu >syren gây hoạt tính hóa Kryst> kryst dùng mạch ma lực đâm vào cơ, thần kinh, xương> Khi vào hệ thần kinh não bộ gửi tín hiệu ức chế để ổn định Syren> Kryst Veld syren có tính chất làm não bộ nhầm lẫn là một khối bộ phận của cơ thể >Não gửi tín hiệu làm lành vết thương thì syren chỗ này dùng mạch ma lực khâu lại> trở thành chi hoàn chỉnh cơ thể
-- Veld có tính chất tương tự như một túi Syren, là nơi lưu trữ năng lượng Syren,liên kết mạch ma lực và thần kinh chủ thể, chỉ không có Syren lõi 
-- Từ kryst ,veld có thể tạo ra syren hồi với thông tin từ syren lõi của túi syren 
+- Kryst chỉ khởi phát ở **bề mặt đứng yên đủ lâu** — bề mặt đang chuyển động hoặc bị nước cuốn liên tục thì Syren không bám neo được.
+- Ví dụ dễ hình dung: cơ bắp chân sinh vật dính vào syren lâu >syren gây hoạt tính hóa Kryst> kryst dùng mạch ma lực đâm vào cơ, thần kinh, xương> Khi nối vào mạng Syren lưu hành, cơ thể ổn định và tích hợp để ổn định Syren> Kryst Veld syren có tính chất làm não bộ nhầm lẫn là một khối bộ phận của cơ thể >Não gửi tín hiệu làm lành vết thương thì syren chỗ này dùng mạch ma lực khâu lại> trở thành chi hoàn chỉnh cơ thể
+- Veld là một nốt chứa Syren cắm vào mạng lưu hành, liên kết mạch ma lực, chỉ không có Syren lõi (cấp cao bẩm sinh)
+- Từ kryst ,veld có thể tạo ra syren hồi với thông tin từ syren lõi của vật chủ
 #### 1) Sinh vật
 
 - **Trạng thái Veld** hình thành ổn định khoảng **3h–12h** sau Kryst nếu không xử lý sớm (Cắt bỏ phần thừa, ngâm nước ấm,dùng thuốc…). Crystal khâu mạch ma lực **"đóng sẹo"** vĩnh viễn cho cơ thể 
@@ -54,8 +54,7 @@ Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]]
 - Với thực vật, đề kháng của chúng với Syren thường cao hơn. Các chỗ cành cây thực vật, phần cây bị cắt, số ít vết thương tiếp xúc nhiều mới bị Kryst/Veld. Nhưng vì đặc tính Syren chỉ bám mạnh vào sinh vật nên thực vật **càng hiếm khi bị nhiễm** ngoài tự nhiên.
 - Có thể thấy trong tự nhiên nhiều thực vật có bộ rễ bị Veld, vì những chỗ đó dễ đọng nước — khi có vết thương thì phần rễ sẽ dễ nhiễm Syren.
 - Hệ mạch ma lực của Syren-Veld khi vào thực vật chúng sẽ kiêm luôn hệ thống thần kinh phản xạ- đan thành cơ bắp bên trong và chuyển hóa thông tin không chọn lọc các Syren khi thực vật không có hệ thống trung ương như não bộ để chọn lọc Syren nên làm gì không làm gì
-- Gaia hoặc một số có hệ thống trung ương là Linh hồn Gaia, Linh hồn thực vật nên ổn định
-
+- Gaia hoặc một số có hệ trung ương là Linh hồn thực vật nên ổn định.
 	Biểu hiện
 - Khi "twin thông tin Syren vũ trụ xa" mạnh mẽ đẩy vào cây, chúng sẽ Có phản ứng di chuyển cành và rễ — nhìn quằn quại và di chuyển linh tinh.
 
@@ -100,6 +99,6 @@ nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại
 | **18-25°C** | **Nhẹ-trung bình** | Vận động/tắm OK; **ngâm yên bất động> 15 phút thì Kryst ,lumniar hoạt tính yếu khi chạm ở dạng này |
 | 25-30°C     | Hoạt tính nhẹ      | Ngâm yên < 15 phút tương đối an toàn, hơn 15 phút gây hoạt tính yếu, không hấp thu                 |
 | > 30°C      | Không hoạt tính    | An toàn                                                                                            |
-## IV.  Túi Syren mặc định trên cá thể
+## IV.  Syren lõi mặc định trên cá thể
 
->Tóm tắt: Có một dạng túi Syren đặc biệt mặc định từ lúc sinh ra trên cơ thể chủ thể, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Túi Syren]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.
+>Tóm tắt: Có một dạng: nốt Syren cấp cao bẩm sinh gần trung tâm thần kinh, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Syren Lưu hành]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.

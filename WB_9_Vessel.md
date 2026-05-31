@@ -8,8 +8,8 @@
 ### 2. Hai dạng Vessel
 Theo nguồn Syren mà vách kết nối, Vessel chia hai dạng:
 
-- **Vessel Crysto** — vách gắn liền Kryst/Veld nhân tạo bên trong. Mang theo nguồn năng lượng riêng, dùng mọi lúc mọi nơi. Crystal bên trong là [[WB_6_Sinh học#Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)|túi Syren phụ]] (kiểu 1).
-- **Vessel Phyto** — vách trống, cầu nối tới túi Syren thực vật của cây bên ngoài. Vận hành cây kiểu [[WB_6_Sinh học#Kiểu 2 — vận hành túi thực bên ngoài (Verdor nối cây, Phytor)|túi Syren thực]] bên ngoài (kiểu 2).
+- **Vessel Crysto** — vách gắn liền Kryst/Veld nhân tạo bên trong. Mang theo nguồn năng lượng riêng, dùng mọi lúc mọi nơi. Crystal bên trong là [[WB_6_Sinh học#Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)|túi Syren phụ, kiểu 1]].
+- **Vessel Phyto** — vách trống, tới Linh hồn thực vật của cây bên ngoài. Vận hành cây theo [[WB_6_Sinh học#Kiểu 2 — vận hành Linh hồn thực vật bên ngoài (Verdor nối cây, Phytor)|kiểu 2]] 
 
 ### 3. Cơ chế vách ngăn
 Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo hướng đảm nhiệm chức năng khác nhau:
@@ -21,7 +21,7 @@ Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo 
 
 - Vách gắn liền Crystal Kryst/Veld nhân tạo bên trong. Crystal vẫn hoạt hóa và muốn bám vào cơ thể như Kryst tự nhiên, nhưng bị vách cản — lực bám chuyển thành hấp dẫn bề mặt, Vessel "dính" vào đầu, ngực, tay, chân vật chủ như nam châm sinh học, giữ tính ổn định.
 - Cơ chế Hồi của Vessel Crysto lấy thông tin twin từ [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] của chính vật chủ (Crystal trong Vessel là túi phụ, không có Syren cấp cao riêng). Vessel đóng vai trò anchor point để hữu hình hóa [[WB_7_Năng lực#II. Linh hồn bảo mệnh|Linh hồn bảo mệnh]] từ vị trí Vessel.
-- Vessel Crysto chậm hơn túi Syren bẩm sinh do thông tin đi đường vòng qua hệ thần kinh + mạch máu — xem [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|cơ chế kiểu 1]]. Mức độ trễ còn phụ thuộc khoảng cách tới trung tâm thần kinh, dẫn tới phân loại theo vị trí đeo.
+- Vessel Crysto chậm hơn khi truy xuất trực tiếp từ Syren lõi + Syren lưu hành của vật chủ do thông tin đi đường vòng qua hệ thần kinh + mạch máu — xem [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|cơ chế kiểu 1]]. Mức độ trễ còn phụ thuộc khoảng cách tới trung tâm thần kinh, dẫn tới phân loại theo vị trí đeo.
 
 #### Ví dụ types theo vị trí đeo
 - **Crown Vessel** — đầu, ưu tiên cao nhất do gần trung tâm thần kinh.
@@ -32,15 +32,15 @@ Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo 
 
 ### 5. Vessel Phyto
 
-- Vách trống, cầu nối tới túi Syren của cây bên ngoài. Cây sống tại vị trí cây mọc, vách là kênh dẫn mạch ma lực giữa người dùng và túi cây.
+- Vách trống, cầu nối tới Linh hồn thực vật của cây. Cây sống tại vị trí cây mọc, vách là kênh dẫn mạch ma lực giữa người dùng và Linh hồn thực vật.
 - Cây có twin cấp cao riêng mang hình thái theo twin của cây. Vessel Phyto cho người dùng kênh để giao lệnh cho cây dùng thông tin dựa trên syren cấp cao bản thân, kênh của cây nhận phản hồi và cây thực hiện giao thức dựa trên phản hồi thông tin đó, khi 2 syren cấp cao của người và cây càng tương thích, càng dễ điều khiển.
 
 #### Flow điều khiển
 Người dùng chạm tay hoặc cơ thể vào mặt vách phía mình:
 
-1. Não người dùng tạo ý muốn → tín hiệu thần kinh xuống Syren lõi và túi Syren của bản thân.
-2. Túi Syren người dùng đẩy mạch ma lực mang thông tin ý muốn + năng lượng ra điểm tiếp xúc → xuyên vách → đến túi Syren cây áp ở mặt vách còn lại.
-3. Túi Syren cây tiếp nhận thông tin, diễn giải theo cách hiểu của nó (twin loài cây + bản năng phòng vệ).
+1. Não người dùng tạo ý muốn → tín hiệu thần kinh xuống Syren lõi và Syren lưu hành của bản thân.
+2. Syren lưu hành người dùng đẩy mạch ma lực mang thông tin ý muốn + năng lượng ra điểm tiếp xúc → xuyên vách → đến Linh hồn thực vật cây áp ở mặt vách còn lại. (nếu áp vào mạch ma lực cây thì yếu thông tin hơn)
+3. Linh hồn thực vật cây tiếp nhận thông tin, diễn giải theo cách hiểu của nó (twin loài cây + bản năng phòng vệ).
 4. Cây phản ứng theo cách của cây: tạo hồi syren, đẩy linh hồn hộ mệnh, cử động cành rễ.
 5. Hồi và phản ứng truyền ngược qua vách trở ra mặt người, người dùng tiếp nhận và sử dụng.
 
@@ -49,9 +49,9 @@ Ba mức theo độ phức tạp lệnh — sai lệch tăng dần khi lệnh v�
 
 - **Mức đơn giản** — cảm xúc cơ bản (muốn năng lượng, muốn phòng thủ, muốn cành che) + ý chí mạnh. Cây nhận rõ và phản ứng đúng.
 - **Mức trung gian** — yêu cầu định hình cụ thể như linh hồn hộ mệnh hướng nhất định, kiểu tấn công nhất định. Cây nghe phần lớn, có sai lệch.
-- **Mức phức tạp** — nhiều lệnh chi tiết, thao tác tinh xảo. Cây thường tự xử theo cảm nhận túi Syren của loài mình.
+- **Mức phức tạp** — nhiều lệnh chi tiết, thao tác tinh xảo. Cây thường tự xử theo cảm nhận Linh hồn thực vật của loài mình.
 
-Một số faction luyện cảm nhận sâu với loài cây cụ thể để tăng tương thích twin — đọc nhịp túi Syren, đẩy cảm xúc tương ứng. Người dùng dày kinh nghiệm điều khiển được cây mượt mà gần như cánh tay nối dài.
+Một số faction luyện cảm nhận sâu với loài cây cụ thể để tăng tương thích twin — đọc nhịp Linh hồn thực vật, đẩy cảm xúc tương ứng. Người dùng dày kinh nghiệm điều khiển được cây mượt mà gần như cánh tay nối dài.
 
 ### 6. Ưu tiên khi đeo nhiều Vessel
 

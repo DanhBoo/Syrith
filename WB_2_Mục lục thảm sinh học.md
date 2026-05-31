@@ -98,7 +98,6 @@ _Hình dạng & loài & đặc điểm:
 - Bộ có vòi, thú bốn chân có vòi, thuộc nhóm [[WB_6_Sinh học#6) Hệ thống tự chữa trị sinh học từ Syren|bán Syren]] cực đại — phần lớn cơ quan đã bị hồi Syren thay thế.
 - Phần còn lại không phải Syren chỉ gồm các cơ quan duy trì trao đổi chất và nòi giống: não, miệng, dạ dày, cơ quan sinh sản, tai, mũi, cơ quan lọc độc.
 - Không có mắt. Định vị bằng sóng âm phát qua mũi/vòi và thu qua tai.
-- Trên lưng có một lõi Syren ([[WB_6_Sinh học#a) Túi Syren|túi Syren thực]]) trồi rõ — đầu mối để cộng sinh điều hòa Syren.
 - Trong thân có một khoang bụng Syren chứa dịch, tách biệt với dạ dày. Đây là phần xẹp xuống đầu tiên mỗi khi chúng phun Syren.
 - Phun Syren xong thì cơ thể teo lại cho tới khi tích nạp đủ trở lại.
 - Thuần hóa cộng sinh bằng cách dụ thức ăn ưa thích (cỏ, hoa).

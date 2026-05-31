@@ -17,7 +17,7 @@ Ngoại lệ trong đoàn thương mại khi có khách muốn di chuyển xa:
 - Khách thoát khỏi voi là trạng thái mất, → ói Syren, say xỉn (xem WB_2 voi).
 - Cuối ngày phải mở cho khách ra ngoài ăn uống 
 >Giao thức để voi bụng lớn chuyên chở
-- Người cần carry áp mạch ma lực vào lõi Syren trên lưng để voi nhận diện và điều hòa Syren trên người nó không gây hại cho khách.
+- Người cần carry áp mạch ma lực vào lõi Syren trên lưng (otp) để voi nhận diện và điều hòa Syren trên người nó không gây hại cho khách.
 - Sau khi Syren an toàn, khách chui vào khoang bụng Syren (phần xẹp khi phun, không chạm dạ dày). Voi induce trạng thái **giả ngủ đông** trên khách — Syren tác động lên khách bị voi điều hòa hạ về ~25-50% như vùng [[WB_5_SYREN#III. Bảng trạng thái chi tiết|Gaia ảnh hưởng]] dù môi trường ngoài là baseline 100%. Khách rơi vào dormant ngủ mê trong dịch có oxy; gan voi lọc chất thải của khách lúc mê. Vì trạng thái này do voi induce từ bên ngoài, non-hib cũng dùng được — xem [[WB_11_Ngủ đông thương mại]] mục IV.
 - Cuối ngày phải cho khách ra ngoài để ăn uống, trao đổi chất. Gặp không khí thì khách tự tỉnh, ói Syren và say xỉn do chuyển đột ngột từ hấp thụ qua da/dịch sang thở khí.
 - Rủi ro: khi quá hoảng sợ, voi tự xổ dịch, vứt khách và bỏ chạy.
