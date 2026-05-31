@@ -24,3 +24,20 @@ Nhà Tiên Tri thường ở trong trạng thái thiền định để đủ t�
 
 # V. Phù thủy
 Là nhánh người cảm nhận về hồi và dụng mạch ma lực điêu luyện
+
+
+
+## Tưởng tượng mỗi người cầm một cái radio
+
+Cái radio đó vừa bắt được sóng (nghe các thế giới song song ở xa thì thầm — chính là rối Syren), vừa phát sóng được (hét năng lượng ra ngoài). Một người, một radio, một cục pin (Syren lưu hành trong người).
+
+Có đúng một luật chi phối tất cả:
+
+Bạn không thể vừa hét to vừa nghe rõ. Tiếng hét của chính mình làm điếc tai mình.
+
+Vậy là cả thế giới Syren chia làm hai kiểu người ngược nhau:
+
+- Người vặn radio im hết cỡ để nghe → nghe được sóng rất xa, rất mờ. Đây là tiên tri.
+- Người vặn radio hét hết cỡ để phát → đẩy được lực, được ảo giác ra ngoài. Đây là chiến binh và đám ảo thuật/nguyền rủa.
+
+Người giỏi nghe thì yếu đánh. Người giỏi đánh thì điếc với mấy thứ tinh tế.
