@@ -37,9 +37,9 @@ Vậy là cả thế giới Syren chia làm hai kiểu người ngược nhau:
 
 - Người vặn radio im hết cỡ để nghe → nghe được sóng rất xa, rất mờ. Đây là tiên tri.
 - Người vặn radio hét hết cỡ để phát → đẩy được lực, được ảo giác ra ngoài. Đây là chiến binh và đám ảo thuật/nguyền rủa.
-
-Phù thủy vessel: nhánh nhạy cảm với Syren để cảm nhận ma lực qua vách ngăn vessel ổn định dù là nhỏ nhất hay chưa ~nếu training nhóm này kiểu chiến binh thì sẽ kiểu sát thủ cảm nhận sát ý cảm nhận dù là nhỏ nhất. 
 ## Vibe Syren nhân vật
+Phù thủy vessel: nhánh nhạy cảm với Syren để cảm nhận ma lực qua vách ngăn vessel ổn định dù là nhỏ nhất hay chưa ~nếu training nhóm này kiểu chiến binh thì sẽ kiểu sát thủ cảm nhận sát ý cảm nhận dù là nhỏ nhất. 
+
 Tiên tri: Cảm nhận nhạy cảm với syren đi sâu vào trong để lục lọi.Nếu training chiến binh sẽ kiểu là biểu tượng chiến thắng>giỏi tưởng tượng nên cũng dễ thành nhà nghiên cứu thực vật vessel, nghiên cứu cảm nhận động vật, Vessel. 
 Syren cấp cao bản thân thường không ổn định  ở nhóm này
 
