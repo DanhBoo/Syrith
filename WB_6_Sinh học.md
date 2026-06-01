@@ -123,7 +123,7 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 - Mạch ma lực được tạo ra từ Syren lưu hành… không dùng thì ngắt, sợi tan Syren nếu không sử dụng, khi đó nó sẽ tan biến
 ### 5) Sinh sản
 - Các loài văn minh gần người có thể giao phối với nhau, con sẽ mang adn thông thường chỉ biểu hiện của ba hoặc mẹ, số ít thì của ông bà trước, số ít nữa thì pha trộn giữa các ADN gia phả người con có do ba mẹ tạo nên.
-- Valdren không thể có con với Korven và Taldren
+- Valdren không thể có con với Korven và Tardren
 - Các loài Valdren khi sinh con thì suy giảm các chức năng thải độc-suy giảm khả năng thải syren khi mang thai ảnh hưởng đến cơ thể nên mỗi khi sinh con người mẹ sẽ bị nhiễm syren hơn, càng ngày càng nguy hiểm nếu sinh nhiều. Hậu quả là mỗi người mẹ Valdren đối mặt với nguy hiểm chết người khi sinh nhiều con sau người thứ 2 hoặc 3, tỉ lệ chết tăng cao.
 - Ở thời Syrith, khi [[WB_5_SYREN#I. SYREN|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren chắt lọc hòa vào Syren lưu hành, dư thì đào thải ra ngoài phân nước tiểu.
 ### 6) Hệ thống tự chữa trị sinh học từ Syren

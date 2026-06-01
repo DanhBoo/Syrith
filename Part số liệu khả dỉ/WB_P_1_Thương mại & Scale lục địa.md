@@ -3,6 +3,7 @@
 **Tổng tuyến Đông-Tây: 2.100 km** — gồm hai chặng nối nhau, không phải hai lựa chọn thay thế:
 - **Chặng biển: 1.300 km** — men theo bờ, vòng qua các mũi đất.
 - **Chặng bộ: 800 km** — cắt qua nội địa nơi không có tuyến nước nối, chậm và nguy hiểm hơn (tốc bộ thấp, địa hình, vòng tránh vùng không Gaia).
+- **Khúc không-Gaia (gap) dài nhất** mỗi chặng: biển 800 km (một tuyến độc đạo, đầu cập là cổ chai Masquara), bộ 400 km. Phần còn lại mỗi chặng là hop ven các Gaia. Chỉ crew ngủ đông Masquara băng được các gap này — xem mục VII.
 
 Một chuyến Đông-Tây trọn vẹn đi **cả hai chặng** (tàu cho chặng biển, đoàn thồ cho chặng bộ), chuyển tải tại điểm nối.
 
@@ -71,15 +72,7 @@ Khả thi cho cự ly ngắn, không khả thi cho tuyến dài.
 
 # V. Cấu trúc quốc gia / liên minh
 
-Với khoảng cách thành bang ~30-60 km, một "country" thường là liên minh các thành bang tự trị:
-
-|Loại country|Bán kính|Số thành bang|Tổng dân|
-|---|---|---|---|
-|Country nhỏ (Eldryn, Mizuho)|~80-120 km|3-5|30-60 nghìn|
-|Country trung (Thyria, Persia-yellow)|~150-250 km|5-10|60-120 nghìn|
-|Country lớn (Luweh-China, Aetum cũ)|~300-500 km|10-20|150-400 nghìn|
-
-Tổng tuyến Đông-Tây 2.100 km: ước **4-6 country đứng cạnh nhau**. Mỗi country đi xuyên qua mất 1-2 tuần đường bộ.
+Với khoảng cách thành bang ~30-60 km, một "country" thường là liên minh các thành bang tự trị, quy mô tùy vùng — tuyến Đông-Tây 2.100 km có vài country đứng cạnh nhau. Ước cả tuyến nối **~40-60 thành bang, tổng ~0,5-0,7 triệu người** (trung bình ~12k/thành bang).
 
 Liên minh dựa vào trao đổi tài nguyên - mỗi nước không thiếu lương thực (tự đủ qua săn + nông tối thiểu), chỉ thiếu tài nguyên đặc thù vùng khác.
 
@@ -92,7 +85,7 @@ Bản đồ:
 | Vùng                          | Phong cách      | Sản phẩm chuyên                                               |
 | ----------------------------- | --------------- | ------------------------------------------------------------- |
 | **Tím tây (Eldryn-Thyria)**   | Tây Âu trung cổ | Vessel cao cấp, sữa Gaia tinh, lông thú, đồ săn, kim loại     |
-| **Hồng giữa-trái (masquara)** | Venice / Genoa  | Tàu thủy, ngân hàng, môi giới, hải quân                       |
+| **Hồng giữa-trái (masquara)** | Cộng hòa hàng hải | Tàu thủy, ngân hàng, môi giới, hải quân                       |
 | **Vàng**                      | Ba Tư           | Thảm, đá quý, nước hoa, gia vị, thủy tinh                     |
 | **Xanh sẫm**                  | Hy Lạp          | Triết học, nghệ thuật, gốm, dầu, rượu                         |
 | **Hồng đảo (Mizuho)**         | Nhật Bản        | Kiếm thép, sơn mài, gốm, lụa, ngọc trai, sản phẩm cá          |
@@ -100,5 +93,23 @@ Bản đồ:
 | **Vùng kế Luweh**             | Việt Nam / ĐNA  | Gạo, gia vị nhiệt đới, đồ thủ công gỗ, vàng, đá quý nhiệt đới |
 
 Mặt hàng chủ đạo tuyến Đông-Tây: **tơ lụa, gia vị, trà, sứ, kiếm, Vessel đặc thù vùng, thảm, đá quý, nước hoa**. Không có lương thực thô vì mỗi nước tự đủ.
+
+---
+
+# VII. Masquara — cộng hòa hàng hải
+
+### Quản trị & quy mô
+- Hội đồng liên minh các cảng tự trị điều phối, nhiều đầu mối phân tán — không phải một siêu đô thị. Cap thành bang ~25k + không buôn lương thực (xem [[WB_00_Context]] mục 10) buộc mỗi cảng tự nuôi, nên Masquara mãi là liên minh nhiều cảng nhỏ.
+- Cốt lõi **3-5 cảng sở hữu**: một cổ chai ~25k (đầu cập gap biển, giàu nhất nhờ độc quyền chuyển tải biển↔bộ) + vệ tinh ~10-15k. Cộng **~6-8 factory** đặt nhờ trên Gaia nước khác dọc tuyến. Sàn tối thiểu có thể xuống ~2-3 cảng.
+- Cá thay phần lớn sàn săn lương thực. Lớp nghề buôn + đóng tàu + ngân hàng ~28% mỗi cảng (theo [[WB_P_3_Bảng phân bố nghề siêu chi tiết (toàn bộ thành quốc)]]), đa số dân còn lại là đánh bắt + nghề địa phương. Số cảng do **địa lý gap** quyết, không do lao động (buôn đường dài thuê ít người, lao động luôn dư).
+
+### Gap & độc quyền ngủ đông
+- Gap không-Gaia (mục I): biển 800 km, bộ 400 km. Crew gặm nhấm chia ca ngủ đông kiểu răng cưa (tối thiểu 12h reset đề kháng — xem [[WB_11_Ngủ đông thương mại]]) băng được; đối thủ không có van reset nên gap ngắn hơn → Masquara độc quyền tuyến.
+- Băng gap biển ~7 ngày (chạy đêm liên tục ~120 km/ngày, đầu dải tàu đại dương mục II), gap bộ ~11 ngày; giới hạn bởi lương thực mang theo. Voi bụng lớn chở khách chỉ ở gap bộ; gap biển chở hàng + crew, không khách.
+
+### Hạm đội & throughput
+- Tàu chủ lực đại dương ~120-150 tấn, chạy đêm nhờ ngủ đông, crew ~25 (số tối thiểu điều khiển × 2 ca). Đội **~8-12 tàu** + **~5-8 đoàn bộ** (thú thồ + voi).
+- Cầu bộ là nút thắt throughput: đoàn bộ ~5-10 tấn vs tàu ~120 tấn → cầu bộ chỉ tiêu hóa ~2-3% hàng biển. Nên buôn xuyên Đông-Tây là **dòng mỏng cực-giá-trị**; phần lớn buôn biển là buôn vùng. Cổ chai giàu nhờ độc quyền phễu chuyển tải, không nhờ khối lượng.
+- Thị trường: Masquara chạm trực tiếp **~12-18 điểm** (3-5 cảng nhà + 6-8 factory + chợ đầu mối hai đầu) trong ~40-60 thành bang cả tuyến (mục V); từ đó hàng phân phối tiếp vào nội địa các nước. Khách mua hàng nhập thật là lớp khá giả ~10-20% → **~50-140k người**. Riêng dòng xuyên Đông-Tây qua cầu bộ chỉ chạm lớp giàu nhất hai đầu.
 
 ---

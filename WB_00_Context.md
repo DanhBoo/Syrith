@@ -108,8 +108,6 @@
 
 **Hệ quả trực tiếp:**
 
-- ~80-150 tàu buôn đại dương hoạt động cùng lúc trên cả lục địa (so với hàng nghìn lịch sử)
-- Cảng chính: 10-20 tàu/tháng (tương ứng Venice thực 1/10 quy mô)
 - Chỉ buôn hàng giá trị cao thể tích nhỏ: tơ lụa, gia vị, trà, sứ, Vessel đặc thù, đá quý, nước hoa
 
 ## 10. Không buôn lương thực
@@ -168,7 +166,7 @@
 
 **Hệ quả trực tiếp:**
 
-- Thể chế có thể tồn tại hàng nghìn năm (như Venice thực 1100 năm — Astraea-Venice có thể 2000-3000 năm)
+- Thể chế có thể tồn tại hàng nghìn năm (như Venice thực 1100 năm — Masquara có thể 2000-3000 năm)
 - Truyền thống có sức nặng rất lớn — "đã chạy ngàn năm rồi, ai dám sửa?"
 - Đổi mới chuyển từ "làm nhanh" sang "tinh tế hoá vô tận" (như Nhật thời Edo)
 - Cảm giác _vĩnh cửu_ trong đời sống xã hội

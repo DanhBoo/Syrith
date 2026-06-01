@@ -38,3 +38,17 @@ Vậy là cả thế giới Syren chia làm hai kiểu người ngược nhau:
 - Người vặn radio im hết cỡ để nghe → nghe được sóng rất xa, rất mờ. Đây là tiên tri.
 - Người vặn radio hét hết cỡ để phát → đẩy được lực, được ảo giác ra ngoài. Đây là chiến binh và đám ảo thuật/nguyền rủa.
 
+Phù thủy vessel: nhánh nhạy cảm với Syren để cảm nhận ma lực qua vách ngăn vessel ổn định dù là nhỏ nhất hay chưa ~nếu training nhóm này kiểu chiến binh thì sẽ kiểu sát thủ cảm nhận sát ý cảm nhận dù là nhỏ nhất. 
+## Vibe Syren nhân vật
+Tiên tri: Cảm nhận nhạy cảm với syren đi sâu vào trong để lục lọi.Nếu training chiến binh sẽ kiểu là biểu tượng chiến thắng>giỏi tưởng tượng nên cũng dễ thành nhà nghiên cứu thực vật vessel, nghiên cứu cảm nhận động vật, Vessel. 
+Syren cấp cao bản thân thường không ổn định  ở nhóm này
+
+nhóm chiến binh tạo ra vessel ổn định cao và dày: lưỡi đao, càng cua trong chiến đấu liên tục là người mạnh về ổn định và syren liên kết cấp cao mạnh. tự hồi phục tốt. khó sửa đổi syren cấp cao nhóm này. nhóm này cảm nhận syren không tốt lắm vì ổn định syren bản thân cao.
+
+Nhóm dị bản: tạo ra syren dị bản để sử dụng đủ để sử dụng: Ổn định syren cao.cảm nhận cao.dễ tổn thương về tinh thần vì tính tự ổn định trong syren ngoại lai.không hồi phục tốt.
+
+Ngủ đông: nhóm này dễ hiểu có thể tốt về ngắt Syren ổn định cơ thể. LÀ một dạng bật tắt, tự điều chỉnh syren bản thân tốt Khả năng cảm nhận và ổn định syren kém vì bật tắt liên tục khó tự training. Vô cảm,khôn lỏi, lợi nhuận bản thân
+
+Ảo thuật. Nguyền rủa. Là cơ chế nhét syren vào người khác bằng cách này hay cách khác. Syren người này theo dạng sắc, hình thù rõ ràng nhưng dễ tan biến Kiểu tạo hình đẹp mạnh nhưng không ổn định. càng sắc đâm sâu, đi sâu thì càng nén syren nhỏ. Kiểu nuke onehit, Syren tiêu tốn nhiều. Syren cấp cao bản ngã liên kết mạnh.
+
+  
