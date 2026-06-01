@@ -24,7 +24,7 @@
 - Thịt cung cấp ~60% calo, phần còn lại từ nông tối thiểu + chăn nuôi nhỏ + hái lượm + cá
 - Lương nông tối thiểu được người dân thường hiểu dùng cho khi đông đến khó săn bắt
 - Săn không cần truy vết xa — vào lãnh thổ thú quen → → về
-- Bán kính lãnh thổ săn 15-33 km tuỳ dân số thành quốc và vùng Gaia giới hạn, thông thường thành quốc sẽ cố giữ mức ổn định dân số đủ để tới rìa bán kính Gaia 
+- Bán kính lãnh thổ săn 15-33 km tuỳ dân số thành quốc và vùng Gaia giới hạn, thông thường thành quốc sẽ cố giữ mức ổn định dân số đủ săn để tới rìa bán kính Gaia dễ dàng
 ## 3. Định cư bám Gaia
 
 **Khác biệt**: Gaia là loài thực vật đặc biệt thanh lọc Syren trong vùng quanh nó. Ngoài vùng Gaia là Syren bùng phát — không an toàn cho sinh vật văn minh. Mỗi thành quốc bám một Gaia (hoặc cụm Gaia con nối nhau qua bộ rễ).
