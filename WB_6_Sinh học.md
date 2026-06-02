@@ -109,13 +109,17 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 - Túi phụ nhận thông tin từ não qua hệ thần kinh + mạch máu + cảm giác, tạo hồi dùng thông tin twin của túi thực chủ thể. Chậm hơn và yếu hơn so với khi hồi xuất từ chính Syren lõi + Syren lưu hành", vì thông tin đi đường vòng và bản thân túi phụ thiếu Syren cấp cao tại chỗ.
 - Để giảm độ trễ và tăng độ rõ, túi thực chủ thể có thể nối thẳng một mạch ma lực vào túi phụ — thông tin truyền trực tiếp, ít sai lệch hơn.
 - Hai túi giữ năng lượng riêng. Năng lượng có thể bơm dần qua mạch ma lực giữa hai bên, nhưng chậm và khó.
+- Túi phụ (Vessel/Veld) chứa nhiều năng lượng Syren nhưng **thiếu thông tin lõi cấp cao** (mục 3: túi phụ không có Syren cấp cao tại chỗ), nên tự nó năng lượng "trơ" — mờ, khó dùng.
+- Syren lưu hành của cơ thể thì **mang thông tin từ Syren lõi**. Dẫn Syren Vessel chạy qua người, nó trộn với Syren cơ thể và nhận được thông tin đó → thành Syren rõ, mạnh, dùng tốt ([[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren cần thông tin twin để định hình]]). Phần Syren cơ thể này hao dần khi cấp thông tin; cạn thì Syren Vessel mất nguồn thông tin, quay về trơ-mờ-yếu (như Syren chưa lọc, mục 2a).
+- Khoảng cách chỉ ảnh hưởng **độ trễ** (càng xa Syren lõi càng trễ, mục 2b), không ảnh hưởng **độ rõ**. Nên đeo Vessel ở đầu rồi dẫn Syren xuống tay/chân thì độ rõ gần như giữ, chỉ chậm tay hơn.
+- Nên Vessel không phải nguồn dùng-tốt vô hạn: còn dùng "ngon" chừng nào cơ thể còn Syren để cấp thông tin, cạn thì đòn yếu hẳn. Chiến binh Vessel đánh lâu sẽ đuối dần, dù vẫn an toàn khỏi nhiễm độc tiếp xúc trực tiếp.
 ###### Kiểu 2 — vận hành Linh hồn thực vật bên ngoài (Verdor nối cây, Phytor)
 - Não chủ thể đẩy thông tin "muốn làm gì" qua mạch ma lực sang Linh hồn thực vật bên ngoài (Linh hồn thực vật của cây)
 - Linh hồn thực vật bên ngoài có Syren cấp cao riêng, diễn giải thông tin theo cách của nó (twin riêng + bản năng loài), thực hiện theo cách của nó.
 - Não chủ thể thiếu parten về twin của túi bên ngoài nên không nắm chính xác phản ứng ở lệnh chi tiết. Chi tiết mức điều khiển xem [[WB_9_Vessel#Mức điều khiển|Vessel Phyto - Mức điều khiển]].
 ### 4) Mạch ma lực
 
-> Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — pha lỏng-coherent trung gian: dòng plasma Syren mật độ thấp duy trì MQC nhờ từ Syren lưu hành / Syren lõi. Khi nguồn ngắt, sợi tan.
+> Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — một **pha ngưng tụ coherent của Syren** (kiểu siêu rắn: vừa có khung tinh thể rắn sờ/bẻ được, vừa cho dòng Syren chảy bên trong), duy trì MQC nhờ Syren lưu hành / Syren lõi. Pha này **trung hòa điện-từ** —  tác dụng cơ học (đẩy, dệt, dẫn năng lượng) Khi nguồn ngắt, sợi tan.
 > Khi giữ năng lượng cấp liên tục, các sợi đan lưới hoàn thiện thành dạng năng lượng [[WB_5_SYREN#3. Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn này đi nơi khác, mạng lưới truyền đi này gọi là mạch ma lực
 - Dạng sợi ở Mạch ma lực chúng có tính vật lý chạm vào được và bẻ gãy được, khi bị tác động đứt gãy chúng sẽ tìm đường khác hoặc tạo đường ống khác để đẩy năng lượng đi.
 - Hệ thần kinh thì cơ thể con người sẽ phản ứng đồng bộ ngay lập tức, thì mạch ma lực phản hồi có **độ trễ**. Vậy nên nếu phần Crystal/Kryst/nguồn chứa Syren bị nhiễm ngay chân/cẳng tay — nơi cách xa trung ương thần kinh (tủy sống và não bộ) — sẽ có độ process trễ hơn. Khó kiểm soát hơn, dễ hiểu là các chi đó **lấy năng lượng chậm hơn**.

@@ -4,6 +4,7 @@
 #### 1) Định nghĩa
 
 - **Syren** là vật chất bảo tồn trạng thái rối lượng tử nguyên thủy của vũ trụ — được hình thành từ thời điểm vũ trụ tiền-lạm phát còn nén thành một điểm duy nhất, khi mọi vật chất rối lượng tử với mọi vật chất khác trong một hệ duy nhất. Sau lạm phát, không gian giãn nở vô tận theo **mô hình Đa Vũ trụ Cấp I (Tegmark Level I Multiverse)**, vật chất bị đẩy xa nhau vô hạn — nhưng rối lượng tử trong Syren vẫn còn nguyên.
+- Syren **trung hòa điện-từ**: không mang điện tích di chuyển được, không tương tác với điện trường, từ trường hay kim loại. Syren là một tầng vật chất riêng, chỉ tương tác qua rối twin và lực cơ học của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]]. Vì vậy hiệu ứng Syren giới hạn ở **nhiệt (nóng/lạnh), lực cơ học và tạo hình**.
 #### 2) Rối Syren
 
 >Syren có hai dạng rối lượng tử nguyên thủy:
@@ -17,10 +18,10 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 - Gọi là rối 1-1 một chiều vì syren chỉ nhận thông tin rối twin kia chứ không ngược lại
 #### 3) Syren "hồi" và các trạng thái Syren
 
-- Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)**, có ở thể rắn , lỏng, khí, plasma và "hồi" tùy điều kiện tác động.
+- Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)**, có ở thể rắn, lỏng, khí, pha sợi coherent (pha của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]]) và "hồi" tùy điều kiện tác động.
 - Syren-Hồi (Echo Form) là pha thứ 5 của Syren — một dạng năng lượng hữu hình tạm thời, hình thành khi liên kết rối giữa Syren bên này và twin bên kia được **khuếch đại đủ mạnh** để **sao chép cấu trúc và lịch sử state của twin** lên một vật chứa Syren bên này (ví dụ: một cục đá)
-- Vật chứa Syren đóng vai trò "khung", còn thông tin twin đóng vai trò "khuôn" Mạch ma lực dạng sợi lấy năng lượng từ nguồn syren đan hình dạng lại. Kết quả là một bản sao/phần bản sao gần đúng của twin (hoặc của thông tin môi trường quanh twin) ở dạng năng lượng có hình thù chạm được, nhưng liên kết không bền — decohere có thời gian biến mất trả lại trạng thái Syren ban đầu (trạng thái cục đá chứa syren)
-> [[WB_6_Sinh học#3) Mạch ma lực|Mạch ma lực]] là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật khung chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi. 
+- Vật chứa Syren cấp **năng lượng**, còn thông tin twin **quyết hình dạng**. Mạch ma lực dạng sợi lấy năng lượng từ nguồn syren rồi đan lại theo thông tin twin. Kết quả là một bản sao/phần bản sao gần đúng của twin (hoặc của thông tin môi trường quanh twin) ở dạng năng lượng có hình thù chạm được, nhưng liên kết không bền — decohere có thời gian biến mất trả lại trạng thái Syren ban đầu (trạng thái cục đá chứa syren)
+> [[WB_6_Sinh học#3) Mạch ma lực|Mạch ma lực]] là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi. 
 
 **Đặc tính**:
 
@@ -28,7 +29,7 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 - **Tạm thời**: tồn tại vài giây đến vài phút.
 - **Truy xuất lịch sử**: phải chọn một **khoảnh khắc cụ thể** trong lịch sử state của twin để mô phỏng (ví dụ: con chim đập cánh 3 vòng tại 5 phút trước).
 - Lịch sử truy xuất càng xa càng khó mô phỏng vì sai lệch thông tin
-- **Cần vật khung chứa Syren**: Cần 1 vật chứa Syren truy xuất thông tin để chuyển thành Syren-Hồi.
+- **Cần vật chứa Syren**: Cần 1 vật chứa Syren truy xuất thông tin để chuyển thành Syren-Hồi.
 ## II. Kryst, Veld & Nhiễm Syren
 
 Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]], syren từ đá [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]] phân tán hầu hết toàn bộ vào nước, chất lỏng, không khí ở lục địa, làm cho tiêu chuẩn nước/chất lỏng/không khí ở lục địa thời Syrith được văn minh đây liên tưởng đến nhiễm Syren

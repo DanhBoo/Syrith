@@ -22,16 +22,19 @@ _Phân bố môi trường:
 _Ứng dụng:
 #### Saltree
 Hình dạng & loài & đặc điểm:
-- Giống **cây sen đá khổng lồ** lá kép cứng có gai** xòe đều quanh một tâm.
+- Giống **cây sen đá khổng lồ** lá kép cứng có gai xòe đều quanh một tâm.
 - Ở giữa phần thân là **"linh hồn Gaia"**, trái tim Gaia chính giữa hoa sen hình dạng nhụy hoa
 - "Linh hồn Gaia" của Saltree đặc biệt **thích mặt trời**, Luôn hướng phần mặt hoa về phía có ánh sáng.
 - Cố dùng **hệ rễ chằng chịt** ôm trọn khối đá Sa Minh di chuyển, bò về phía đó.
 - Nếu thân đang bám vào đá Sa Minh, nó sẽ dùng phần rễ nhấc lên để **kéo khối đá đó đi theo**.
 - Vào buổi đêm thì Sen Sa Minh sẽ **ngừng di chuyển** vì không cảm nhận được mặt trời.
+- Bộ rễ ngâm đất Syren nên **Veld hóa**, đan cơ bắp + thần kinh phản xạ bên trong → rễ co duỗi như chân, nhấc-kéo khối đá theo nhịp.
+- Là Gaia → thanh lọc Syren quanh tán, tạo **bong bóng an toàn** cho cư dân sống trên/trong khối đá.
 _Phân bố môi trường: 
 - Mọc sống ổn định trên đá Sa Minh
 _Ứng dụng:
 - Lợi dụng đặc tính di chuyển của Sen Sa Minh, Tạo một **phòng hình cầu khổng lồ** che hết ánh sáng, chỉ để một khung sáng có hướng đi họ muốn để Sen Sa Minh điều hướng di chuyển theo đó.
+- Là **Gaia di động**: thủ phủ tiên tri Sarvel cưỡi khối đá Sa Minh do Saltree khiêng để du mục nhận cống nạp. Cơ chế + số liệu đầy đủ ở [[WB_F_Liênminh_Sarvel]].
 #### Luweh
 _Hình dạng & loài & đặc điểm: 
 - Gaia dạng bụi tre, các bụi chung rễ lớn rải rác khắp Luweh
@@ -131,6 +134,8 @@ _Ứng dụng:
 - Quần thể đá Sa Minh chủ yếu ở Sarvel.
 - Đặc tính: **giàu dinh dưỡng, khoáng chất ưa thích** của Sen Sa Minh.
 - **Rắn chắc**, thích hợp làm nền móng công trình.
+- Khối Sa Minh lớn được đục thành **thành phố tổ ong 3 chiều** cho Sarvel: đỉnh + lõi trong (Gaia-an toàn) là khu ở, vỏ ngoài + tầng dưới (phơi Syren) là hang cho wyvern/khủng long bay vào đậu để săn.
+- **Ứng dụng:** nền móng kiêm thân thành quốc di động Sarvel, do Saltree khiêng đi. Chi tiết ở [[WB_F_Liênminh_Sarvel]].
 
 
 

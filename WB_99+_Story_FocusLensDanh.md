@@ -91,4 +91,5 @@ Tiên tri ở lục địa không nhiều, các faction không đủ nhân lực
 
 
 
-faction
+faction:
+-

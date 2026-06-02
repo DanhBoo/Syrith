@@ -3,7 +3,7 @@
 
 Số rất ít các sinh vật của lục địa ASTRAEA qua tập luyện và bẩm sinh có năng lực cảm nhận thế giới quan thông qua [[WB_5_SYREN#2. Rối Syren|Rối Syren]] 
 Chọn lọc, cảm nhận được các dạng thông tin của vũ trụ có timeline gần với ASTRAEA sau đó sẽ dựa vào đó để truyền đạt lại gọi là tiên tri, người thực hiện giao thức này gọi là nhà Tiên Tri
-Cơ chế sẽ là trước khi tiên tri nhà tiên tri hoặc những người có đủ năng lực cảm nhận rối Syren mức nhất định sẽ tìm tòi và chọn lọc phần khuôn dự tính sẽ liên quan đến sự kiện, sự việc cần tiên tri (ví dụ dùng thanh kiếm làm khuôn trước trận chiến)
+Cơ chế sẽ là trước khi tiên tri nhà tiên tri hoặc những người có đủ năng lực cảm nhận rối Syren mức nhất định sẽ tìm và chọn một vật mẫu dự tính sẽ liên quan đến sự kiện, sự việc cần tiên tri (ví dụ dùng thanh kiếm làm vật mẫu trước trận chiến)
 Chọn ít nhất 2 Syren trong vật thể đó- thực hiện giao thức tiên tri để lấy chúng làm một cặp hạn chế sai số, khi 1 cặp Syren ở gần nhau để sử dụng khi tiên tri, dễ đưa ra parten tương tự gần nhau ở cặp twin bên kia ,khi chỉ lấy một syren bất kì để giao thức tiên tri mà không chọn theo cặp trở lên, sẽ dễ  xảy ra trạng thái Syren twin đó ở trong môi trường khác hẳn khó hiểu và tiên tri sai lệch
 
 Tiên tri thành công là do bản năng chọn lọc twin syren phù hợp ở vũ trụ được vặn xoắn vừa đủ để dòng thời gian không đi quá xa, bản chất thế giới vũ trụ tương tự gần giống, tài năng chọn cùng lúc nhiều Syren để hạn chế sai số khi giao thức cũng là một biến số giúp tăng hiệu quả thành công.
@@ -36,11 +36,11 @@ Bạn không thể vừa hét to vừa nghe rõ. Tiếng hét của chính mình
 Vậy là cả thế giới Syren chia làm hai kiểu người ngược nhau:
 
 - Người vặn radio im hết cỡ để nghe → nghe được sóng rất xa, rất mờ. Đây là tiên tri.
-- Người vặn radio hét hết cỡ để phát → đẩy được lực, được ảo giác ra ngoài. Đây là chiến binh và đám ảo thuật/nguyền rủa.
+- Người vặn radio hét hết cỡ để phát → đẩy được lực, được ảo giác ra ngoài. Đây là dạng sức mạnh chiến binh
 ## Vibe Syren nhân vật
 Phù thủy vessel: nhánh nhạy cảm với Syren để cảm nhận ma lực qua vách ngăn vessel ổn định dù là nhỏ nhất hay chưa ~nếu training nhóm này kiểu chiến binh thì sẽ kiểu sát thủ cảm nhận sát ý cảm nhận dù là nhỏ nhất. 
 
-Tiên tri: Cảm nhận nhạy cảm với syren đi sâu vào trong để lục lọi.Nếu training chiến binh sẽ kiểu là biểu tượng chiến thắng>giỏi tưởng tượng nên cũng dễ thành nhà nghiên cứu thực vật vessel, nghiên cứu cảm nhận động vật, Vessel. 
+Tiên tri: Cảm nhận nhạy cảm với syren đi sâu vào trong để lục lọi.Nếu training chiến binh sẽ kiểu là giỏi tưởng tượng nên cũng dễ thành nhà nghiên cứu thực vật vessel, nghiên cứu cảm nhận động vật,
 Syren cấp cao bản thân thường không ổn định  ở nhóm này
 
 nhóm chiến binh tạo ra vessel ổn định cao và dày: lưỡi đao, càng cua trong chiến đấu liên tục là người mạnh về ổn định và syren liên kết cấp cao mạnh. tự hồi phục tốt. khó sửa đổi syren cấp cao nhóm này. nhóm này cảm nhận syren không tốt lắm vì ổn định syren bản thân cao.
@@ -51,4 +51,5 @@ Ngủ đông: nhóm này dễ hiểu có thể tốt về ngắt Syren ổn đ�
 
 Ảo thuật. Nguyền rủa. Là cơ chế nhét syren vào người khác bằng cách này hay cách khác. Syren người này theo dạng sắc, hình thù rõ ràng nhưng dễ tan biến Kiểu tạo hình đẹp mạnh nhưng không ổn định. càng sắc đâm sâu, đi sâu thì càng nén syren nhỏ. Kiểu nuke onehit, Syren tiêu tốn nhiều. Syren cấp cao bản ngã liên kết mạnh.
 
+nhóm chân thiên tử: là 
   
