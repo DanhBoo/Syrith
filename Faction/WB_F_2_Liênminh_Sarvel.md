@@ -70,7 +70,7 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 
 ## V. Chư hầu Vireth & cống nạp
 
-- **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
+- **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
 - Quy mô: **~20 bộ lạc** (biên 12-25), mỗi bộ ~1.000-1.200 người (Korven đẻ khỏe) → tổng **~24.000 Korven** (biên ~15.000-28.000).
 - **Cống nạp** = thặng dư + khoáng Syren quý ([[WB_2_Mục lục thảm sinh học#Luminar|Luminar]], đá Sa Minh, khoáng Syren thô) + kim loại — thứ chỉ Korven khai được trong vùng Syren dày.
 - **Sarvel đổi gì ra ngoài**: bán thặng dư khoáng Syren (từ cống nạp) + nguyên liệu wyvern/quái hiếm + dịch vụ tiên tri → mua **đồ tinh thể tích nhỏ giá cao** ở rìa Valdren (tơ lụa, trà, gia vị, sứ/gốm cao cấp, kiếm thép, đá quý chế tác, nước hoa, rượu — cho tầng cai trị + nghi lễ). Buôn vùng trực tiếp này khác tuyến long-haul xuyên gap của [[WB_11_Ngủ đông thương mại|Masquara]].
@@ -101,7 +101,7 @@ Syren-boost **phân rã theo thời gian, cần tái nạp mỗi vòng**. Sức 
 
 ## VII. Vì sao quan hệ bền & USP
 
-- **Mỗi bên mạnh trên sân nhà**: Sarvel cai trị từ bên trong sinh thái Syren của chư hầu, cùng một sân với họ — đòn bẩy nằm ở quan hệ và độc quyền tiên tri. Lập luận đầy đủ ở [[WB_F_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
+- **Mỗi bên mạnh trên sân nhà**: Sarvel cai trị từ bên trong sinh thái Syren của chư hầu, cùng một sân với họ — đòn bẩy nằm ở quan hệ và độc quyền tiên tri. Lập luận đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
 - **USP cầu nối**: Saltree là Gaia *biết đi* → Sarvel mang bong bóng an toàn theo mình, vào sâu được hoang dã Syren — vùng mà các thành quốc Gaia cố định với không tới.
 - **Sarvel ở lại vùng Syren vì lợi ích nằm ở đó**: mồi săn và chư hầu đều thuộc hoang dã Syren, nên khối đá xoay vòng quanh sân đó.
 

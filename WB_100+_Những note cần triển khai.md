@@ -14,7 +14,7 @@
 - lý do masquara thống nhất? nhờ vào giúp thyria bằng tôn giáo? ăn cắp tín vật, tuyên truyền tín vật về tay chủ, tín vật hiện thân của chủ quyền vùng đất (truyền thuyết)
 - hệ mizuh bóng tối hồng tím? luweh thanh cao rừng rú? eldryn, masquara thyria ánh sáng con người? sarvel thiên thần , thiên giới, vireth, balgath hung bạo
 
-
+đường cong sụp đổ có link nào k, xóa
 
 
 
