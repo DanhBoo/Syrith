@@ -4,7 +4,7 @@
 #### 1) Định nghĩa
 
 - **Syren** là vật chất bảo tồn trạng thái rối lượng tử nguyên thủy của vũ trụ — được hình thành từ thời điểm vũ trụ tiền-lạm phát còn nén thành một điểm duy nhất, khi mọi vật chất rối lượng tử với mọi vật chất khác trong một hệ duy nhất. Sau lạm phát, không gian giãn nở vô tận theo **mô hình Đa Vũ trụ Cấp I (Tegmark Level I Multiverse)**, vật chất bị đẩy xa nhau vô hạn — nhưng rối lượng tử trong Syren vẫn còn nguyên.
-- Syren **trung hòa điện-từ**: không mang điện tích di chuyển được, không tương tác với điện trường, từ trường hay kim loại. Syren là một tầng vật chất riêng, chỉ tương tác qua rối twin và lực cơ học của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]]. Vì vậy hiệu ứng Syren giới hạn ở **nhiệt (nóng/lạnh), lực cơ học và tạo hình**.
+- Syren là một **tầng vật chất riêng, trung hòa điện-từ**: tác dụng qua rối twin và lực cơ học của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]], nên mọi hiệu ứng gói trong **nhiệt (nóng/lạnh), lực cơ học, tạo hình**.
 #### 2) Rối Syren
 
 >Syren có hai dạng rối lượng tử nguyên thủy:
@@ -69,12 +69,12 @@ Bảng dưới phản ánh về mức đề kháng tiếp xúc loài văn minh V
 
 ### (Baseline) — Syren 100%
 
-| <12°C   | Không hoạt tính    | an toàn                                                                      |
-| ------- | ------------------ | ---------------------------------------------------------------------------- |
-| 12-18°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                        |
-| 18-25°C | Hoạt tính mạnh,bám | Cực nguy hiểm, Ngâm yên = Kryst đá lumniar hoạt tính yếu khi chạm ở dạng này |
-| 25-30°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                        |
-| > 30°C  | Không hoạt tính    | an toàn                                                                      |
+| <12°C   | Không hoạt tính    | an toàn                                                                        |
+| ------- | ------------------ | ------------------------------------------------------------------------------ |
+| 12-18°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                          |
+| 18-25°C | Hoạt tính mạnh,bám | Cực nguy hiểm khi để Ngâm,  Kryst đá lumniar hoạt tính yếu khi chạm ở dạng này |
+| 25-30°C | Hoạt tính nhẹ      | chạm OK Ngâm yên lâu mới hoạt tính yếu, không hấp thu                          |
+| > 30°C  | Không hoạt tính    | an toàn                                                                        |
 ví dụ đơn giản:
 nhiệt độ tắm nước ấm như người hiện đại (35-42°) an toàn
 Nước nhiệt đới ngâm tĩnh (22–28°C): nguy hiểm nếu **nằm/ngâm bất động** lâu 

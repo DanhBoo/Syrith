@@ -2,7 +2,7 @@
 - Khi mùa đông tới, nhiệt độ Syren ở một số nơi lục địa đạt mức an toàn **<12°C** thì họ thường dùng thời gian này để khai phá, di cư. Có một bộ phận tìm tuyến đường liên lạc nơi có Gaia khác, nhưng bộ phận khai phá này ở Eldryn thì hầu hết **không trở lại** khi mùa xuân tới hoặc về tay trắng.
 - Mạch ma lực khi Syren đang kryst, veld hoạt hóa giúp y tế khâu giữ các bộ phân quan trọng
 - Với nền tảng năng lượng Syren — **Ma thuật** là cách nói của người thời đại này về dạng năng lượng / nguồn sức mạnh họ không lý giải được, phần nhiều đến từ **đá Luminar** — thứ tạo ra các dạng Syren khắp lục địa (Kryst, Veld).Các nền văn minh tùy theo văn hóa đã tinh lọc và thường dùng dưới dạng nước/Crystal đã được điều chế , tiên tri, nghi thức, hiện thực hóa năng lượng bằng hồi syren— họ gọi đó là **ma thuật**.
-
+- Nồi chung giữ nóng vài giờ → "cả bàn múc dần". Đây là phong tục bàn ăn cộng đồng phát sinh tự nhiên, không cần áp đặt "người Syrith yêu gia đình".
 hệ quyền lực Eldryn
 
 1. **Thần Quan** — tối cao thần chức

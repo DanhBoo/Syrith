@@ -16,13 +16,6 @@
 
 đường cong sụp đổ có link nào k, xóa
 
-
-
-Antonio 
- Esmat
-GAia scifi là dạng khai phá triết học, đóng cửa nghiên cứu sự kiện vũ trụ, các đồng tộc đi thu thập dữ kiện để bàn về hệ tư tưởng triết
-- Nồi chung giữ nóng vài giờ → "cả bàn múc dần". Đây là phong tục bàn ăn cộng đồng phát sinh tự nhiên, không cần áp đặt "người Syrith yêu gia đình".
-
 	phân theo bộ loài và phân tích theo góc nhìn tiềm năng của bộ những loài lai tạp ADN sẽ mix tính năng tùy vào cá thể
 ## 1) Lớp thú 
 ### a) Bộ Gặm nhấm + Bộ thỏ +Bô ăn sâu bọ

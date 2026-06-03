@@ -88,7 +88,7 @@
 
 ## 8. Chiến tranh nhỏ và lễ nghi
 
-**Khác biệt**: Không có vũ khí sinh học. Đầu độc nguồn nước phản tác dụng (cascade sinh thái khó đoán). Không tổng động viên đại trà (mỗi người quá quý).
+**Khác biệt**: Không có vũ khí sinh học. Không tổng động viên đại trà (mỗi người quá quý).
 
 **Hệ quả trực tiếp:**
 
