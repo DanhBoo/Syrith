@@ -61,11 +61,40 @@ Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]]
 
 ## III. Bảng trạng thái chi tiết
 
+> Syren hại theo hai trục: hoạt tính (nhiệt độ quyết Syren trơ hay bám) và nồng độ (men thanh lọc quyết nhiều hay ít Syren).
+
 >uống hoặc ăn ngưỡng nguy hiểm Syren tùy đề kháng từng loài sẽ làm các sinh vật không hấp thụ được và bị "nhiễm Syren"
 >chạm tiếp xúc ngưỡng nguy hiểm Syren tùy đề kháng từng loài làm các sinh vật bị "nhiễm Syren"
 >Kryst chỉ neo được khi điểm tiếp xúc **đứng yên đủ lâu** để Syren bám và đâm mạch ma lực (xem mục II).
 
-Bảng dưới phản ánh về mức đề kháng tiếp xúc loài văn minh Valdren, Tardren với Syren 
+### Men thanh lọc Syren — cơ chế hạ nồng độ
+
+> Men thanh lọc là mô/men sinh học hạ Syren trong môi trường về trạng thái trơ rồi thải đi. Chạy liên tục nhờ năng lượng sống: mô còn sống thì vùng quanh nó nồng độ thấp, mô ngừng thì Syren tràn về.
+
+Biến thiên theo ba trục:
+
+- Hướng — thải ra ngoài (hạ nồng độ nước/vùng quanh thân) hoặc xử trong thân (lọc Syren đã hấp thụ).
+- Cự ly — tầm vùng làm sạch: từ cả một vùng lớn quanh thân, nhỏ dần, tới cục bộ sát cá thể.
+- Cường độ — theo khối mô thanh lọc và năng lượng nuôi.
+
+Mỗi loài đặt cơ chế ở một tọa độ trên ba trục đó, ví dụ: (Chi tiết mỗi loài ở file riêng.)
+
+- [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]] của Gaia — ngoại, vùng rộng, mạnh nhất
+- enzim [[WB_2_Mục lục thảm sinh học#Bryven|Bryven]] — ngoại, cục bộ, yếu
+- cơ quan thải Syren bẩm sinh của Valdren — nội, trong một cơ thể, vừa đủ sống (suy ở mẹ mang thai thành [[WB_00_Context|hình phạt sinh sản]])
+
+Đun sôi chỉ làm Syren trơ tạm thời, nguội lại thì bám — không thay được men thanh lọc
+
+### Kháng thể — hãm tải Syren theo chu kỳ
+
+> Khác men (men trung hòa Syren, chạy liên tục), kháng thể hãm tải theo chu kỳ: cơ thể hạ trao đổi chất cho hấp thụ Syren chậm lại. Môi trường vẫn 100% nhưng cơ thể chịu như mức 25-50%; ngủ đủ ngưỡng (~12h) thì reset, thức thì tải bò lên lại.
+
+Tự thân hay bao gồm lên cá thể khác:
+
+- [[WB_11_Ngủ đông thương mại|Ngủ đông]] — gặm nhấm/thỏ tự reset cho chính mình.
+- Voi bụng lớn — bao gồm trạng thái đó lên khách, điều hòa Syren trên người khách ([[WB_11_Ngủ đông thương mại#2. Ngủ đông cộng sinh bằng sinh vật khác|WB_11 mục 2]]).
+
+Bảng dưới phản ánh về mức đề kháng tiếp xúc loài văn minh Valdren, Tardren với Syren dựa theo % nồng độ Gaia
 
 ### (Baseline) — Syren 100%
 
@@ -100,6 +129,8 @@ nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại
 | **18-25°C** | **Nhẹ-trung bình** | Vận động/tắm OK; **ngâm yên bất động> 15 phút thì Kryst ,lumniar hoạt tính yếu khi chạm ở dạng này |
 | 25-30°C     | Hoạt tính nhẹ      | Ngâm yên < 15 phút tương đối an toàn, hơn 15 phút gây hoạt tính yếu, không hấp thu                 |
 | > 30°C      | Không hoạt tính    | An toàn                                                                                            |
+
 ## IV.  Syren lõi mặc định trên cá thể
 
 >Tóm tắt: Có một dạng: nốt Syren cấp cao bẩm sinh gần trung tâm thần kinh, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Syren lưu hành & Linh hồn bảo mệnh & hệ thống tự vệ Syren|Syren Lưu hành]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.
+

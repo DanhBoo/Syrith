@@ -79,7 +79,7 @@ Lớp săn thường ngày là thợ săn Vessel xử thú đậu ở vỏ ngoà
 	- **Nỏ nhỏ — thương 1m2**, khẩu săn tiêu chuẩn. Bắn **từng phát nối nhau**: tời mạch ma lực lên dây nhanh, **người thay thương + người nhắm** bắn lặp lại để chiến binh ở xa có nhiều lượt đâm. Crew **3 người**.
 	- **Nỏ lớn — thương 2m2**, một phát mỗi lượt. Dành cho **quái siêu lớn** hoặc **phòng thủ khối** (bắn xuống đất khi bị tấn công từ dưới). Crew **5 người** (lên dây nặng hơn dù có mạch trợ).
 - **Chiến binh lái mũi**: ~**2 flyer**/đội bay áp sát, buông **sợi mạch ma lực nắm lấy thương** đang bay rồi nắn hướng cho cắm trúng quái.
-- **Đánh một đòn rồi rút**: flyer mang nhẹ (đúng trần 10% thân), đâm một nhát bằng thương đang bay rồi rút; quái né thì bay vòng đợi phát kế, lặp tới khi trúng.
+- **Đánh một đòn rồi rút**: flyer mang nhẹ (đúng trần 10% thân), đâm một nhát bằng thương đang bay rồi rút; quái né thì bay vòng đợi phát kế, lặp tới khi còn trong tầm hoặc hết tên hoặc flyer ra hiệu rút lui.
 - **Bolas theo cỡ quái**: quái nhỏ dính bolas khóa cánh là rớt và khó sống; đại wyvern thì nỏ+đâm ăn hơn, bolas chỉ để **ghìm không cho cất cánh** khi nó đã rớt. Giao thức bolas tách khỏi giao thức nỏ+thương.
 - **Tổ giáp kết liễu**: quái rớt/dưới đất mà còn hung → một **tổ Sarvel giáp nặng (~5 người)** tiếp quản, đánh dưới đất (giáp nặng nên đi bộ). Đây là người Sarvel đổi sang vũ trang nặng.
 

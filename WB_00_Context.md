@@ -208,7 +208,8 @@
 
 - Không thể tồn tại đế quốc.
 - Vấn đề mang quy mô thành quốc.
-- **Không có cách mạng công nghệ.** Thời gian gần như đứng yên — vài thế kỷ trước và sau giống nhau.
+- **Khó có cách mạng công nghệ.** 
 - **Mỗi mạng người đều đáng quý** — không có chiến tranh nuốt hàng triệu sinh mạng.
-- **Văn minh sống chung với hoang dã** — không thuần hoá được hết tự nhiên, mỗi chuyến đi xa là một chuyến phiêu lưu thật sự.
+- **Văn minh sống chung với hoang dã** — không thuần hoá được hết tự nhiên,
+- Mỗi chuyến đi xa là phiêu lưu
 
