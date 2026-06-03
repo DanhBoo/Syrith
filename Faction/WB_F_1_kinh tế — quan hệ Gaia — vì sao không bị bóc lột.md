@@ -20,9 +20,9 @@ Hai lớp chồng nhau giữ mỗi bên ở sân mình:
 
 ## III. Lao động không phải nút thắt
 
-- Trần giàu-mạnh do **địa lý gap + hàng giá-trị-cao** đặt ([[WB_P_1_Thương mại & scale lục địa#VII. Masquara — cộng hòa hàng hải|WB_P_1 mục VII]]); gom thêm đầu người không nâng được trần đó. Nên ép đẻ lấy nhân lực là động cơ rỗng.
+- Trần giàu-mạnh do **địa lý gap + hàng giá-trị-cao** đặt ([[WB_P_1_Thương mại & Scale lục địa#VII. Masquara — cộng hòa hàng hải|WB_P_1 mục VII]]); gom thêm đầu người không nâng được trần đó. Nên ép đẻ lấy nhân lực là động cơ rỗng.
 - Niche trung chuyển đã có chủ sinh học: crew gặm nhấm [[WB_11_Ngủ đông thương mại|Masquara]] ngủ đông kiểu răng cưa băng gap. Van reset đề kháng đó là của riêng chuột, nên việc thồ xuyên gap thuộc về chúng.
-- Dòng xuyên lục địa là dòng mỏng cực-giá-trị (cầu bộ tiêu hóa ~2-3% hàng biển, [[WB_P_1_Thương mại & scale lục địa#VII. Masquara — cộng hòa hàng hải|WB_P_1 mục VII]]) — quá nhỏ để bõ công nuôi một dân tộc làm nô.
+- Dòng xuyên lục địa là dòng mỏng cực-giá-trị (cầu bộ tiêu hóa ~2-3% hàng biển, [[WB_P_1_Thương mại & Scale lục địa#VII. Masquara — cộng hòa hàng hải|WB_P_1 mục VII]]) — quá nhỏ để bõ công nuôi một dân tộc làm nô.
 
 ## IV. Vireth là nhà cung độc quyền
 
@@ -31,7 +31,7 @@ Hai lớp chồng nhau giữ mỗi bên ở sân mình:
 - Chuỗi giá trị: Korven khai → giao [[WB_11_Ngủ đông thương mại|Masquara]] carry qua gap → chợ Valdren. Korven đứng ở **thượng nguồn** chuỗi.
 
 ### Động lực buôn hai chiều
-- Vireth ít làm nông/săn nên cần lương thực ổn định + đồ chế tác. Nông nghiệp ổn định, [[WB_4_Gaia#Sữa Gaia và văn minh khai thác|sữa Gaia]], [[WB_9_Vessel|Vessel]], công cụ tinh đều đến từ vùng Gaia ([[WB_P_1_Thương mại & scale lục địa#VI. Chuyên môn các vùng|WB_P_1 mục VI]]).
+- Vireth ít làm nông/săn nên cần lương thực ổn định + đồ chế tác. Nông nghiệp ổn định, [[WB_4_Gaia#Sữa Gaia và văn minh khai thác|sữa Gaia]], [[WB_9_Vessel|Vessel]], công cụ tinh đều đến từ vùng Gaia ([[WB_P_1_Thương mại & Scale lục địa#VI. Chuyên môn các vùng|WB_P_1 mục VI]]).
 - Hai bên thiếu chéo: Vireth cần lương thực + chế tác, khối Gaia cần khoáng Syren sâu. Mỗi bên cầm một thứ độc quyền của mình → giá giữ thế cân bằng, cả hai cùng lợi.
 
 ## V. Bảo kê — dịch vụ bán từ thế mạnh

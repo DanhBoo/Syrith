@@ -87,7 +87,7 @@ Trộn đất dinh dưỡng nền + bột khoáng + bột hoa điều chỉnh. K
 
 ### Bước 3 — Ủ bầu
 
-Ủ bầu đất ở nhiệt độ ngoài cửa sổ hoạt tính Syren (dưới 12°C hoặc trên 30°C — xem [[WB_5_SYREN#III.  Bảng trạng thái chi tiết|bảng trạng thái Syren]]) để linh hồn ổn định khâu vá vật chủ trong bầu, giữ trạng thái nghỉ cho đến khi sử dụng.
+Ủ bầu đất ở nhiệt độ ngoài cửa sổ hoạt tính Syren (dưới 12°C hoặc trên 30°C — xem [[WB_5_SYREN#III. Bảng trạng thái chi tiết|bảng trạng thái Syren]]) để linh hồn ổn định khâu vá vật chủ trong bầu, giữ trạng thái nghỉ cho đến khi sử dụng.
 
 ### Bước 4 — Đóng gói
 

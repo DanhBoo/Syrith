@@ -1,7 +1,7 @@
 	Giải thích những nghiên cứu và khoa học trên lục địa
 # I. Tiên tri
 
-Số rất ít các sinh vật của lục địa ASTRAEA qua tập luyện và bẩm sinh có năng lực cảm nhận thế giới quan thông qua [[WB_5_SYREN#2. Rối Syren|Rối Syren]] 
+Số rất ít các sinh vật của lục địa ASTRAEA qua tập luyện và bẩm sinh có năng lực cảm nhận thế giới quan thông qua [[WB_5_SYREN#2) Rối Syren|Rối Syren]] 
 Chọn lọc, cảm nhận được các dạng thông tin của vũ trụ có timeline gần với ASTRAEA sau đó sẽ dựa vào đó để truyền đạt lại gọi là tiên tri, người thực hiện giao thức này gọi là nhà Tiên Tri
 Cơ chế sẽ là trước khi tiên tri nhà tiên tri hoặc những người có đủ năng lực cảm nhận rối Syren mức nhất định sẽ tìm và chọn một vật mẫu dự tính sẽ liên quan đến sự kiện, sự việc cần tiên tri (ví dụ dùng thanh kiếm làm vật mẫu trước trận chiến)
 Chọn ít nhất 2 Syren trong vật thể đó- thực hiện giao thức tiên tri để lấy chúng làm một cặp hạn chế sai số, khi 1 cặp Syren ở gần nhau để sử dụng khi tiên tri, dễ đưa ra parten tương tự gần nhau ở cặp twin bên kia ,khi chỉ lấy một syren bất kì để giao thức tiên tri mà không chọn theo cặp trở lên, sẽ dễ  xảy ra trạng thái Syren twin đó ở trong môi trường khác hẳn khó hiểu và tiên tri sai lệch

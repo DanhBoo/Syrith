@@ -21,7 +21,7 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 - Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)**, có ở thể rắn, lỏng, khí, pha sợi coherent (pha của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]]) và "hồi" tùy điều kiện tác động.
 - Syren-Hồi (Echo Form) là pha thứ 5 của Syren — một dạng năng lượng hữu hình tạm thời, hình thành khi liên kết rối giữa Syren bên này và twin bên kia được **khuếch đại đủ mạnh** để **sao chép cấu trúc và lịch sử state của twin** lên một vật chứa Syren bên này (ví dụ: một cục đá)
 - Vật chứa Syren cấp **năng lượng**, còn thông tin twin **quyết hình dạng**. Mạch ma lực dạng sợi lấy năng lượng từ nguồn syren rồi đan lại theo thông tin twin. Kết quả là một bản sao/phần bản sao gần đúng của twin (hoặc của thông tin môi trường quanh twin) ở dạng năng lượng có hình thù chạm được, nhưng liên kết không bền — decohere có thời gian biến mất trả lại trạng thái Syren ban đầu (trạng thái cục đá chứa syren)
-> [[WB_6_Sinh học#3) Mạch ma lực|Mạch ma lực]] là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi. 
+> [[WB_6_Sinh học#4) Mạch ma lực|Mạch ma lực]] là dạng sợi pha trung gian dẫn năng lượng Syren. Khi sợi đan đủ mật độ và có vật chứa Syren làm anchor, mạng đan chuyển sang pha hồi — hữu hình hóa thông tin twin tạm thời thì trạng thái hữu hình hóa thông tin lúc này gọi là Syren hồi. 
 
 **Đặc tính**:
 
@@ -102,4 +102,4 @@ nước đá, lạnh, tủ lạnh ngăn mát/đá nhiều người hiện đại
 | > 30°C      | Không hoạt tính    | An toàn                                                                                            |
 ## IV.  Syren lõi mặc định trên cá thể
 
->Tóm tắt: Có một dạng: nốt Syren cấp cao bẩm sinh gần trung tâm thần kinh, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Túi Syren|Syren Lưu hành]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.
+>Tóm tắt: Có một dạng: nốt Syren cấp cao bẩm sinh gần trung tâm thần kinh, mang Syren lõi liên kết hệ thần kinh — xem định nghĩa đầy đủ tại [[WB_6_Sinh học#2) Syren lưu hành & Linh hồn bảo mệnh & hệ thống tự vệ Syren|Syren Lưu hành]]. Khác với Veld nhiễm ở mục II, túi này có Syren cấp cao bẩm sinh.

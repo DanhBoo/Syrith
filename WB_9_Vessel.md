@@ -20,8 +20,8 @@ Vách ngăn là tấm vật liệu trung gian, định nghĩa thiết kế theo 
 ### 4. Vessel Crysto
 
 - Vách gắn liền Crystal Kryst/Veld nhân tạo bên trong. Crystal vẫn hoạt hóa và muốn bám vào cơ thể như Kryst tự nhiên, nhưng bị vách cản — lực bám chuyển thành hấp dẫn bề mặt, Vessel "dính" vào đầu, ngực, tay, chân vật chủ như nam châm sinh học, giữ tính ổn định.
-- Cơ chế Hồi của Vessel Crysto lấy thông tin twin từ [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] của chính vật chủ (Crystal trong Vessel là túi phụ, không có Syren cấp cao riêng). Vessel đóng vai trò anchor point để hữu hình hóa [[WB_7_Năng lực#II. Linh hồn bảo mệnh|Linh hồn bảo mệnh]] từ vị trí Vessel.
-- Vessel Crysto chậm hơn khi truy xuất trực tiếp từ Syren lõi + Syren lưu hành của vật chủ do thông tin đi đường vòng qua hệ thần kinh + mạch máu — xem [[WB_6_Sinh học#f) Phân loại túi và cơ chế thông tin twin|cơ chế kiểu 1]]. Mức độ trễ còn phụ thuộc khoảng cách tới trung tâm thần kinh, dẫn tới phân loại theo vị trí đeo.
+- Cơ chế Hồi của Vessel Crysto lấy thông tin twin từ [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] của chính vật chủ (Crystal trong Vessel là túi phụ, không có Syren cấp cao riêng). Vessel đóng vai trò anchor point để hữu hình hóa [[WB_6_Sinh học#b) Linh hồn hộ mệnh|Linh hồn bảo mệnh]] từ vị trí Vessel.
+- Vessel Crysto chậm hơn khi truy xuất trực tiếp từ Syren lõi + Syren lưu hành của vật chủ do thông tin đi đường vòng qua hệ thần kinh + mạch máu — xem [[WB_6_Sinh học#Kiểu 1 — vận hành túi phụ (Vessel, Veld nhiễm)|cơ chế kiểu 1]]. Mức độ trễ còn phụ thuộc khoảng cách tới trung tâm thần kinh, dẫn tới phân loại theo vị trí đeo.
 
 #### Ví dụ types theo vị trí đeo
 - **Crown Vessel** — đầu, ưu tiên cao nhất do gần trung tâm thần kinh.

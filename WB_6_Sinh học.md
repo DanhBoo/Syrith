@@ -64,14 +64,14 @@
 - khi chủ thể đẩy năng lượng ra quá mạnh mạch ma lực chưa truyền tải đi hết được nên ứ đọng nếu đến cực hạn thành hình thái visual crystal Veld tại điểm Syren lưu hành dồn ứ, mạch ma lực chưa tải hết → Kryst cục bộ, đẩy hết thì về trạng thái bình thường thường
   
 #### b) Linh hồn hộ mệnh 
->Sinh vật trong lục địa thường khi cơ thể trưởng thành sẽ đủ điều kiện truy xuất thông tin [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] tiêu hao năng lượng Syren trong Syren lưu hành để hữu hình trong thoáng chốc và điều khiển dựa trên thông tin lịch sử twin Syren lõi. Hiện thực một phần [[WB_5_SYREN#3. Syren "hồi" và các trạng thái Syren|trạng thái hồi của Syren]] gọi là linh hồn hộ mệnh. Đây là một hệ thống tự vệ của sinh vật trên lục địa
+>Sinh vật trong lục địa thường khi cơ thể trưởng thành sẽ đủ điều kiện truy xuất thông tin [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] tiêu hao năng lượng Syren trong Syren lưu hành để hữu hình trong thoáng chốc và điều khiển dựa trên thông tin lịch sử twin Syren lõi. Hiện thực một phần [[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|trạng thái hồi của Syren]] gọi là linh hồn hộ mệnh. Đây là một hệ thống tự vệ của sinh vật trên lục địa
 
 - ví dụ syren lõi ở tủy sống, syren bậc cao của nó bên kia là một con nhện, một cái chân nhện hữu hình mọc ra từ vùng syren cho mọc từ bất kỳ phần cơ thể (tay/lưng), vì mạch ma lực nối Syren khắp người, vật chủ bên này nhớ lại giấc mơ và hiện thực hóa trạng thái tấn công của con nhện
 - Visual trạng thái hữu hình sẽ là: Syren mạch ma lực đan dệt tại điểm hữu hình hóa, càng xa Syren lõi gradient/độ trễ càng tăng là hữu hình (ví dụ gần túi là các sợi đan lại, phần chân nhện hữu hình rõ ràng đầu bên kia)
 - Trạng thái hồi này sẽ duy trì tùy vào mong muốn vật chủ và giới hạn Syren lưu hành
 - Cơ thể vật chủ có thể dùng Syren lưu hành làm nguồn năng lượng thay thế". delay càng lớn khi điểm dùng càng xa Syren lõi, và luôn chậm hơn phản xạ thần kinh. cuộc sống hằng ngày, là một nguồn năng lượng thay thế 
 - Có những cá cực hiếm thể đạt trình độ thay được syren lõi thành syren lõi khác có chủ đích để chữa các chứng rối loạn khi Syren lõi có twin quá khác so với cá thể gốc ví dụ twin là một con rồng hoặc cá thể đang nối với quá nhiều syren lõi cần cắt bớt hoặc muốn thử nghiệm Syren lõi đặc biệt hơn- Quá trình này phải cắt và nối lại thủ công mạch ma lực lõi nên rất tốn công sức
-#### c)  Linh hồn thực vật
+#### c) Linh hồn thực vật
 >Linh hồn thực vật là cơ quan trung tâm của cây, chứa Syren lõi của cây và kiêm hệ trung ương. Đặt tên theo loài: "Linh hồn Gaia,+phân loài/tên gọi riêng của cây" -ví dụ: Linh hồn Gaia hoặc Linh hồn Eldtree 
 
 - Ở số ít thực vật có Linh hồn thực vật. Cây có cơ quan này có khả năng tạo hồi syren và linh hồn hộ mệnh để phòng vệ như các chức năng trên .Khác biệt ở chỗ chúng không có liên kết hệ thần kinh và còn có chức năng như một hệ trung ương của cây
@@ -120,7 +120,7 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 ### 4) Mạch ma lực
 
 > Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — một **pha ngưng tụ coherent của Syren** (kiểu siêu rắn: vừa có khung tinh thể rắn sờ/bẻ được, vừa cho dòng Syren chảy bên trong), duy trì MQC nhờ Syren lưu hành / Syren lõi. Pha này **trung hòa điện-từ** —  tác dụng cơ học (đẩy, dệt, dẫn năng lượng) Khi nguồn ngắt, sợi tan.
-> Khi giữ năng lượng cấp liên tục, các sợi đan lưới hoàn thiện thành dạng năng lượng [[WB_5_SYREN#3. Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn này đi nơi khác, mạng lưới truyền đi này gọi là mạch ma lực
+> Khi giữ năng lượng cấp liên tục, các sợi đan lưới hoàn thiện thành dạng năng lượng [[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn này đi nơi khác, mạng lưới truyền đi này gọi là mạch ma lực
 - Dạng sợi ở Mạch ma lực chúng có tính vật lý chạm vào được và bẻ gãy được, khi bị tác động đứt gãy chúng sẽ tìm đường khác hoặc tạo đường ống khác để đẩy năng lượng đi.
 - Hệ thần kinh thì cơ thể con người sẽ phản ứng đồng bộ ngay lập tức, thì mạch ma lực phản hồi có **độ trễ**. Vậy nên nếu phần Crystal/Kryst/nguồn chứa Syren bị nhiễm ngay chân/cẳng tay — nơi cách xa trung ương thần kinh (tủy sống và não bộ) — sẽ có độ process trễ hơn. Khó kiểm soát hơn, dễ hiểu là các chi đó **lấy năng lượng chậm hơn**.
 - Khi trong trạng thái Kryst/Veld nặng thì mạch ma lực sẽ **áp đảo thần kinh vận động** của cơ thể ở đó. Nên cơ thể sẽ thấy chậm chạp và delay ngay phần chi này — dù não gửi tín hiệu nhưng sẽ có độ trễ.
@@ -129,7 +129,7 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 - Các loài văn minh gần người có thể giao phối với nhau, con sẽ mang adn thông thường chỉ biểu hiện của ba hoặc mẹ, số ít thì của ông bà trước, số ít nữa thì pha trộn giữa các ADN gia phả người con có do ba mẹ tạo nên.
 - Valdren không thể có con với Korven và Tardren
 - Các loài Valdren khi sinh con thì suy giảm các chức năng thải độc-suy giảm khả năng thải syren khi mang thai ảnh hưởng đến cơ thể nên mỗi khi sinh con người mẹ sẽ bị nhiễm syren hơn, càng ngày càng nguy hiểm nếu sinh nhiều. Hậu quả là mỗi người mẹ Valdren đối mặt với nguy hiểm chết người khi sinh nhiều con sau người thứ 2 hoặc 3, tỉ lệ chết tăng cao.
-- Ở thời Syrith, khi [[WB_5_SYREN#I. SYREN|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren chắt lọc hòa vào Syren lưu hành, dư thì đào thải ra ngoài phân nước tiểu.
+- Ở thời Syrith, khi [[WB_5_SYREN#I.Định nghĩa Syren nguyên bản|Syren]] vào cơ thể sẽ được cơ thể tự động phân loại hấp thụ và đào thải. Phần Syren chắt lọc hòa vào Syren lưu hành, dư thì đào thải ra ngoài phân nước tiểu.
 ### 6) Hệ thống tự chữa trị sinh học từ Syren
 - Với Syren lõi + Syren lưu hành bẩm sinh, Veld nhiễm, hoặc Vessel— khi đã nghe lời trung ương thần kinh/não bộ qua hệ thần kinh thì hệ thống này tạo mạch ma lực để tự khâu các vết thương cho chủ thể khi bị thương/ngắt mạch ma lực khi chủ thể ổn định
 - Sự ổn định và tốc độ hệ thống này phụ thuộc vào thói quen sử dụng túi, tập luyện ,tiềm năng ,dị bản, tài năng từng loài

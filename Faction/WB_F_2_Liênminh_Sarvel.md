@@ -33,7 +33,7 @@ Khối đá đi bằng **thảm cơ-rễ Veld** — một bộ máy cơ bắp si
 - Saltree là Gaia → **Linh hồn thực vật** làm trung ương, giữ nhịp bò có chủ đích.
 - Mạch ma lực gia cố rễ, cho rễ chịu tải vượt gỗ thường.
 - Khối bò kiểu **sâu đo / chân rết**: chân rễ nhấc-đặt từng nhịp, chia tải khắp nhiều chân → áp lực mỗi điểm thấp, bám chắc mặt đất, đứng vững trước gió.
-- Tốc **~5-8 km/ngày**, đi **ban ngày theo nắng** (Linh hồn định hướng — Saltree hướng sáng); đêm gân tan, khối đứng nghỉ.
+- Tốc **6 km/ngày** (≈**0.55 km/h** lúc bò ban ngày ~11h), đi **ban ngày theo nắng** (Linh hồn định hướng — Saltree hướng sáng); đêm gân tan, khối đứng nghỉ. Khi đoàn ra trạm hành lễ, khối cũng đỗ chờ tới khi đoàn về ([[#V. Chư hầu Vireth & cống nạp|mục V]]).
 
 ### 4. Kích thước khóa theo sức rễ
 Thảm rễ khiêng gọn cỡ **~150 m** (≈4-6 triệu tấn). Trọng lượng tăng theo thể tích (L³) còn sức đỡ của rễ tăng theo diện tích đáy (L²), nên mỗi nấc to thêm đội chi phí rất nhanh — 150 m là mức rễ gánh thoải mái.
@@ -54,7 +54,7 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 
 - **Đủ sàn ≥10.000**: Sarvel phải chạy đồng thời triều đình cống nạp và trường tiên tri cấp cao — cả hai theo [[WB_P_3_Bảng phân bố nghề siêu chi tiết (toàn bộ thành quốc)|WB_P_3]] cần ≥10.000. Mốc 10k cho tiên tri một lát riêng (~14%) đủ dày, tách bạch với hành chính.
 - **Săn tại nhà**: thợ săn làm việc trong hang vỏ ngoài (phơi Syren, đeo Vessel) rồi rút về lõi; chỉ đoàn đi trạm cống nạp mới lập caravan tạm rời khối rồi về. Cả thành quốc ở cố định trong khối, sống trên/trong đá.
-- Thú nuôi là **thú cưỡi + thú thồ** phục vụ săn và đi trạm, kèm ít chuồng nhỏ; lương thực vẫn hoàn toàn từ săn.
+- Thú nuôi gồm **thú cưỡi + thú thồ** phục vụ săn và đi trạm, cùng một bầy nhỏ **thú bay nghi lễ** cõng tiên tri ra trạm ([[#VI. Đoàn hành lễ & thú bay nghi lễ|mục VI]]), kèm ít chuồng nhỏ; người chăm cả ba loại nằm gọn trong lát chăm thú cưỡi. Lương thực vẫn hoàn toàn từ săn.
 - Bộ máy ghi chép: ~1-2% dân = **~100-200 thư lại/kế toán cống nạp** + ~20-40 tiên tri-thầy làm lễ. Đủ xử ~20 bộ lạc, mỗi bộ ghé một lần/năm.
 - **Kinh tế**: khoáng + kim loại từ cống nạp Korven; thủ công cơ bản tự làm; đồ tinh xa xỉ mua từ rìa Valdren (xem [[#V. Chư hầu Vireth & cống nạp|mục V]]).
 
@@ -62,10 +62,28 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 
 ## IV. Săn bắt trên đá
 
-- **Sàn lương thực = sức hút của Đá Sa Minh**: khối đá tự kéo thú hoang Syren (wyvern, khủng long bay, thú Syren nhỏ) về đậu ở hang vỏ ngoài. Sarvel săn ngay tại nhà — thợ săn vào hang vỏ ngoài (phơi Syren) bằng Vessel, xẻ tại chỗ rồi rút về lõi an toàn. Thú tự kéo về nên thợ săn ở yên trong pháo đài là đủ — hợp với thân Valdren vốn mạnh trong vùng Gaia.
-- **Vì sao đủ ăn**: Đá Sa Minh là khối khoáng Syren đậm đặc — với thú Syren nó là một **ốc đảo Syren biết đi**, nên chúng bị kéo về (cùng logic Korven mạnh trong vùng Syren dày); cộng vách cao ~150 m + dòng khí nâng + hốc cao yên thân làm chỗ đậu hấp dẫn. Khối bò qua hoang dã Syren dày megafauna, thú kéo về liên tục. Đậu cùng lúc **~40-60 con lớn** + nhiều thú nhỏ; vòng quay (kéo về → bị săn → con mới tới) cho sản lượng năm đủ nuôi ~10.000. Thịt ~400-600 kg/con lớn, **xẻ ngay tại hang** nên tận dụng nhiều phần; sừng, mật quái là phần danh giá.
-- **Sarvel tính theo mô hình sức-hút**: vì là khối di động, sản lượng do **tốc độ thú kéo về** quyết, phụ thuộc độ giàu của hoang dã Syren khối đang đi qua. (Công thức bán kính R=√(N/23.5) ở [[WB_P_2_Săn bắt & Lãnh thổ thành bang|WB_P_2]] dành cho thành quốc đứng yên.)
-- **Bốn mùa lên đường**: xoay vùng cho mỗi catchment megafauna hồi phục (đậu mãi một chỗ sẽ vét cạn đàn bay địa phương) + gom cống nạp dọc tuyến.
+### 1. Tổng quan
+
+- **Đảo xanh di động làm điểm đậu**: trên khối là thảm Saltree — rừng cây lớn, nhìn như một ốc đảo xanh giữa hoang dã Syren. Vách cao ~150 m + dòng khí nâng + hốc cao yên thân biến khối thành **điểm đậu (rookery)** mà thú bay hoang (wyvern, khủng long bay, thú Syren nhỏ) tự tụ về nghỉ/đậu — như chim biển bu một mỏm đá đơn độc giữa biển. Khối là chỗ đậu xanh-cao-tốt nhất quanh vùng nên thú tự tụ về.
+- **Săn tại nhà**: thú đậu ở hang/hốc vỏ ngoài (phơi Syren); thợ săn ra vỏ ngoài bằng Vessel, xẻ tại chỗ rồi rút về lõi Gaia-an toàn. Thú tự tới đậu nên thợ săn ở yên trong pháo đài là đủ — hợp thân Valdren vốn mạnh trong Gaia.
+- **Vì sao đủ ăn**: khối bò qua hoang dã Syren dày megafauna và là điểm đậu hấp dẫn nhất dọc tuyến, nên thú ghé liên tục. Đậu cùng lúc **~40-60 con lớn** + nhiều thú nhỏ; vòng quay (ghé đậu → bị săn → con mới tới) cho sản lượng năm đủ nuôi ~10.000. Thịt ~400-600 kg/con lớn, **xẻ ngay tại hang** nên tận dụng nhiều phần; sừng, mật quái là phần danh giá.
+- **Mô hình điểm-đậu**: sản lượng do độ giàu megafauna bay dọc tuyến + sức hấp dẫn của điểm đậu quyết. Công thức bán kính R=√(N/23.5) ở [[WB_P_2_Săn bắt & Lãnh thổ thành bang|WB_P_2]] là cho thành quốc đứng yên — đây là mô hình khác.
+- **Bốn mùa lên đường**: xoay vùng cho đàn bay mỗi nơi hồi phục (đậu mãi một chỗ sẽ vét cạn đàn địa phương) + gom cống nạp dọc tuyến.
+
+### 2. Giao thức săn bắt
+
+Lớp săn thường ngày là thợ săn Vessel xử thú đậu ở vỏ ngoài. Với **quái bay lớn** (wyvern đại, khủng long bay) có một giao thức vũ khí nặng riêng:
+
+- **Xe nỏ đặt điểm cao**: khi quái lớn tới, một đội kéo **một khẩu nỏ** (cỡ ballista) lên chỗ cao dễ xoay theo quái. Một đội **một nỏ** là đủ — gom nhiều khẩu một chỗ thì vận hành rối.
+- **Hai cỡ thương**:
+	- **Nỏ nhỏ — thương 1m2**, khẩu săn tiêu chuẩn. Bắn **từng phát nối nhau**: tời mạch ma lực lên dây nhanh, **người thay thương + người nhắm** bắn lặp lại để chiến binh ở xa có nhiều lượt đâm. Crew **3 người**.
+	- **Nỏ lớn — thương 2m2**, một phát mỗi lượt. Dành cho **quái siêu lớn** hoặc **phòng thủ khối** (bắn xuống đất khi bị tấn công từ dưới). Crew **5 người** (lên dây nặng hơn dù có mạch trợ).
+- **Chiến binh lái mũi**: ~**2 flyer**/đội bay áp sát, buông **sợi mạch ma lực nắm lấy thương** đang bay rồi nắn hướng cho cắm trúng quái.
+- **Đánh một đòn rồi rút**: flyer mang nhẹ (đúng trần 10% thân), đâm một nhát bằng thương đang bay rồi rút; quái né thì bay vòng đợi phát kế, lặp tới khi trúng.
+- **Bolas theo cỡ quái**: quái nhỏ dính bolas khóa cánh là rớt và khó sống; đại wyvern thì nỏ+đâm ăn hơn, bolas chỉ để **ghìm không cho cất cánh** khi nó đã rớt. Giao thức bolas tách khỏi giao thức nỏ+thương.
+- **Tổ giáp kết liễu**: quái rớt/dưới đất mà còn hung → một **tổ Sarvel giáp nặng (~5 người)** tiếp quản, đánh dưới đất (giáp nặng nên đi bộ). Đây là người Sarvel đổi sang vũ trang nặng.
+
+Một đội nỏ-nhỏ ~5 người (3 crew + 2 flyer), tổ giáp gọi thêm khi quái rớt. Săn quái lớn là việc thi thoảng; phần lớn 3.800 thợ săn làm lớp săn thường ở vỏ ngoài.
 
 ---
 
@@ -73,21 +91,59 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 
 - **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
 - Quy mô: **~20 bộ lạc** (biên 12-25), mỗi bộ ~1.000-1.200 người (Korven đẻ khỏe) → tổng **~24.000 Korven** (biên ~15.000-28.000).
-- **Cống nạp** = thặng dư + khoáng Syren quý ([[WB_2_Mục lục thảm sinh học#Luminar|Luminar]], đá Sa Minh, khoáng Syren thô) + kim loại — thứ chỉ Korven khai được trong vùng Syren dày.
+- **Cống nạp** = thặng dư + khoáng Syren quý [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]], + kim loại — thứ tài nguyên quý tùy biến Korven mỗi vùng
 - **Sarvel đổi gì ra ngoài**: bán thặng dư khoáng Syren (từ cống nạp) + nguyên liệu wyvern/quái hiếm + dịch vụ tiên tri → mua **đồ tinh thể tích nhỏ giá cao** ở rìa Valdren (tơ lụa, trà, gia vị, sứ/gốm cao cấp, kiếm thép, đá quý chế tác, nước hoa, rượu — cho tầng cai trị + nghi lễ). Buôn vùng trực tiếp này khác tuyến long-haul xuyên gap của [[WB_11_Ngủ đông thương mại|Masquara]].
 
-### Trạm trung chuyển
+### Các giao thức ở trạm
 - Korven khỏe trong môi trường Syren, nên cống nạp xử ở **trạm ngoài bong bóng, bên đất Syren**: đại diện Sarvel (gồm tiên tri) **ra trạm** nhận, thống kê, làm lễ.
 - Lễ tiên tri **tái nạp/nâng Syren cấp cao** + phong tước cho tù trưởng, diễn ngay trong môi trường Syren (rối cấp cao tái liên kết khi đủ điều kiện — [[WB_5_SYREN#2) Rối Syren|WB_5 rối cấp cao]]).
-- **~4 ngày/trạm** (biên 3-5): kiểm kê, lễ, phong tước, tiệc ngoại giao.
-- **~12-20 trạm/năm** (4 mùa × ~3-5), vòng di chuyển **~2.000 km/năm**, mỗi trạm gom 1-2 bộ lạc lân cận.
+- **Khối đá dừng chờ đoàn**: suốt sự kiện, đá đỗ sát điểm hẹn và nằm im (cả ngày lẫn đêm) tới khi đoàn xong việc rồi mới bò tiếp — nhịp "đá thiêng dừng để ban phước chư hầu". Vì mỗi đợt khối chỉ đỗ tại một trạm, Sarvel làm xong trạm này mới bò sang trạm kế — các trạm nối đuôi nhau, mỗi đợt một đoàn ra ngoài.
+- **7 ngày/trạm** cho một bộ lạc, trải:
+	1. Ngày 1 — đá đỗ sát điểm hẹn; đoàn bay ra dựng bãi lễ ngoài rìa, đón bộ lạc tới.
+	2. Ngày 2 — kiểm kê cống phẩm (đếm, cân, ghi sổ); kiểm xong là đoàn thú thồ chở cống phẩm về khối ngay, đi trước trong khi lễ vẫn tiếp tục.
+	3. Ngày 3 — khảo sát/đánh giá + nghe thỉnh nguyện: quan lại + tiên tri xét gia hạn phong tước năm nay cho tù trưởng, giải quyết kiến nghị chư hầu luôn trong buổi này.
+	4. Ngày 4 — chuẩn bị lễ.
+	5. Ngày 5 — lễ phong tước + tái nạp Syren cấp cao (rối re-link).
+	6. Ngày 6 — tiệc ngoại giao.
+	7. Ngày 7 — bế mạc; quan + tiên tri bay về khối; một buổi tham quan/giao lưu cho đoàn trên đất bộ lạc.
+- **20 trạm/năm** (mỗi bộ lạc ghé một lần/năm). Đá đỗ 7 ngày × 20 trạm = **140 ngày/năm** nằm im; **220 ngày** còn lại để bò (dôi ~5 ngày/năm), ở 6 km/ngày khối đi **1.320 km/năm**. Một chu kỳ trạm = 18 ngày (7 lễ + 11 bò) → **~1.6 trạm/tháng**.
+- **Khoảng cách bộ lạc 66 km** (1.320 km ÷ 20 trạm): ở 6 km/ngày khối mất **11 ngày** bò để tự lết tới gần bộ lạc kế; đoàn tiên tri bay vượt chặng đó trong ~1 giờ, phần lớn thời gian chặng là đá đang di chuyển.
+- **Đưa cống phẩm lên đá**: cống phẩm là khoáng quý + kim loại — gọn về giá trị nhưng nặng khối lượng, vượt mức **10% thân (~5 kg/người)** flyer cõng nổi, nên chở bằng thú thồ. Kiểm kê xong (ngày 2), **đoàn vệ binh áp tải thú thồ** (loài bò chịu được đất Syren) chở cống phẩm theo đường bộ về khối đang đỗ gần đó. Hàng chất tại **bệ caravan đặt trên một khối tender phụ** — khối này thấp hơn khối chính 150 m rất nhiều, nên cống phẩm lên gần mặt đất thay vì phải kéo thẳng lên tháp 150 m; từ bệ caravan chuyển tiếp vào kho bằng **hoist rễ + dây leo**. Quan + tiên tri ở lại lo nốt lễ rồi bay về sau.
 
 ### Vì sao chư hầu thần phục
-Syren-boost  không ổn định theo thời gian, cần tái nạp mỗi vòng**. Sức mạnh + địa vị bản địa của tù trưởng gắn với việc Sarvel quay lại → quan hệ cống nạp **tự duy trì êm thuận**, như một dạng "nhượng quyền sức mạnh".
+Syren-boost suy giảm theo thời gian, cần tái nạp mỗi vòng. Sức mạnh + địa vị bản địa của tù trưởng gắn với việc Sarvel quay lại → quan hệ cống nạp **tự duy trì êm thuận**, như một dạng "nhượng quyền sức mạnh".
 
 ---
 
-## VI. Quy mô liên minh
+## VI. Đoàn hành lễ & thú bay nghi lễ
+
+Để đưa tiên tri ra trạm hành lễ, Sarvel giữ một bầy nhỏ **thú bay nghi lễ** cõng tiên tri + đồ lễ; vệ binh và tùy tùng tự bay bằng cánh mình.
+
+### 1. Thú bay nghi lễ
+
+- **Nguồn — thuần từ đàn hoang tụ về đậu trên khối**: thú bay hoang (wyvern, khủng long bay) tự ghé đậu ở hang vỏ ngoài vì khối là điểm đậu hấp dẫn (~40-60 con lớn cùng lúc, [[#IV. Săn bắt trên đá|mục IV]]). Sarvel giữ lại vài con hợp tính, thuần thành thú cưỡi lễ; hao hụt bù từ chính dòng thú mới ghé.
+- **Hạng khối lượng**: cõng một Sarvel + bành + đồ lễ (~70-100 kg tải) đặt con vật vào hạng wyvern / khủng long bay — đúng dòng megafauna bay mà roost vỏ ngoài cung cấp sẵn.
+- **Bầy 20 con** giữ vận hành ổn định: trạm chạy tuần tự (một đoàn mỗi lượt vì đá dừng chờ) nên mỗi đợt chỉ 4 con phục vụ, phần còn lại nghỉ cánh, thay lông, hoặc đang thuần. Bù từ roost hoang nên bầy giữ cỡ nhỏ, thay con bằng cách bắt thêm từ đàn hoang.
+- **Cái ăn rút từ thặng dư săn**: Sarvel xẻ 40-60 con lớn (400-600 kg/con) tại hang, dư phần — bầy thú bay ăn vào phần dư đó, sau khi người đã đủ ăn.
+- **Người chăm 15**: nài + thợ chăm + thợ thuần lành nghề, nằm trong lát **chăm thú cưỡi** của nhóm 14% ([[#III. Dân số & bộ máy (số liệu khả dỉ)|mục III]]).
+
+### 2. Đoàn hành lễ (số người)
+
+Mỗi đoàn ra một trạm làm lễ phong tước + tái nạp Syren cấp cao gồm:
+
+- **2 tiên tri-thầy làm lễ** — VIP, cõng trên thú bay trong **bành Gaia-an toàn** (bong bóng cá nhân di động, cùng cơ chế USP Saltree).
+- **2 học viên/phụ lễ** — xử lý Luminar, phụ nghi thức.
+- **8 thư lại/kế toán cống nạp** — kiểm kê, thống kê cống phẩm (rút từ đội ghi chép ~100-200 người).
+- **13 vệ binh Vessel** bay hộ tống bằng cánh mình, lo đoạn băng hoang dã Syren; kiêm áp tải đoàn **thú thồ** chở cống phẩm về khối ngay sau khi kiểm kê ([[#V. Chư hầu Vireth & cống nạp|mục V]]).
+- **4 thú bay nghi lễ** cõng tiên tri, bành, đồ lễ, người cấp cao.
+
+→ **25 người + 4 thú/đoàn** (2 thầy + 2 phụ lễ + 8 thư lại + 13 vệ binh)
+
+→ **Tải đồng thời**: trạm chạy tuần tự nên mỗi lượt chỉ một đoàn (25 người + 4 thú) rời khối, rút từ các lát vệ binh + tiên tri + thư lại sẵn có.
+
+---
+
+## VII. Quy mô liên minh
 
 | | Số chốt | Biên |
 |---|---|---|
@@ -100,7 +156,7 @@ Syren-boost  không ổn định theo thời gian, cần tái nạp mỗi vòng*
 
 ---
 
-## VII. Vì sao quan hệ bền & USP
+## VIII. Vì sao quan hệ bền & USP
 
 - **Mỗi bên mạnh trên sân nhà**: Sarvel cai trị từ bên trong sinh thái Syren của chư hầu, cùng một sân với họ — đòn bẩy nằm ở quan hệ và độc quyền tiên tri. Lập luận đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
 - **USP cầu nối**: Saltree là Gaia *biết đi* → Sarvel mang bong bóng an toàn theo mình, vào sâu được hoang dã Syren — đặc quyền riêng mà chỉ một Gaia-biết-đi có.
@@ -108,7 +164,7 @@ Syren-boost  không ổn định theo thời gian, cần tái nạp mỗi vòng*
 
 ---
 
-## VIII. Nhánh để ngỏ
+## IX. Nhánh để ngỏ
 
 - **Hybrid Valdren**: thêm khách hàng phụ là vài thành bang Valdren ở rìa Syren, mua chính danh/tiên tri + tái nạp Vessel khi Sarvel đi qua — gặp ở trạm rìa. Chư hầu chính vẫn là Korven.
 - **Núi 400 m**: để dành làm motif "báu vật có-một-không-hai" (mạch ma lực tự mọc đường-ray tinh thể khiêng khối lớn). Mặc định giữ cỡ ~150 m.

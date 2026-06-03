@@ -64,7 +64,7 @@
 
 
 **Thời gian:** Năm 0 → ~ NĂM 1000 
-Mốc năm 0 được tính là thời điểm năm thảm họa [[WB_5_SYREN#I. SYREN|Syren]] xảy ra
+Mốc năm 0 được tính là thời điểm năm thảm họa [[WB_5_SYREN#I.Định nghĩa Syren nguyên bản|Syren]] xảy ra
 
 **Bản chất:**
 
