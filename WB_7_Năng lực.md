@@ -51,5 +51,4 @@ Ngủ đông: nhóm này dễ hiểu có thể tốt về ngắt Syren ổn đ�
 
 Ảo thuật. Nguyền rủa. Là cơ chế nhét syren vào người khác bằng cách này hay cách khác. Syren người này theo dạng sắc, hình thù rõ ràng nhưng dễ tan biến Kiểu tạo hình đẹp mạnh nhưng không ổn định. càng sắc đâm sâu, đi sâu thì càng nén syren nhỏ. Kiểu nuke onehit, Syren tiêu tốn nhiều. Syren cấp cao bản ngã liên kết mạnh.
 
-nhóm chân thiên tử: là 
   

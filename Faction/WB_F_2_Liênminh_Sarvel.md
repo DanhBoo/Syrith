@@ -1,6 +1,5 @@
 # Liên minh Sarvel & Đá Sa Minh
 
-> Bản chốt cơ chế + số liệu khả dỉ, đã rà chéo với các file số liệu.
 
 ## I. Định nghĩa
 
@@ -36,7 +35,7 @@ Khối đá đi bằng **thảm cơ-rễ Veld** — một bộ máy cơ bắp si
 - Tốc **6 km/ngày** (≈**0.55 km/h** lúc bò ban ngày ~11h), đi **ban ngày theo nắng** (Linh hồn định hướng — Saltree hướng sáng); đêm gân tan, khối đứng nghỉ. Khi đoàn ra trạm hành lễ, khối cũng đỗ chờ tới khi đoàn về ([[#V. Chư hầu Vireth & cống nạp|mục V]]).
 
 ### 4. Kích thước khóa theo sức rễ
-Thảm rễ khiêng gọn cỡ **~150 m** (≈4-6 triệu tấn). Trọng lượng tăng theo thể tích (L³) còn sức đỡ của rễ tăng theo diện tích đáy (L²), nên mỗi nấc to thêm đội chi phí rất nhanh — 150 m là mức rễ gánh thoải mái.
+Thảm rễ khiêng gọn cỡ **~150 m** (≈4-6 triệu tấn). Trọng lượng tăng theo thể tích (L³) còn sức đỡ của rễ tăng theo diện tích đáy (L²)
 
 ---
 
@@ -46,16 +45,39 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 
 | Lớp (đều ở trong khối) | % | Cỡ ở 10k |
 |---|---|---|
-| Tiên tri (thầy + học viên + xử lý Luminar + gác an toàn) | ~14% | ~1.400 |
+| Tiên tri (thầy + học trò + xử lý tài nguyên + gác an toàn) | ~14% | ~1.400 |
 | Triều đình + hành chính + vệ binh + thư lại | ~11% | ~1.100 |
 | Thợ săn — sàn lương thực | ~38% | ~3.800 |
 | Thủ công + dịch vụ + chăm thú cưỡi + Vessel/Gaia | ~14% | ~1.400 |
 | Trẻ + già | ~23% | ~2.300 |
 
-- **Đủ sàn ≥10.000**: Sarvel phải chạy đồng thời triều đình cống nạp và trường tiên tri cấp cao — cả hai theo [[WB_P_3_Bảng phân bố nghề siêu chi tiết (toàn bộ thành quốc)|WB_P_3]] cần ≥10.000. Mốc 10k cho tiên tri một lát riêng (~14%) đủ dày, tách bạch với hành chính.
+### Chế độ thần thánh — mẫu hệ tiên tri
+Sarvel vận hành như một nhà nước thần thánh: một dòng máu nữ được coi là thần thánh nắm độc quyền tiên tri, chính danh, và quyền chọn vua.
+
+- **Vương hậu tiên tri** (nữ, dòng máu thần) cầm quyền thật — tiên tri, chính danh, chọn vua. **Vua** là phu quân cai trị bộ máy thế tục đầy đủ (hành chính, vệ binh, hậu cần, ngoại giao), được tiên tri soi và lọc cho **vâng lời + ổn định**. Mỗi đời vương hậu gắn một vua chọn mới; hôn nhân hoàng gia là van giữ vũ lực thuận theo trục thiêng.
+- **Kế vị theo dòng mẹ**: người mẹ đang giữ dòng máu thần chọn một con gái lên làm vương hậu kế nhiệm và chọn chồng-vua cho con. Đời chỉ sinh con trai: con trai giữ dòng máu (miễn nghĩa vụ tiên tri) cưới một học trò gánh phần tiên tri. Đời tuyệt tự: ngôi thiêng truy sang anh chị em họ hàng cùng dòng.
+
+### Ngạch tiên tri (~1.400)
+Ngạch tiên tri xếp năm tầng, đỉnh thiêng mỏng, đáy kỹ thuật và hậu cần dày. Tầng I–III là nữ luyện ngạch thiêng; tầng IV–V mở cho cả nam ở vai kỹ thuật và hậu cần.
+
+| Tầng | Nhánh                                             | Người | Vai chính                                                |
+| ---- | ------------------------------------------------- | ----- | -------------------------------------------------------- |
+| I    | Vương hậu + dòng máu thần + hội đồng thầy cấp cao | ~20   | Quyết tuyến đá đi, danh sách phong tước, việc gả học trò |
+| II   | Thầy hành lễ                                      | ~20   | Chủ trì lễ phong tước + tái nạp Syren tại trạm           |
+| III  | Phụ lễ + học trò                                  | ~350  | Phụ nghi thức; nguồn cô dâu thiêng gả ra ngoài           |
+| IV   | Đội gác an toàn                                   | ~600  | Vận hành Gaia-bubble lõi + bành di động ra trạm          |
+| V    | Xử lý tài nguyên + phục vụ nghi lễ                | ~410  | Vật phẩm lễ, hậu cần đền, lưu trữ lời tiên tri           |
+
+- Tầng I + II gộp lại là **~40 thầy làm lễ**, đủ xử 20 bộ lạc mỗi năm. Thăng tiến đi từ học trò → nhiều năm phụ lễ → thầy; phần lớn học trò rẽ sang đường gả ra quý tộc thay vì lên thầy. Hai thang kỹ thuật (gác an toàn, xử lý tài nguyên) phục vụ trục thiêng, đứng ngoài hàng kế vị.
+- **Khiếu & huấn luyện**: chỉ nữ được đào tạo huấn luyện thành tiên tri ở sarvel
+- **Hôn nhân thiêng**: học trò đạt mức được gả cho đại quý tộc Sarvel hoặc các liên minh Gaia bạn, mang phong hiệu **"kết hôn với lời nói của thần"** — mạng lưới cắm dòng tiên tri vào giới quý tộc trong lẫn ngoài thành quốc ([[#VIII. Vì sao quan hệ bền & USP|mục VIII]]).
+- **Nhiệm vụ đối nội**: cảnh báo tiềm thức cho săn bắt và phòng thủ (cảm sát ý), cố vấn tuyến đường cho Saltree chọn trạm + đường an toàn, chủ trì lễ nội bộ (tang, hôn, lễ mùa) gắn kết dân khối đá.
+- **Chạm bộ máy ngoài**: đỉnh thiêng qua hôn nhân hoàng gia + giao danh sách phong tước cho triều đình thực thi; thầy hành lễ chạm tù trưởng tại trạm cùng thư lại; học trò chạm quý tộc qua hôn nhân; gác an toàn phối vệ binh + nài thú lo bong bóng ra trạm. Đoàn hành lễ là chỗ trục thiêng và thế tục nhập một ([[#VI. Đoàn hành lễ & thú bay nghi lễ|mục VI]]).
+
+### Vận hành thường ngày
 - **Săn tại nhà**: thợ săn làm việc trong hang vỏ ngoài (phơi Syren, đeo Vessel) rồi rút về lõi; chỉ đoàn đi trạm cống nạp mới lập caravan tạm rời khối rồi về. Cả thành quốc ở cố định trong khối, sống trên/trong đá.
 - Thú nuôi gồm **thú cưỡi + thú thồ** phục vụ săn và đi trạm, cùng một bầy nhỏ **thú bay nghi lễ** cõng tiên tri ra trạm ([[#VI. Đoàn hành lễ & thú bay nghi lễ|mục VI]]), kèm ít chuồng nhỏ; người chăm cả ba loại nằm gọn trong lát chăm thú cưỡi. Lương thực vẫn hoàn toàn từ săn.
-- Bộ máy ghi chép: ~1-2% dân = **~100-200 thư lại/kế toán cống nạp** + ~20-40 tiên tri-thầy làm lễ. Đủ xử ~20 bộ lạc, mỗi bộ ghé một lần/năm.
+- **Ghi chép cống nạp**: ~100-200 thư lại/kế toán (trong lát triều đình) cùng ~40 thầy làm lễ, đủ xử ~20 bộ lạc, mỗi bộ ghé một lần/năm.
 - **Kinh tế**: khoáng + kim loại từ cống nạp Korven; thủ công cơ bản tự làm; đồ tinh xa xỉ mua từ rìa Valdren (xem [[#V. Chư hầu Vireth & cống nạp|mục V]]).
 
 ---
@@ -65,14 +87,13 @@ Cả **~10.000** sống tập trung trong khối tổ ong, chia theo chức năn
 ### 1. Tổng quan
 
 - **Đảo xanh di động làm điểm đậu**: trên khối là thảm Saltree — rừng cây lớn, nhìn như một ốc đảo xanh giữa hoang dã Syren. Vách cao ~150 m + dòng khí nâng + hốc cao yên thân biến khối thành **điểm đậu (rookery)** mà thú bay hoang (wyvern, khủng long bay, thú Syren nhỏ) tự tụ về nghỉ/đậu — như chim biển bu một mỏm đá đơn độc giữa biển. Khối là chỗ đậu xanh-cao-tốt nhất quanh vùng nên thú tự tụ về.
-- **Săn tại nhà**: thú đậu ở hang/hốc vỏ ngoài (phơi Syren); thợ săn ra vỏ ngoài bằng Vessel, xẻ tại chỗ rồi rút về lõi Gaia-an toàn. Thú tự tới đậu nên thợ săn ở yên trong pháo đài là đủ — hợp thân Valdren vốn mạnh trong Gaia.
 - **Vì sao đủ ăn**: khối bò qua hoang dã Syren dày megafauna và là điểm đậu hấp dẫn nhất dọc tuyến, nên thú ghé liên tục. Đậu cùng lúc **~40-60 con lớn** + nhiều thú nhỏ; vòng quay (ghé đậu → bị săn → con mới tới) cho sản lượng năm đủ nuôi ~10.000. Thịt ~400-600 kg/con lớn, **xẻ ngay tại hang** nên tận dụng nhiều phần; sừng, mật quái là phần danh giá.
 - **Mô hình điểm-đậu**: sản lượng do độ giàu megafauna bay dọc tuyến + sức hấp dẫn của điểm đậu quyết. Công thức bán kính R=√(N/23.5) ở [[WB_P_2_Săn bắt & Lãnh thổ thành bang|WB_P_2]] là cho thành quốc đứng yên — đây là mô hình khác.
 - **Bốn mùa lên đường**: xoay vùng cho đàn bay mỗi nơi hồi phục (đậu mãi một chỗ sẽ vét cạn đàn địa phương) + gom cống nạp dọc tuyến.
 
 ### 2. Giao thức săn bắt
 
-Lớp săn thường ngày là thợ săn Vessel xử thú đậu ở vỏ ngoài. Với **quái bay lớn** (wyvern đại, khủng long bay) có một giao thức vũ khí nặng riêng:
+Lớp săn thường ngày là thợ săn xử thú đậu ở vỏ ngoài. Với **quái bay lớn** (wyvern đại, khủng long bay) có một giao thức vũ khí nặng riêng:
 
 - **Xe nỏ đặt điểm cao**: khi quái lớn tới, một đội kéo **một khẩu nỏ** (cỡ ballista) lên chỗ cao dễ xoay theo quái. Một đội **một nỏ** là đủ — gom nhiều khẩu một chỗ thì vận hành rối.
 - **Hai cỡ thương**:
@@ -90,13 +111,13 @@ Một đội nỏ-nhỏ ~5 người (3 crew + 2 flyer), tổ giáp gọi thêm k
 ## V. Chư hầu Vireth & cống nạp
 
 - **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
-- Quy mô: **~20 bộ lạc** (biên 12-25), mỗi bộ ~1.000-1.200 người (Korven đẻ khỏe) → tổng **~24.000 Korven** (biên ~15.000-28.000).
+- Quy mô: **~20 bộ lạc**, mỗi bộ ~1.200 người (Korven đẻ khỏe) → tổng **~24.000 Korven**.
 - **Cống nạp** = thặng dư + khoáng Syren quý [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]], + kim loại — thứ tài nguyên quý tùy biến Korven mỗi vùng
-- **Sarvel đổi gì ra ngoài**: bán thặng dư khoáng Syren (từ cống nạp) + nguyên liệu wyvern/quái hiếm + dịch vụ tiên tri → mua **đồ tinh thể tích nhỏ giá cao** ở rìa Valdren (tơ lụa, trà, gia vị, sứ/gốm cao cấp, kiếm thép, đá quý chế tác, nước hoa, rượu — cho tầng cai trị + nghi lễ). Buôn vùng trực tiếp này khác tuyến long-haul xuyên gap của [[WB_11_Ngủ đông thương mại|Masquara]].
+- **Thương mại Sarvel**: bán thặng dư khoáng Syren (từ cống nạp) + nguyên liệu wyvern/quái hiếm + dịch vụ tiên tri → mua **đồ tinh thể tích nhỏ giá cao** ở rìa Valdren (tơ lụa, trà, gia vị, sứ/gốm cao cấp, kiếm thép, đá quý chế tác, nước hoa, rượu — cho tầng cai trị + nghi lễ). Buôn vùng tại sarvel, dừng tại các trạm đi theo đoàn tiên tri chư hầu mở sạp thì phải có giấy phép.
 
 ### Các giao thức ở trạm
 - Korven khỏe trong môi trường Syren, nên cống nạp xử ở **trạm ngoài bong bóng, bên đất Syren**: đại diện Sarvel (gồm tiên tri) **ra trạm** nhận, thống kê, làm lễ.
-- Lễ tiên tri **tái nạp/nâng Syren cấp cao** + phong tước cho tù trưởng, diễn ngay trong môi trường Syren (rối cấp cao tái liên kết khi đủ điều kiện — [[WB_5_SYREN#2) Rối Syren|WB_5 rối cấp cao]]).
+- **Lễ tiên tri** **tái nạp/nâng Syren cấp cao** + phong tước cho tù trưởng, diễn ngay trong môi trường Syren. Tiên tri đứng vai **người tái liên kết**: thân tù trưởng Korven làm vật chứa giữ rối cấp cao, tiên tri cảm và nối lại các rối đã suy (rối cấp cao tái liên kết khi đủ điều kiện — [[WB_5_SYREN#2) Rối Syren|WB_5 rối cấp cao]]). Thân tiên tri mạnh ở cảm nhận nên hợp vai chỉnh; vai giữ Syren cấp cao thuộc về vật chứa.
 - **Khối đá dừng chờ đoàn**: suốt sự kiện, đá đỗ sát điểm hẹn và nằm im (cả ngày lẫn đêm) tới khi đoàn xong việc rồi mới bò tiếp — nhịp "đá thiêng dừng để ban phước chư hầu". Vì mỗi đợt khối chỉ đỗ tại một trạm, Sarvel làm xong trạm này mới bò sang trạm kế — các trạm nối đuôi nhau, mỗi đợt một đoàn ra ngoài.
 - **7 ngày/trạm** cho một bộ lạc, trải:
 	1. Ngày 1 — đá đỗ sát điểm hẹn; đoàn bay ra dựng bãi lễ ngoài rìa, đón bộ lạc tới.
@@ -132,7 +153,7 @@ Syren-boost suy giảm theo thời gian, cần tái nạp mỗi vòng. Sức m�
 Mỗi đoàn ra một trạm làm lễ phong tước + tái nạp Syren cấp cao gồm:
 
 - **2 tiên tri-thầy làm lễ** — VIP, cõng trên thú bay trong **bành Gaia-an toàn** (bong bóng cá nhân di động, cùng cơ chế USP Saltree).
-- **2 học viên/phụ lễ** — xử lý Luminar, phụ nghi thức.
+- **2 học viên/phụ lễ** — phụ nghi thức.
 - **8 thư lại/kế toán cống nạp** — kiểm kê, thống kê cống phẩm (rút từ đội ghi chép ~100-200 người).
 - **13 vệ binh Vessel** bay hộ tống bằng cánh mình, lo đoạn băng hoang dã Syren; kiêm áp tải đoàn **thú thồ** chở cống phẩm về khối ngay sau khi kiểm kê ([[#V. Chư hầu Vireth & cống nạp|mục V]]).
 - **4 thú bay nghi lễ** cõng tiên tri, bành, đồ lễ, người cấp cao.
@@ -145,26 +166,17 @@ Mỗi đoàn ra một trạm làm lễ phong tước + tái nạp Syren cấp ca
 
 ## VII. Quy mô liên minh
 
-| | Số chốt | Biên |
-|---|---|---|
-| Sarvel (thành quốc) | ~10.000 | — |
-| Bộ lạc Vireth | ~20 | 12-25 |
-| Tổng dân Korven | ~24.000 | ~15.000-28.000 |
-| **Cả liên minh** | **~34.000** | **~25.000-38.000** |
+| Sarvel (thành quốc) | ~10.000     |
+| ------------------- | ----------- |
+| Bộ lạc Vireth       | ~20         |
+| Tổng dân Korven     | ~24.000     |
+| **Cả liên minh**    | **~34.000** |
 
-Đây là cỡ **một thế lực vùng**, đứng ngang Eldryn / Masquara / Mizuho. Korven nằm ngoài con số ~0,5-0,7 triệu của tuyến Valdren ([[WB_P_1_Thương mại & Scale lục địa#V. Cấu trúc quốc gia / liên minh|WB_P_1]] — đó là thành bang Gaia), nên cộng dồn hai khối lên trên con số đó.
-
----
-
-## VIII. Vì sao quan hệ bền & USP
-
-- **Mỗi bên mạnh trên sân nhà**: Sarvel cai trị từ bên trong sinh thái Syren của chư hầu, cùng một sân với họ — đòn bẩy nằm ở quan hệ và độc quyền tiên tri. Lập luận đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
-- **USP cầu nối**: Saltree là Gaia *biết đi* → Sarvel mang bong bóng an toàn theo mình, vào sâu được hoang dã Syren — đặc quyền riêng mà chỉ một Gaia-biết-đi có.
-- **Sarvel ở lại vùng Syren vì lợi ích nằm ở đó**: mồi săn và chư hầu đều thuộc hoang dã Syren, nên khối đá xoay vòng quanh sân đó.
+Đây là cỡ **một thế lực vùng**, đứng ngang Eldryn / Masquara / Mizuho. Korven nằm ngoài con số ~0,6 triệu của tuyến Valdren ([[WB_P_1_Thương mại & Scale lục địa#V. Cấu trúc quốc gia / liên minh|WB_P_1]] — đó là thành bang Gaia), nên cộng dồn hai khối lên trên con số đó.
 
 ---
 
-## IX. Nhánh để ngỏ
+## VIII. Nhánh để ngỏ
 
-- **Hybrid Valdren**: thêm khách hàng phụ là vài thành bang Valdren ở rìa Syren, mua chính danh/tiên tri + tái nạp Vessel khi Sarvel đi qua — gặp ở trạm rìa. Chư hầu chính vẫn là Korven.
-- **Núi 400 m**: để dành làm motif "báu vật có-một-không-hai" (mạch ma lực tự mọc đường-ray tinh thể khiêng khối lớn). Mặc định giữ cỡ ~150 m.
+- **Nghi lễ chi tiết**: trình tự lễ tái nạp + phong tước, vật phẩm, mức dùng Luminar hay tài nguyên Syren khác — chờ định. 
+- **Danh xưng**: tên riêng cho ngôi vương hậu tiên tri và cho vua phu quân để trống, chờ đặt thuật ngữ.

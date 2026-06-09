@@ -1,4 +1,4 @@
-tom1 # Cốt truyện — Antonio và Gaia Darian
+
 
 ## Tiền đề
 
@@ -31,7 +31,7 @@ Gaia Darian còn sống sót sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ T�
 - **Máu lạnh**: anh là mầm mống nguy hiểm cho họ → muốn diệt.
 - **Isath (Sarvel)**: cảm nhận Antonio + Esmat đi được đến Darian an toàn, có thể chạm đến cái bà muốn. Có thể bà thấy một tương lai Antonio chiến thắng vua Gaia điên.
 
-Tiên tri ở lục địa không nhiều, các faction không đủ nhân lực → phải liên minh để tìm anh → anh lẩn trốn được.
+Tiên tri ở lục địa không nhiều, các faction không đủ nhân lực → anh lẩn trốn được.
 
 ## Esmat (tiên tri Sarvel)
 
@@ -91,5 +91,3 @@ Tiên tri ở lục địa không nhiều, các faction không đủ nhân lực
 
 
 
-faction:
--
