@@ -63,7 +63,7 @@
 ## III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC
 
 
-**Thời gian:** Năm 0 → ~ NĂM 1000 
+**Thời gian:** Năm 0 → ~ NĂM 500 
 Mốc năm 0 được tính là thời điểm năm thảm họa [[WB_5_SYREN#I.Định nghĩa Syren nguyên bản|Syren]] xảy ra
 
 **Bản chất:**
@@ -85,13 +85,15 @@ Hệ quả kéo dài
 80% dân số biến mất 
 Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di cư rút về các Gaia tạo thành cộng đồng ổn định.
 
+Giai đoạn này dân tranh giành các vùng Gaia khan hiếm; kẻ thua bị đẩy ra Syren, và phân hóa Valdren / Korven hình thành trọn trong ~500 năm này (cơ chế ở [[WB_6_Sinh học#e.Giải thích phân hóa văn minh|WB_6 mục e]]).
+
  
 | Giai đoạn       | Thời gian sau thảm họa | Trạng thái                                                                                          |
 | --------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | Sinh tồn cục bộ | ~năm 0                 | Người sống sót co cụm theo cá nhân/gia đình. Mất hầu hết tổ chức cũ. Sống dựa vào ký ức người già.  |
-| Cộng đồng nhỏ   | ~năm 100               | Bộ lạc / làng nhỏ tự tổ chức. Kế thừa **bản sắc cũ qua lễ + truyền miệng** nhưng quy mô đã rất nhỏ. |
-| Liên minh vùng  | ~năm 300               | Các làng cùng vùng kết nối với nhau. Trade nhỏ/ thợ chuyên môn tái xuất hiện.                       |
-| Tiểu quốc       | ~năm 800               | Quy mô thành quốc liên minh                                                                         |
+| Cộng đồng nhỏ   | ~năm 60                | Bộ lạc / làng nhỏ tự tổ chức. Kế thừa **bản sắc cũ qua lễ + truyền miệng** nhưng quy mô đã rất nhỏ. |
+| Liên minh vùng  | ~năm 180               | Các làng cùng vùng kết nối với nhau. Trade nhỏ/ thợ chuyên môn tái xuất hiện.                       |
+| Tiểu quốc       | ~năm 400               | Quy mô thành quốc liên minh                                                                         |
 
  
 ---
@@ -99,7 +101,7 @@ Di cư hỗn loạn giai đoạn cuối sẽ kết thúc khi người dân di c�
 ## IV. THỜI HỒI SINH VÀ TÁI LIÊN MINH (SYRITH)
 
 
-**Thời gian:** 1000+ năm sau Thảm Họa
+**Thời gian:** 500+ năm sau Thảm Họa
 
 - Các thực thể Gaia có bộ máy quyền lực văn minh Valdren xung quanh ổn định.
 - Quyền lực tập trung quanh tài nguyên sống sót.
