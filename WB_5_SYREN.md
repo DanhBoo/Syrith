@@ -5,7 +5,6 @@
 
 - **Syren** là vật chất bảo tồn trạng thái rối lượng tử nguyên thủy của vũ trụ — được hình thành từ thời điểm vũ trụ tiền-lạm phát còn nén thành một điểm duy nhất, khi mọi vật chất rối lượng tử với mọi vật chất khác trong một hệ duy nhất. Sau lạm phát, không gian giãn nở vô tận theo **mô hình Đa Vũ trụ Cấp I (Tegmark Level I Multiverse)**, vật chất bị đẩy xa nhau vô hạn — nhưng rối lượng tử trong Syren vẫn còn nguyên.
 - Syren là một **tầng vật chất riêng, trung hòa điện-từ**: tác dụng qua rối twin và lực cơ học của [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]], nên mọi hiệu ứng gói trong **nhiệt (nóng/lạnh), lực cơ học, tạo hình**.
-- Phần nhiệt nóng/lạnh trên do [[WB_1_Mục lục định nghĩa#Entropy ngược|entropy ngược]] chi phối.
 
 #### 2) Rối Syren
 

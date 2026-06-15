@@ -36,4 +36,3 @@
 - **Entropy ngược** là chiều nhiệt động đảo của khối vật chất do liên kết Syren tạo ra: nhiệt thoát về quá khứ của chính khối thay vì về tương lai như vật chất thường.
 - **Tĩnh — tỏa lạnh.** Khối thải nhiệt về quá khứ nên hút hơi ấm quanh nó vào, vùng quanh lạnh đi; giữ lạnh lâu dài ở một ngưỡng ổn định, nhiệt đã thải khóa ở quá khứ không lấy lại được.
 - **Xả vỡ — tỏa nóng.** Cấu trúc giữ chiều ngược bị phá vỡ đột ngột, nhiệt đang trên đường về quá khứ dội ngược ra hiện tại cùng lúc, điểm xả tỏa nóng và lóe sáng.
-- **Sinh công.** Chênh lệch lạnh↔ấm giữa khối và môi trường là một động cơ nhiệt; [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]] gặt dòng nhiệt từ môi trường ấm vào điểm lạnh thành lực cơ học (tạo hình, nâng, va chạm).
