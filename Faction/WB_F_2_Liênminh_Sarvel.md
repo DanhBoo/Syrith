@@ -153,7 +153,7 @@ Một đội nỏ-nhỏ ~5 người (3 crew + 2 flyer), tổ giáp gọi thêm k
 
 ## V. Chư hầu Vireth & cống nạp
 
-- **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia — vì sao không bị bóc lột|WB_F kinh tế]].
+- **Vireth** = bộ lạc rải rác các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]], chư hầu của Sarvel — cơ chế kinh tế đầy đủ ở [[WB_F_1_kinh tế — quan hệ Gaia|WB_F kinh tế]].
 - Quy mô: **~20 bộ lạc**, mỗi bộ ~1.200 người (Korven đẻ khỏe) → tổng **~24.000 Korven**.
 - **Cống nạp** = thặng dư + khoáng Syren quý [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]], + kim loại — thứ tài nguyên quý tùy biến Korven mỗi vùng.
 - **Thương mại** từ thặng dư cống nạp + nguyên liệu quái + dịch vụ tiên tri: xem [[#VII. Thương mại & thương nhân|mục VII]].

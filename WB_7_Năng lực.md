@@ -42,13 +42,24 @@ Phù thủy vessel: nhánh nhạy cảm với Syren để cảm nhận ma lực 
 
 Tiên tri: Cảm nhận nhạy cảm với syren đi sâu vào trong để lục lọi.Nếu training chiến binh sẽ kiểu là giỏi tưởng tượng nên cũng dễ thành nhà nghiên cứu thực vật vessel, nghiên cứu cảm nhận động vật,
 Syren cấp cao bản thân thường không ổn định  ở nhóm này
+Sarvel tien tri + thuc vat hoc
 
 nhóm chiến binh tạo ra vessel ổn định cao và dày: lưỡi đao, càng cua trong chiến đấu liên tục là người mạnh về ổn định và syren liên kết cấp cao mạnh. tự hồi phục tốt. khó sửa đổi syren cấp cao nhóm này. nhóm này cảm nhận syren không tốt lắm vì ổn định syren bản thân cao.
+solider binh thuong, thyria, eldryn, quan doi
 
 Nhóm dị bản: tạo ra syren dị bản để sử dụng đủ để sử dụng: Ổn định syren cao.cảm nhận cao.dễ tổn thương về tinh thần vì tính tự ổn định trong syren ngoại lai.không hồi phục tốt.
+Darian
 
 Ngủ đông: nhóm này dễ hiểu có thể tốt về ngắt Syren ổn định cơ thể. LÀ một dạng bật tắt, tự điều chỉnh syren bản thân tốt Khả năng cảm nhận và ổn định syren kém vì bật tắt liên tục khó tự training. Vô cảm,khôn lỏi, lợi nhuận bản thân
+masqara
 
 Ảo thuật. Nguyền rủa. Là cơ chế nhét syren vào người khác bằng cách này hay cách khác. Syren người này theo dạng sắc, hình thù rõ ràng nhưng dễ tan biến Kiểu tạo hình đẹp mạnh nhưng không ổn định. càng sắc đâm sâu, đi sâu thì càng nén syren nhỏ. Kiểu nuke onehit, Syren tiêu tốn nhiều. Syren cấp cao bản ngã liên kết mạnh.
 
-  
+  jap: ham hoc hoi, sang tao, la nhom phụ thuộc tài nguyên (thua) di ban
+  maq. nhom thang the, elite tham nhũng,
+  sarvel. nhom thang the, tien tri, thói quen chặt một bên cánh để điều khiển nhạy cảm hơn
+  eldryn. nhom that bai, phystor
+  darian nhom thang the. gay mat on dinh, ben trong nhieu faction
+  thyria vessel
+  bên trong gaia tiết chế hơn
+  badgat, vireth nhóm chiến binh
