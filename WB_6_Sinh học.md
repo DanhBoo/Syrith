@@ -128,12 +128,13 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 - Não chủ thể thiếu parten về twin của túi bên ngoài nên không nắm chính xác phản ứng ở lệnh chi tiết. Chi tiết mức điều khiển xem [[WB_9_Vessel#Mức điều khiển|Vessel Phyto - Mức điều khiển]].
 ### 4) Mạch ma lực
 
-> Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — một **pha ngưng tụ coherent của Syren** (kiểu siêu rắn: vừa có khung tinh thể rắn sờ/bẻ được, vừa cho dòng Syren chảy bên trong), duy trì MQC nhờ Syren lưu hành / Syren lõi. Pha này **trung hòa điện-từ** —  tác dụng cơ học (đẩy, dệt, dẫn năng lượng) Khi nguồn ngắt, sợi tan.
+> Một nguồn chứa Syren bất kỳ đang hoạt hóa sẽ truyền năng lượng syren cấu trúc dạng sợi ống — một **pha ngưng tụ coherent của Syren** (kiểu siêu rắn: vừa có khung tinh thể rắn sờ/bẻ được, vừa cho dòng Syren chảy bên trong), duy trì [[WB_1_Mục lục định nghĩa#MQC (Macroscopic Quantum Coherence)|MQC]] nhờ Syren lưu hành / Syren lõi. Pha này **trung hòa điện-từ** —  tác dụng cơ học (đẩy, dệt, dẫn năng lượng) Khi nguồn ngắt, sợi tan.
 > Khi giữ năng lượng cấp liên tục, các sợi đan lưới hoàn thiện thành dạng năng lượng [[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn này đi nơi khác, mạng lưới truyền đi này gọi là mạch ma lực
 - Dạng sợi ở Mạch ma lực chúng có tính vật lý chạm vào được và bẻ gãy được, khi bị tác động đứt gãy chúng sẽ tìm đường khác hoặc tạo đường ống khác để đẩy năng lượng đi.
 - Hệ thần kinh thì cơ thể con người sẽ phản ứng đồng bộ ngay lập tức, thì mạch ma lực phản hồi có **độ trễ**. Vậy nên nếu phần Crystal/Kryst/nguồn chứa Syren bị nhiễm ngay chân/cẳng tay — nơi cách xa trung ương thần kinh (tủy sống và não bộ) — sẽ có độ process trễ hơn. Khó kiểm soát hơn, dễ hiểu là các chi đó **lấy năng lượng chậm hơn**.
 - Khi trong trạng thái Kryst/Veld nặng thì mạch ma lực sẽ **áp đảo thần kinh vận động** của cơ thể ở đó. Nên cơ thể sẽ thấy chậm chạp và delay ngay phần chi này — dù não gửi tín hiệu nhưng sẽ có độ trễ.
 - Mạch ma lực được tạo ra từ Syren lưu hành; không dùng thì ngắt, sợi Syren tan biến.
+- Mạch ma lực là vật liệu sợi; động lực để nó xuất lực cơ học đến từ [[WB_1_Mục lục định nghĩa#Entropy ngược|entropy ngược (mục Sinh công)]].
 ### 5) Sinh sản
 - Các loài văn minh gần người có thể giao phối với nhau, con sẽ mang adn thông thường chỉ biểu hiện của ba hoặc mẹ, số ít thì của ông bà trước, số ít nữa thì pha trộn giữa các ADN gia phả người con có do ba mẹ tạo nên.
 - Valdren không thể có con với Korven và Tardren
