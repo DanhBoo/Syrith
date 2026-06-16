@@ -65,7 +65,7 @@ Bên trong không tiến hóa chịu Syren mà giữ phụ-thuộc-Gaia lâu dà
 #### a) Mạch ma lực
 > Mạch ma lực là pha sợi của Syren: nguồn Syren đang hoạt hóa truyền năng lượng thành cấu trúc sợi ống — pha ngưng tụ coherent (kiểu siêu rắn: vừa có khung tinh thể rắn sờ/bẻ được, vừa cho dòng Syren chảy trong), duy trì [[WB_1_Mục lục định nghĩa#MQC (Macroscopic Quantum Coherence)|MQC]] nhờ Syren lưu hành / Syren lõi. Pha này trung hòa điện-từ, tác dụng cơ học (đẩy, dệt, dẫn năng lượng). Giữ năng lượng cấp liên tục thì sợi đan lưới thành [[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren hồi]] nối từ nguồn đi nơi khác — mạng truyền này gọi là mạch ma lực; nguồn ngắt thì sợi tan.
 
-- Mạch ma lực là vật liệu sợi; động lực để nó xuất lực cơ học đến từ [[WB_5_SYREN#Động cơ thông tin|động cơ thông tin]].
+- Mạch ma lực là vật liệu sợi; động lực để nó xuất lực cơ học đến từ [[WB_5_SYREN#4) Động cơ thông tin|động cơ thông tin]].
 - Sợi mạch ma lực chạm và bẻ gãy được; bị đứt thì tìm đường khác hoặc tạo ống khác để đẩy năng lượng đi.
 - Mạch ma lực phản hồi có độ trễ (thần kinh thì phản ứng tức thì). Nguồn Syren ở chi xa trung ương thần kinh (chân, cẳng tay) lấy năng lượng chậm hơn, khó kiểm soát hơn.
 - Khi Kryst/Veld nặng, mạch ma lực áp đảo thần kinh vận động ở chi đó — não gửi tín hiệu nhưng chi vẫn chậm và delay.

@@ -33,4 +33,4 @@
 (phyto- Hy Lạp "cây" + -or kiểu Vessel/Vizier) — vibe khoa học-quân sự, hợp với sản xuất công nghiệp. Slang: "Phy", "Root".
 
 ###### Động cơ thông tin
-- Khái niệm chuyển vào [[WB_5_SYREN#Động cơ thông tin|WB_5 — Định nghĩa Syren]] (là tính chất của chất Syren).
+- Khái niệm chuyển vào [[WB_5_SYREN#4) Động cơ thông tin|WB_5 — Định nghĩa Syren]] (là tính chất của chất Syren).

@@ -1,4 +1,4 @@
-# Syren & Cơ Chế Đột Biến Kryst / Veld
+z# Syren & Cơ Chế Đột Biến Kryst / Veld
 # I.Định nghĩa Syren nguyên bản
 
 #### 1) Định nghĩa
