@@ -26,7 +26,7 @@ Saltree thanh lọc Syren, tạo một gradient từ trong ra ngoài:
 - **Đáy**: thảm cơ-rễ Veld bám đất Syren, khiêng cả khối.
 
 ### 3. Cơ chế di chuyển
-Khối đá đi bằng **thảm cơ-rễ Veld** — một bộ máy cơ bắp sinh học. Syren tác dụng qua **nhiệt, lực cơ học, tạo hình** ([[WB_5_SYREN#1) Định nghĩa|WB_5]]), và [[WB_6_Sinh học#4) Mạch ma lực|mạch ma lực]] (pha siêu rắn coherent) là thứ truyền lực cơ học đó.
+Khối đá đi bằng **thảm cơ-rễ Veld** — một bộ máy cơ bắp sinh học. Syren tác dụng qua **nhiệt, lực cơ học, tạo hình** ([[WB_5_SYREN#1) Định nghĩa|WB_5]]), và [[WB_6_Sinh học#a) Mạch ma lực|mạch ma lực]] (pha siêu rắn coherent) là thứ truyền lực cơ học đó.
 
 - Rễ Saltree đọng nước nên Veld hóa ([[WB_5_SYREN#2) Thực vật|WB_5 mục Thực vật]]); Veld đan **cơ bắp + thần kinh phản xạ** vào rễ → rễ co duỗi như chân.
 - Saltree là Gaia → **Linh hồn thực vật** làm trung ương, giữ nhịp bò có chủ đích.

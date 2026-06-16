@@ -6,7 +6,7 @@ Chiến tranh giữa các thành quốc Gaia (Valdren) chạy trong khung "mỗi
 
 Một cuộc lật đổ cần ba điều kiện chập lại:
 
-- **Bên Gaia cầm quyền tham nhũng** — điều kiện nền. Một chế độ giữ quyền qua ~3 đời thì cố kết rã, thối nát, mất chính danh; đây là kẽ hở và cái cớ cho mọi cuộc lật.
+- **Bên Gaia cầm quyền tham nhũng** — điều kiện nền. Một chế độ giữ quyền lâu thì, thối nát, mất chính danh; đây là kẽ hở và cái cớ cho mọi cuộc lật.
 - **Faction bên trong muốn đổi mới** — phe nội bộ mất quyền hoặc bất mãn chế độ khắc nghiệt, cầm động cơ và đầu mối từ bên trong.
 - **Faction thua cuộc từ thành quốc khác di cư tới** — kẻ lưu vong bị đẩy khỏi nơi khác ([[#IV. Xử phe thua & lưu vong|mục IV]]) gia nhập, góp người, lực và lý do; họ đoàn kết quanh phe đổi mới bản địa.
 
@@ -19,12 +19,6 @@ Dân chặn tổng lực, nên xung đột leo theo ba nấc, mỗi nấc cần 
 ### 1. Trừng phạt kinh tế–chính trị (thường nhất)
 Đánh bằng cắt quyền tiếp cận, dân hậu thuẫn vì không tốn mạng. Vũ khí là các cổ chai bị quý-tộc-hóa ([[WB_00_Context|WB_00]] mục 12):
 
-- Cấm bán [[WB_9_Vessel|Vessel]] và lõi → tước vũ trang.
-- Chặn [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]] → đối thủ không có Vessel mới.
-- Cắt [[WB_4_Gaia#Sữa Gaia và văn minh khai thác|sữa Gaia]] → đất kiệt, nông sụp.
-- Cấm vận tuyến buôn, loại khỏi phường nghề, cắt liên hôn, rút chúc phúc tiên tri (làm mất chính danh).
-
-Xã hội nhỏ ai cũng biết mặt nhau, nên đòn này đích danh từng gia tộc và cưỡng chế bằng dư luận.
 
 ### 2. Vũ trang chớp nhoáng (thỉnh thoảng)
 Khi trừng phạt không xong thì leo lên đánh — nhưng gọn, do giai cấp chiến binh chuyên và lính đánh thuê gánh; dân dung thứ nếu nhanh và chừa dân:
@@ -34,7 +28,7 @@ Khi trừng phạt không xong thì leo lên đánh — nhưng gọn, do giai c�
 - **Giết có luật**: giết lính chống cự để răn đe, chừa dân, tù binh và thợ lành nghề (đạo đức mạng-quý cộng với giữ tài sản). Tàn khốc trong trận, khoan dung khi đầu hàng.
 - **Hốt người sau trận**: dân và binh phe thua được ân xá, thành dân của chủ mới; chỉ chóp bu nguy hiểm bị lưu đày.
 
-### 3. Tổng lực (hiếm, vỡ trận)
+### 3. Tổng lực
 Chỉ xảy ra khi **phá được van dân** — bạo chúa cưỡng ép, thuê [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]]/Norden để khỏi cần dân đồng ý, hoặc bị dồn tới sống-chết. Khi đó luật vỡ:
 
 - **Đánh vào sự sống, không vào quân**: vây-bóp Gaia và vùng săn, chặn sữa Gaia, cắt tiếp tế → giết bằng đói và phơi Syren.
@@ -43,11 +37,9 @@ Chỉ xảy ra khi **phá được van dân** — bạo chúa cưỡng ép, thu�
 - **Trần cao nhất — đụng Gaia (đồng quy ư tận)**: vũ khí tối hậu là phá hoặc đầu độc Gaia địch, nhưng Gaia bị stress quá ngưỡng sẽ kích [[WB_4_Gaia#Cơ chế phòng thủ|cơ chế phòng thủ]] tàn phá cả vùng, gồm cả kẻ tấn công. Đẩy tới đây là mở cửa kết cục tận thế ([[WB_3_ASTRAEA#V. BIÊN GIỚI KẾT CỤC|Biên giới kết cục]]).
 - **Vùng, không lục địa**: hậu cần và phụ thuộc Gaia chặn tầm xa, nên tổng lực là đại nạn khu vực, kết bằng kiệt quệ và khoảng trống quyền lực — khuôn của Aetum biến mất, Sarvel teo lại.
 
-## III. Cái van dân — người gác từng nấc
 
-Mỗi nấc lên cần vượt qua sự đồng thuận của dân: nấc 1 dân ủng hộ sẵn (không máu), nấc 2 dân dung thứ nếu gọn, nấc 3 dân từ chối. Nên kẻ làm tổng lực hoặc đã phá luật (thuê ngoài, bạo chúa), hoặc bị dồn đường cùng. Bình thường dân chặn ngay ở nấc 1–2, nên **phần lớn "chiến tranh" thành quốc Gaia là cấm vận, tẩy chay, giành cổ chai và đảo chính gọn**, không phải trận mạc lớn.
 
-## IV. Xử phe thua & lưu vong
+## III. Xử phe thua & lưu vong
 
 Dân thường, binh lính và thợ phe thua đều quý, nên được ân xá và **hấp thụ tại chỗ** ([[#III. Cái van dân — người gác từng nấc|mục III]]). Lãnh đạo thì khác: một thủ lĩnh còn sống là mầm phục quốc, không thể thả tự do. Nhưng văn hóa mạng-quý phạt nặng kẻ cầm quyền giết quý tộc bừa (mang tiếng bạo chúa, các gia tộc khác quay lưng), nên trừ khử thủ lĩnh phải **có chính danh**:
 

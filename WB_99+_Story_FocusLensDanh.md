@@ -20,7 +20,7 @@ Gaia Darian còn sống sót sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ T�
 - Bà dì (bạn bè bố mẹ, thương nhân Sarvel, gia đình ổn định) nhận nuôi anh.
 - Bà dì thuộc Sarvel, theo nề nếp tiên tri — một trong số ít người tự nguyện làm theo tiên tri như vinh hạnh.
 - Bà chấp nhận đẻ em theo lời tiên tri. Em là người kiệt xuất, cần cho nền móng Sarvel.
-- Bà chết khi sinh em ([[WB_6_Sinh học#5) Sinh sản|rule Valdren]]).
+- Bà chết khi sinh em ([[WB_6_Sinh học#4) Sinh sản|rule Valdren]]).
 - Trước lâm chung, bà tiết lộ Antonio có gia đình thật ở Darian.
 - Antonio ghét tiên tri vì người nuôi mình chết vì làm theo nó.
 - Sau tang bà dì, anh đi luôn về Darian tìm gia đình ruột theo lời trối. Em được người nhà / gia sản lo, anh không cần ở lại nuôi.

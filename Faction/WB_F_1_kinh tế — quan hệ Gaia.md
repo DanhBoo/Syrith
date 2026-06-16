@@ -6,7 +6,7 @@
 Vireth là tập hợp bộ lạc rải rác của các loài [[WB_6_Sinh học#b.Văn minh có thể trao đổi|Korven]] sống ngoài Gaia, chư hầu cống nạp cho [[WB_3_ASTRAEA#IV. THỜI HỒI SINH VÀ TÁI LIÊN MINH (SYRITH)|Sarvel]].
 
 ### 2. Vị thế sinh thái
-- Korven tiến hóa trong Syren, mạnh ngoài Gaia, sức tụt khi vào vùng Gaia ([[WB_6_Sinh học#f.Giải thích phân hóa sinh học|WB_6 mục f]], [[WB_6_Sinh học#6) Hệ thống tự chữa trị sinh học từ Syren|mục 6]]).
+- Korven tiến hóa trong Syren, mạnh ngoài Gaia, sức tụt khi vào vùng Gaia ([[WB_6_Sinh học#f.Giải thích phân hóa sinh học|WB_6 mục f]], [[WB_6_Sinh học#5) Hệ thống tự chữa trị sinh học từ Syren|mục 5]]).
 - [[WB_6_Sinh học#a.Định nghĩa|Valdren]] ngược lại: mạnh trong Gaia, ra ngoài thì rủi ro và chi phí tăng theo quy mô và thời gian. Cá nhân và đoàn nhỏ băng qua được; đóng quân lâu dài vượt sức.
 
 ## II. Mỗi bên trụ ở sân mình
@@ -46,7 +46,7 @@ Korven hộ tống Valdren qua các đoạn rìa Syren là dịch vụ bán-từ
 
 ## VI. Korven giữ mép, lõi Gaia ngoài tầm
 
-Korven đẻ khỏe (thoát [[WB_6_Sinh học#5) Sinh sản|hình phạt sinh sản của mẹ Valdren]]), mạnh trong Syren, giỏi chiến; sân nhà của họ dừng ở mép Gaia:
+Korven đẻ khỏe (thoát [[WB_6_Sinh học#4) Sinh sản|hình phạt sinh sản của mẹ Valdren]]), mạnh trong Syren, giỏi chiến; sân nhà của họ dừng ở mép Gaia:
 
 - Vào Gaia thì sức tụt: họ làm chủ mép, lõi Gaia ngoài tầm — gương phản chiếu của Valdren. Ai trụ lâu ở sân nấy.
 - Vireth phân mảnh chính trị (bộ lạc rải rác), chủ của họ là [[WB_3_ASTRAEA#IV. THỜI HỒI SINH VÀ TÁI LIÊN MINH (SYRITH)|Sarvel]] (thành quốc di chuyển trên đá Sa Minh, dùng tiên tri phong tước và tăng Syren cấp cao cho tù trưởng chư hầu, nhận cống nạp). Lãnh chúa của Vireth sinh ra từ chính vùng Syren của họ, nên quan hệ cống nạp gói gọn trong thế giới-Syren.

@@ -59,8 +59,6 @@ Sức công phá phụ thuộc ba yếu tố:
 - Mức năng lượng nguồn nạp từ người dùng (không đáng kể).
 - Đặc tính phản vệ của loài cây gốc — cây bản chất bắn ra cho đạn xuyên mạnh, cây bản chất bám quấn cho đạn dính lâu lực xuyên nhẹ hơn.
 
-Bầu Phytor lúc chờ tỏa lạnh; đạn vỡ ở đích thì điểm trúng tỏa nóng và lóe sáng theo [[WB_1_Mục lục định nghĩa#Entropy ngược|entropy ngược]], kèm sát thương hình thái twin.
-
 ### 3. Bầu đất dùng một lần
 
 Linh hồn thực vật có bộ lọc thải Syren yếu. Sau khi bị ép giải phóng toàn lực:

@@ -98,7 +98,7 @@ _Ứng dụng:
 - làm enzim yếu dần — nước vẫn bớt Syren nhưng không đủ để uống trực tiếp, vẫn cần nấu.
 #### Voi bụng lớn 
 _Hình dạng & loài & đặc điểm: 
-- Bộ có vòi, thú bốn chân có vòi, thuộc nhóm [[WB_6_Sinh học#6) Hệ thống tự chữa trị sinh học từ Syren|bán Syren]] cực đại — phần lớn cơ quan đã bị hồi Syren thay thế.
+- Bộ có vòi, thú bốn chân có vòi, thuộc nhóm [[WB_6_Sinh học#5) Hệ thống tự chữa trị sinh học từ Syren|bán Syren]] cực đại — phần lớn cơ quan đã bị hồi Syren thay thế.
 - Phần còn lại không phải Syren chỉ gồm các cơ quan duy trì trao đổi chất và nòi giống: não, miệng, dạ dày, cơ quan sinh sản, tai, mũi, cơ quan lọc độc.
 - Không có mắt. Định vị bằng sóng âm phát qua mũi/vòi và thu qua tai.
 - Trong thân có một khoang bụng Syren chứa dịch, tách biệt với dạ dày. Đây là phần xẹp xuống đầu tiên mỗi khi chúng phun Syren.
