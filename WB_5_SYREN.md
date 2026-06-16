@@ -88,7 +88,7 @@ Biến thiên theo ba trục:
 
 Mỗi loài đặt cơ chế ở một tọa độ trên ba trục đó, ví dụ: (Chi tiết mỗi loài ở file riêng.)
 
-- [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]] của Gaia — ngoại, vùng rộng, mạnh nhất
+- [[WB_6_Sinh học#d) Linh hồn thực vật|Linh hồn thực vật]] của Gaia — ngoại, vùng rộng, mạnh nhất
 - enzim [[WB_2_Mục lục thảm sinh học#Bryven|Bryven]] — ngoại, cục bộ, yếu
 - cơ quan thải Syren bẩm sinh của Valdren — nội, trong một cơ thể, vừa đủ sống (suy ở mẹ mang thai thành [[WB_00_Context|hình phạt sinh sản]])
 

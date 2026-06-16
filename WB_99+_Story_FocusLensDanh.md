@@ -8,7 +8,7 @@ Gaia Darian còn sống sót sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ T�
 
 - Vua Darian thấy các bộ lạc máu lạnh nguy hiểm + bản thân khao khát quyền lực.
 - Có một dạng vách ngăn cổ đại, nguyên liệu siêu hiếm, cho phép truyền mạch ma lực vào vách → đến linh hồn Gaia để điều khiển. Cấu trúc tương tự vách ngăn [[WB_9_Vessel#3. Cơ chế vách ngăn|Vessel]] nhưng quy mô Gaia.
-- Vua dùng vách ngăn này nhưng không điều khiển được — twin cấp cao trong syren lõi của ông là một vị vua giả thần kiểu Pharaoh, khi nối vào trung ương Gaia thì twin áp đảo qua mạch ma lực, nuốt ý thức ông ([[WB_6_Sinh học#d) Syren hồi dị bản|cơ chế dị bản]] ở quy mô Gaia).
+- Vua dùng vách ngăn này nhưng không điều khiển được — twin cấp cao trong syren lõi của ông là một vị vua giả thần kiểu Pharaoh, khi nối vào trung ương Gaia thì twin áp đảo qua mạch ma lực, nuốt ý thức ông ([[WB_6_Sinh học#e) Syren hồi dị bản|cơ chế dị bản]] ở quy mô Gaia).
 - Cây vẫn là Gaia bình thường về bản chất, chỉ là đang bị một ý thức điên chiếm quyền điều khiển.
 - Vua xem cả Vireth lẫn Valdren Darian là thứ ông toàn quyền sinh sát.
 - Tỉ lệ sinh Valdren thấp + dân Darian di cư bớt làm vua càng điên hơn — vòng xoáy sợ mất subject.

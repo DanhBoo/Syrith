@@ -70,14 +70,15 @@ Bên trong không tiến hóa chịu Syren mà giữ phụ-thuộc-Gaia lâu dà
 - Mạch ma lực phản hồi có độ trễ (thần kinh thì phản ứng tức thì). Nguồn Syren ở chi xa trung ương thần kinh (chân, cẳng tay) lấy năng lượng chậm hơn, khó kiểm soát hơn.
 - Khi Kryst/Veld nặng, mạch ma lực áp đảo thần kinh vận động ở chi đó — não gửi tín hiệu nhưng chi vẫn chậm và delay.
 
-**Syren lưu hành** — Syren đã lọc chạy trong mạng mạch ma lực khắp cơ thể, là nhiên liệu dùng được của cá thể:
+#### b) Syren lưu hành
+> Syren lưu hành là Syren đã lọc chạy trong mạng mạch ma lực khắp cơ thể, là nhiên liệu dùng được của cá thể.
 
 - Lượng dùng phụ thuộc nồng độ Syren lưu hành (nhiều/ít theo người), quyết định dùng mạch ma lực nhiều hay ít; tụt khi dùng, tự hồi qua hấp thụ–lọc Syren từ thức ăn/khí/nước theo thời gian.
 - Hấp thụ Syren trực tiếp từ môi trường đẩy vào thì dễ bị đào thải, vì chưa lọc đúng cách nên năng lượng khó dùng.
 - Syren lõi (vài nốt mỗi cơ thể, nối mạch ma lực vào hệ trung ương) có liên kết thần kinh vật chủ nên không bị lấy mất.
 - Đẩy năng lượng ra quá mạnh thì mạch ma lực chưa tải hết, Syren lưu hành ứ đọng tại điểm dồn → Kryst cục bộ (visual crystal Veld); đẩy hết thì về bình thường.
   
-#### b) Linh hồn hộ mệnh 
+#### c) Linh hồn hộ mệnh 
 >Sinh vật trong lục địa thường khi cơ thể trưởng thành sẽ đủ điều kiện truy xuất thông tin [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] tiêu hao năng lượng Syren trong Syren lưu hành để hữu hình trong thoáng chốc và điều khiển dựa trên thông tin lịch sử twin Syren lõi. Hiện thực một phần [[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|trạng thái hồi của Syren]] gọi là linh hồn hộ mệnh. Đây là một hệ thống tự vệ của sinh vật trên lục địa
 
 - ví dụ syren lõi ở tủy sống, syren bậc cao của nó bên kia là một con nhện, một cái chân nhện hữu hình mọc ra từ vùng syren cho mọc từ bất kỳ phần cơ thể (tay/lưng), vì mạch ma lực nối Syren khắp người, vật chủ bên này nhớ lại giấc mơ và hiện thực hóa trạng thái tấn công của con nhện
@@ -85,7 +86,7 @@ Bên trong không tiến hóa chịu Syren mà giữ phụ-thuộc-Gaia lâu dà
 - Trạng thái hồi này sẽ duy trì tùy vào mong muốn vật chủ và giới hạn Syren lưu hành
 - Cơ thể vật chủ có thể dùng Syren lưu hành làm nguồn năng lượng thay thế". delay càng lớn khi điểm dùng càng xa Syren lõi, và luôn chậm hơn phản xạ thần kinh. cuộc sống hằng ngày, là một nguồn năng lượng thay thế 
 - Có những cá cực hiếm thể đạt trình độ thay được syren lõi thành syren lõi khác có chủ đích để chữa các chứng rối loạn khi Syren lõi có twin quá khác so với cá thể gốc ví dụ twin là một con rồng hoặc cá thể đang nối với quá nhiều syren lõi cần cắt bớt hoặc muốn thử nghiệm Syren lõi đặc biệt hơn- Quá trình này phải cắt và nối lại thủ công mạch ma lực lõi nên rất tốn công sức
-#### c) Linh hồn thực vật
+#### d) Linh hồn thực vật
 >Linh hồn thực vật là cơ quan trung tâm của cây, chứa Syren lõi của cây và kiêm hệ trung ương. Đặt tên theo loài: "Linh hồn Gaia,+phân loài/tên gọi riêng của cây" -ví dụ: Linh hồn Gaia hoặc Linh hồn Eldtree 
 
 - Ở số ít thực vật có Linh hồn thực vật. Cây có cơ quan này có khả năng tạo hồi syren và linh hồn hộ mệnh để phòng vệ như các chức năng trên .Khác biệt ở chỗ chúng không có liên kết hệ thần kinh và còn có chức năng như một hệ trung ương của cây
@@ -94,14 +95,14 @@ Bên trong không tiến hóa chịu Syren mà giữ phụ-thuộc-Gaia lâu dà
 - Thông thường túi Syren thực vật này của cây có tính bảo vệ cao khi bị tác động ngoại lực vào phần túi syren thực vật này.
 - Khi Linh hồn thực vật biến mất cây sẽ chết
 - Linh hồn thực vật có nhiều hình dáng nhưng chất liệu là gỗ óng ánh màu kim
-#### d) Syren hồi dị bản
+#### e) Syren hồi dị bản
 >Ở syren hồi được hữu hình từ lõi syren có twin cấp cao thông tin quá khác biệt gọi là "Syren hồi dị bản"
 
 - ví dụ thông tin khác biệt là cái cây có Linh hồn thực vật mang twin lõi cấp cao ở một vũ trụ xa là con bò chứ không phải cái cây
 - Syren hồi dị bản gây thông tin mạnh cho chủ thể dễ kích thích thần kinh tạo trạng thái ảo giác, mất hành vi
 - Những Sinh vật tiến hóa sử dụng năng lượng hồi nhiều sẽ bị ảnh hưởng khi dị bản xuất hiện, trong tự nhiên khó sống sót ví khác cơ chế tự nhiên, cơ thể dễ cố đào thải và tự diệt
 - Syren hồi không dị bản khi kích hoạt sẽ chỉ dùng mạch ma lực vá víu đan lại để hỗ trợ cơ bắp, hỗ trợ tuần hoàn, tăng khả năng tự chữa trị (syren lõi dùng thông tin twin để để tự chữa lành vết thương) 
-##### e)  Nguồn Syren hoạt động sau khi sinh vật chết
+#### f)  Nguồn Syren hoạt động sau khi sinh vật chết
 - Khi sinh vật có Syren lõi, hoặc thực vật có Linh hồn thực vật, chết/biến mất → Syren lõi / Linh hồn thực vật hoạt hóa mạch ma lực tạo hình thông tin Syren bậc cao cho đến khi phần:
 - mô thần kinh nối với syren bậc cao của sinh động vật được cho là hết hoạt động hoặc 
 - mạch ma lực nối với syren bậc cao của thực vật nối với cấu trúc cây đã chết
@@ -114,8 +115,8 @@ Các nguồn Syren chia hai kiểu theo có hay không Syren cấp cao bẩm sin
 - [[WB_9_Vessel#I. Bản chất Vessel|Vessel]] nhân tạo
   
 Syren lõi (nốt cấp cao bẩm sinh) + Syren lưu hành (động vật) hoặc mạch ma lực trung ương (thực vật):
-- Syren lõi động vật bẩm sinh (mục a trên)
-- Linh hồn thực vật của cây (mục c trên)
+- Syren lõi động vật bẩm sinh (mục b trên)
+- Linh hồn thực vật của cây (mục d trên)
 - Bầu đất [[WB_10_Phytor#2. Bầu đất Phytor|Phytor]] bao bọc Linh hồn thực vật cây sống
 ###### Flow điều khiển
 Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản thân. Khi muốn vận hành, não kết hợp ký ức twin + ý muốn hiện tại → truyền tín hiệu qua hệ thần kinh, mạch máu, cảm giác → đến nguồn đang vận hành. Từ đây tách hai kiểu:
@@ -124,8 +125,8 @@ Não bộ chủ thể lưu thông tin ký ức twin từ Syren lõi của bản 
 - Để giảm độ trễ và tăng độ rõ, túi thực chủ thể có thể nối thẳng một mạch ma lực vào túi phụ — thông tin truyền trực tiếp, ít sai lệch hơn.
 - Hai túi giữ năng lượng riêng. Năng lượng có thể bơm dần qua mạch ma lực giữa hai bên, nhưng chậm và khó.
 - Túi phụ (Vessel/Veld) chứa nhiều năng lượng Syren nhưng **thiếu thông tin lõi cấp cao** (mục 3: túi phụ không có Syren cấp cao tại chỗ), nên tự nó năng lượng "trơ" — mờ, khó dùng.
-- Syren lưu hành của cơ thể thì **mang thông tin từ Syren lõi**. Dẫn Syren Vessel chạy qua người, nó trộn với Syren cơ thể và nhận được thông tin đó → thành Syren rõ, mạnh, dùng tốt ([[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren cần thông tin twin để định hình]]). Phần Syren cơ thể này hao dần khi cấp thông tin; cạn thì Syren Vessel mất nguồn thông tin, quay về trơ-mờ-yếu (như Syren chưa lọc, mục 2a).
-- Khoảng cách chỉ ảnh hưởng **độ trễ** (càng xa Syren lõi càng trễ, mục 2b), không ảnh hưởng **độ rõ**. Nên đeo Vessel ở đầu rồi dẫn Syren xuống tay/chân thì độ rõ gần như giữ, chỉ chậm tay hơn.
+- Syren lưu hành của cơ thể thì **mang thông tin từ Syren lõi**. Dẫn Syren Vessel chạy qua người, nó trộn với Syren cơ thể và nhận được thông tin đó → thành Syren rõ, mạnh, dùng tốt ([[WB_5_SYREN#3) Syren "hồi" và các trạng thái Syren|Syren cần thông tin twin để định hình]]). Phần Syren cơ thể này hao dần khi cấp thông tin; cạn thì Syren Vessel mất nguồn thông tin, quay về trơ-mờ-yếu (như Syren chưa lọc, mục 2b).
+- Khoảng cách chỉ ảnh hưởng **độ trễ** (càng xa Syren lõi càng trễ, mục 2c), không ảnh hưởng **độ rõ**. Nên đeo Vessel ở đầu rồi dẫn Syren xuống tay/chân thì độ rõ gần như giữ, chỉ chậm tay hơn.
 - Nên Vessel không phải nguồn dùng-tốt vô hạn: còn dùng "ngon" chừng nào cơ thể còn Syren để cấp thông tin, cạn thì đòn yếu hẳn. Chiến binh Vessel đánh lâu sẽ đuối dần, dù vẫn an toàn khỏi nhiễm độc tiếp xúc trực tiếp.
 ###### Kiểu 2 — vận hành Linh hồn thực vật bên ngoài (Verdor nối cây, Phytor)
 - Não chủ thể đẩy thông tin "muốn làm gì" qua mạch ma lực sang Linh hồn thực vật bên ngoài (Linh hồn thực vật của cây)

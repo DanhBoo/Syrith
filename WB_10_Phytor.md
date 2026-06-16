@@ -3,7 +3,7 @@
 
 ### 1. Định nghĩa
 
-**Phytor** là súng năng lượng dùng [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]] làm bầu đất. Khi kích hoạt, bầu được ép giải phóng toàn bộ năng lượng phản vệ của cây qua nòng, mang theo hình thái twin cấp cao của loài cây gốc.
+**Phytor** là súng năng lượng dùng [[WB_6_Sinh học#d) Linh hồn thực vật|Linh hồn thực vật]] làm bầu đất. Khi kích hoạt, bầu được ép giải phóng toàn bộ năng lượng phản vệ của cây qua nòng, mang theo hình thái twin cấp cao của loài cây gốc.
 
 ### 2. Bầu đất Phytor
 

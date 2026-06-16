@@ -2,8 +2,8 @@
 
 	Là một dạng thực vật đậc biệt của lục địa
 ### Đặc điểm chung
->Điểm chung nổi bật của phân loài này là chúng có một hoặc một vài hạt nhân gọi là **"linh hồn Gaia"**. "Linh hồn Gaia" là một dạng mô của cây, đã tiến hóa lên cấp độ chuyên biệt cao trở thành một cơ quan trung tâm của cây- còn hiểu là [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]]
-- Gaia có khả năng di chyển mọi bộ phận trên cơ thể chúng tùy thuộc vào"linh hồn Gaia" mà chúng có thói quen di chuyển khác nhau có trong định nghĩa [[WB_6_Sinh học#c) Linh hồn thực vật|Linh hồn thực vật]]
+>Điểm chung nổi bật của phân loài này là chúng có một hoặc một vài hạt nhân gọi là **"linh hồn Gaia"**. "Linh hồn Gaia" là một dạng mô của cây, đã tiến hóa lên cấp độ chuyên biệt cao trở thành một cơ quan trung tâm của cây- còn hiểu là [[WB_6_Sinh học#d) Linh hồn thực vật|Linh hồn thực vật]]
+- Gaia có khả năng di chyển mọi bộ phận trên cơ thể chúng tùy thuộc vào"linh hồn Gaia" mà chúng có thói quen di chuyển khác nhau có trong định nghĩa [[WB_6_Sinh học#d) Linh hồn thực vật|Linh hồn thực vật]]
 - Gaia là các loài có kích thước khủng bố hoặc tiền thân chúng là như vậy nên chúng có tính allelopathy mạnh. Chúng tạo ra hợp chất enzim ức chế đất đặc thù khi bộ rễ vươn tới, làm cho đa số loài cây xung quanh không sống được.
 - "Linh hồn Gaia" ảnh hưởng trực tiếp đến sức mạnh lan rộng của Gaia, có thể xem nó là **năng lượng** thực thể Gaia.
 - Bộ rễ nếu trong khi phát triển vượt quá kích thước tương quan từng phân loài của từng loại "linh hồn Gaia" chúng sẽ **tự mục ruỗng**.
