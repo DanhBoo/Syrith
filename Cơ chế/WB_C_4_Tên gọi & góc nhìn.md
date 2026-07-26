@@ -1,6 +1,6 @@
 # Sarvel — Tên gọi & góc nhìn
 
-Tên riêng, tước hiệu và thế giới quan của [[WB_F_2_Liênminh_Sarvel|Liên minh Sarvel]]: từ đỉnh dòng máu thần xuống tới thường dân, cách Sarvel hiểu Syren, và cách Sarvel gọi các thế lực khác lẫn được họ gọi lại.
+Tên riêng, tước hiệu và thế giới quan của [[WB_C_2_Liênminh_Sarvel|Liên minh Sarvel]]: từ đỉnh dòng máu thần xuống tới thường dân, cách Sarvel hiểu Syren, và cách Sarvel gọi các thế lực khác lẫn được họ gọi lại.
 
 ---
 
@@ -25,14 +25,14 @@ Sarvel mẫu hệ nên chính danh đi qua mẹ; họ đặt theo mẹ thay vì 
 
 ## II. Kim tự tháp danh xưng
 
-Xếp từ đỉnh thiêng xuống đáy, gom theo bộ để mỗi ngạch đứng chung cụm. Quân số từng ngạch ở [[WB_F_2_Liênminh_Sarvel#III. Dân số & bộ máy (số liệu khả dỉ)|WB_F_2 mục III]].
+Xếp từ đỉnh thiêng xuống đáy, gom theo bộ để mỗi ngạch đứng chung cụm. Quân số từng ngạch ở [[WB_C_2_Liênminh_Sarvel#III. Dân số & bộ máy (số liệu khả dỉ)|WB_C_2 mục III]].
 
 ### 1. Đỉnh thiêng — dòng máu thần
 
 #### Vương hậu tiên tri — Sarvanu (hiệu Anahita)
 
 - **Tên & nghĩa**: *Sarvanu* < *sarv* (cây bách) + *banu* (đức bà) = "Đức Bà Cây Bách". Mỗi đời vương hậu lên ngôi nhận **hiệu Anahita** (آناهیتا — "đấng tinh khiết", nữ thần nước và sinh sôi); tên khai sinh lùi về sau. Dân gọi "Anahita đời thứ N" — một dòng linh hồn thiêng nối qua nhiều thân.
-- **Chức**: cầm quyền thật — tiên tri, ban chính danh, chọn vua, quyết tuyến đá đi và danh sách phong tước ([[WB_F_2_Liênminh_Sarvel#Chế độ thần thánh — mẫu hệ tiên tri|WB_F_2]]).
+- **Chức**: cầm quyền thật — tiên tri, ban chính danh, chọn vua, quyết tuyến đá đi và danh sách phong tước ([[WB_C_2_Liênminh_Sarvel#Chế độ thần thánh — mẫu hệ tiên tri|WB_C_2]]).
 - **Góc nhìn (tự thấy)**: là **tai và miệng của thần** — thân bà nghe được các thế giới thật qua Syren và nói lại ý thần. Quyền cai trị là hệ quả tự nhiên của việc nghe được thần, không phải tham vọng.
 - **Dân Sarvel gọi**: "Mẹ Thiêng", "Tiếng Nói".
 - **Ngoài gọi**: chư hầu Vireth gọi "Mẹ Ban Phước"; Thyria gọi "Tiên tri lang thang"; Eldryn gọi "mụ phù thủy đá".
@@ -43,11 +43,11 @@ Xếp từ đỉnh thiêng xuống đáy, gom theo bộ để mỗi ngạch đ�
 - **Chức**: cầm trọn bộ máy thế tục — hành chính, vệ binh, hậu cần, ngoại giao, thương mại; được tiên tri soi và lọc cho vâng lời và ổn định.
 - **Góc nhìn (tự thấy)**: là **thanh kiếm dưới Tiếng Nói** — vinh dự lớn nhất đời người, đổi lại quyền lực thế tục đặt trọn dưới trục thiêng.
 - **Dân Sarvel gọi**: "Vua", "Cha-tướng".
-- **Ngoài gọi**: chư hầu gọi "Tướng của Mẹ Thiêng"; bạn hàng ngoại xem ông là người ký giấy phép và thu thuế ([[WB_F_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_F_2 mục VII]]).
+- **Ngoài gọi**: chư hầu gọi "Tướng của Mẹ Thiêng"; bạn hàng ngoại xem ông là người ký giấy phép và thu thuế ([[WB_C_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_C_2 mục VII]]).
 
 ### 2. Bộ tiên tri — Magbanu (giáo đoàn nữ tế)
 
-Cả giáo đoàn nữ thiêng gọi chung là **Magbanu** (*magu* مغ — tăng lữ Ba Tư, gốc của chữ "magic" và "magi" — nữ hóa bằng *banu*). Năm tầng, đỉnh thiêng mỏng, đáy kỹ thuật dày ([[WB_F_2_Liênminh_Sarvel#Bộ tiên tri (~1.400)|WB_F_2]]).
+Cả giáo đoàn nữ thiêng gọi chung là **Magbanu** (*magu* مغ — tăng lữ Ba Tư, gốc của chữ "magic" và "magi" — nữ hóa bằng *banu*). Năm tầng, đỉnh thiêng mỏng, đáy kỹ thuật dày ([[WB_C_2_Liênminh_Sarvel#Bộ tiên tri (~1.400)|WB_C_2]]).
 
 #### Đại tế — Mobad-banu (tầng I–II)
 
@@ -66,7 +66,7 @@ Cả giáo đoàn nữ thiêng gọi chung là **Magbanu** (*magu* مغ — tăn
 #### Đội gác an toàn — Atashban (tầng IV)
 
 - **Tên & nghĩa**: *Atashban* < *atash* (آتش — lửa) + *ban* (người giữ) = "người giữ lửa". Tên ẩn dụ: họ giữ ngọn lửa sống của khối — bong bóng Gaia-an toàn ở lõi.
-- **Chức**: vận hành bong bóng Gaia lõi, phối người giữ cây lái khối qua phòng cầu định hướng ánh sáng ([[WB_F_2_Liênminh_Sarvel#VIII. Nhóm chăm Gaia & sinh thái|WB_F_2 mục VIII]]).
+- **Chức**: vận hành bong bóng Gaia lõi, phối người giữ cây lái khối qua phòng cầu định hướng ánh sáng ([[WB_C_2_Liênminh_Sarvel#VIII. Nhóm chăm Gaia & sinh thái|WB_C_2 mục VIII]]).
 - **Góc nhìn**: ngạch kỹ thuật phục vụ trục thiêng, đứng ngoài hàng kế vị; tự thấy là **tuyến sống còn** giữ cả khối thở.
 - **Dân gọi**: "người giữ lửa".
 
@@ -91,7 +91,7 @@ Bộ máy đời, gốc tước pha Aetum: khi đế quốc Aetum sụp, học g
 #### Thư lại cống nạp & thuế quan — Dabiran
 
 - **Tên & nghĩa**: *Dabir* (دبیر — quan thư lại Ba Tư), số nhiều **Dabiran**. Ngạch bút và sổ sách.
-- **Chức**: kiểm kê cống phẩm, ghi sổ gia phả chư hầu và sổ cống nạp, kiêm **cấp phép + thuế quan thương mại** vì buôn bám theo đoàn cống nạp ([[WB_F_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_F_2 mục VII]]).
+- **Chức**: kiểm kê cống phẩm, ghi sổ gia phả chư hầu và sổ cống nạp, kiêm **cấp phép + thuế quan thương mại** vì buôn bám theo đoàn cống nạp ([[WB_C_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_C_2 mục VII]]).
 - **Góc nhìn**: thành quốc kiếm lời bằng phí và thuế quyền tiếp cận; cây bút Dabir là cái van chặn người lạ lại gần đoàn tiên tri thiêng.
 - **Dân gọi**: "thầy sổ".
 - **Ngoài gọi**: thương nhân ngoại gọi họ là "người giữ giấy phép".
@@ -99,7 +99,7 @@ Bộ máy đời, gốc tước pha Aetum: khi đế quốc Aetum sụp, học g
 #### Vệ binh Vessel — Spahan
 
 - **Tên & nghĩa**: *Spahan* (gốc *spah* — quân; cùng gốc với địa danh "nơi đóng quân"). Binh đoàn dưới Spahbod.
-- **Chức**: mỗi công dân là chiến binh Vessel; Spahan là ngạch vũ trang chính quy — hộ tống đoàn hành lễ băng hoang dã Syren, áp tải thú thồ chở cống phẩm, phòng thủ khối ([[WB_F_2_Liênminh_Sarvel#VI. Đoàn hành lễ & thú bay nghi lễ|WB_F_2 mục VI]]).
+- **Chức**: mỗi công dân là chiến binh Vessel; Spahan là ngạch vũ trang chính quy — hộ tống đoàn hành lễ băng hoang dã Syren, áp tải thú thồ chở cống phẩm, phòng thủ khối ([[WB_C_2_Liênminh_Sarvel#VI. Đoàn hành lễ & thú bay nghi lễ|WB_C_2 mục VI]]).
 - **Góc nhìn**: giữ thân thể thần (khối đá) và đường về của các Mẹ là phận sự cao nhất của lưỡi kiếm.
 - **Dân gọi**: "lính khối".
 
@@ -127,7 +127,7 @@ Nhà cổ nhất tự nhận **dòng từng cưỡi khối Đá-Mẹ đầu tiê
 
 ### 5. Thường dân
 
-Lớp đáy kim tự tháp — thợ săn, thợ đá, thủ công, dịch vụ ([[WB_F_2_Liênminh_Sarvel#Nghề trong lát thủ công + dịch vụ (1.400)|WB_F_2]]). Mang phụ danh theo mẹ, không tên nhà.
+Lớp đáy kim tự tháp — thợ săn, thợ đá, thủ công, dịch vụ ([[WB_C_2_Liênminh_Sarvel#Nghề trong lát thủ công + dịch vụ (1.400)|WB_C_2]]). Mang phụ danh theo mẹ, không tên nhà.
 
 - **Thợ săn — Shekarban** (*shekar* شکار — săn): lớp đông nhất, xử thú đậu ở vỏ ngoài. Dân gọi "thợ vỏ".
 - **Thợ đá — Sangtarash** (*sang* đá + *tarash* đẽo): đục phòng, khoét bể nước, gia cố hầm trong lòng khối. Dân gọi "thợ đục".
@@ -165,7 +165,7 @@ Cặp lưỡng cực nghi lễ **nước (Anahita) ↔ lửa (Atash)**: khối �
 ### Vireth (chư hầu Korven)
 
 - **Gọi Sarvel**: "Đá Thiêng", "Đá-Mẹ biết đi"; vương hậu là "Mẹ Ban Phước".
-- **Đối xử**: thần phục, cống nạp bốn mùa, ngóng đá quay lại vì sức mạnh và địa vị tù trưởng gắn với lễ tái nạp ([[WB_F_2_Liênminh_Sarvel#Vì sao chư hầu thần phục|WB_F_2 mục V]]).
+- **Đối xử**: thần phục, cống nạp bốn mùa, ngóng đá quay lại vì sức mạnh và địa vị tù trưởng gắn với lễ tái nạp ([[WB_C_2_Liênminh_Sarvel#Vì sao chư hầu thần phục|WB_C_2 mục V]]).
 - **Sarvel gọi lại**: "chư hầu", "đàn con được ban phước"; tù trưởng là "con của Cây". Korven nói chung là **vật chứa thiêng** — thân giữ được Syren cấp cao mà tiên tri chỉnh. Quan hệ bảo hộ pha khai thác êm thuận.
 
 ### Eldryn (thần quyền đối thủ)
@@ -177,7 +177,7 @@ Cặp lưỡng cực nghi lễ **nước (Anahita) ↔ lửa (Atash)**: khối �
 ### Masquara (cộng hòa hàng hải, tộc gặm nhấm)
 
 - **Gọi Sarvel**: "Đá buôn Luminar", "ông lớn thượng nguồn" — tôn giáo chỉ là phông nền lạ; cái họ thấy là một node xa, giàu, đổi Luminar lấy hàng phương Đông.
-- **Đối xử**: thực dụng, bán hàng Đông giá cao vì Sarvel lệch tuyến biển chính ([[WB_F_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_F_2 mục VII]]).
+- **Đối xử**: thực dụng, bán hàng Đông giá cao vì Sarvel lệch tuyến biển chính ([[WB_C_2_Liênminh_Sarvel#VII. Thương mại & thương nhân|WB_C_2 mục VII]]).
 - **Sarvel gọi lại**: "chuột buôn", "đoàn răng cưa" — hữu dụng vì carry hàng Đông, hơi rẻ rúng vì là gặm nhấm, nhưng cần.
 
 ### Thyria (bạn hàng Valdren)
@@ -196,7 +196,7 @@ Cặp lưỡng cực nghi lễ **nước (Anahita) ↔ lửa (Atash)**: khối �
 
 - **Gọi Sarvel**: Norden không giao tiếp được với Korven/Valdren ([[WB_1_Mục lục định nghĩa|WB_1]]); với chúng khối đá là con mồi lớn hoặc chướng ngại lãnh thổ, không phải một cái tên.
 - **Đối xử**: cướp phá, vây công khi khối đi qua vùng chúng.
-- **Sarvel gọi lại**: "lũ máu lạnh", "thú không hồn", "tai họa hoang dã" — đối tượng của nỏ và tổ giáp nặng ([[WB_F_2_Liênminh_Sarvel#IV. Săn bắt trên đá|WB_F_2 mục IV]]), ngoại giao bằng phòng thủ và né tuyến, không bằng lời.
+- **Sarvel gọi lại**: "lũ máu lạnh", "thú không hồn", "tai họa hoang dã" — đối tượng của nỏ và tổ giáp nặng ([[WB_C_2_Liênminh_Sarvel#IV. Săn bắt trên đá|WB_C_2 mục IV]]), ngoại giao bằng phòng thủ và né tuyến, không bằng lời.
 
 ---
 
@@ -214,5 +214,5 @@ Lối ăn nói Sarvel xoay quanh ba thứ định nghĩa đời họ: đá đi, 
 ## VI. Nhánh để ngỏ
 
 - Tên riêng vị thần Cây–Mặt Trời (gợi ý **Sarv-Mehr**) và tên đạo (gợi ý **Sarvashan**) — chờ chốt cùng file tín ngưỡng riêng.
-- Trình tự nghi lễ chi tiết và vật phẩm lễ ([[WB_F_2_Liênminh_Sarvel#X. Nhánh để ngỏ|WB_F_2 mục X]]).
+- Trình tự nghi lễ chi tiết và vật phẩm lễ ([[WB_C_2_Liênminh_Sarvel#X. Nhánh để ngỏ|WB_C_2 mục X]]).
 - Ngôn ngữ chư hầu Vireth: Korven nhiều loài, có thể mỗi vùng một biệt danh riêng cho Đá Thiêng.

@@ -60,9 +60,9 @@ Dân số cổ đại toàn lục địa trước thảm họa vào khoảng 3.0
 
 Di cư hỗn loạn giai đoạn cuối kết thúc khi người dân di cư rút về các Gaia tạo thành cộng đồng ổn định.
 
-Giai đoạn này dân tranh giành các vùng Gaia khan hiếm — gần như toàn bộ người sống sót dồn về Gaia trước vì ngoài Gaia là vùng Syren nguy hiểm. Số người dồn về vượt xa sức chứa từng Gaia (trần dân số theo bán kính săn — xem [[WB_00_Context#2. Săn bắt là nguồn thực phẩm chính|WB_00 mục 2]]), gây quá tải lương thực, đói, và chiến tranh giành đất.
+Giai đoạn này dân tranh giành các vùng Gaia khan hiếm — gần như toàn bộ người sống sót dồn về Gaia trước vì ngoài Gaia là vùng Syren nguy hiểm. Số người dồn về vượt xa sức chứa từng Gaia (trần dân số theo bán kính săn), gây quá tải lương thực, đói, và chiến tranh giành đất.
 
-Mỗi vùng Gaia trải qua chu kỳ mục ruỗng chính quyền — quan liêu tích lũy mất chính danh, phe cải cách nội bộ hình thành, phe lưu vong từ Gaia khác gia nhập — lặp lại khoảng 100 năm một chu kỳ. Vùng Gaia dọc các nguồn nước lớn bị tranh chấp nặng nhất, trải qua tối đa 4 chu kỳ trong cửa sổ xung đột năm 60 đến năm 450; vùng ít bị tranh chấp trải qua ít chu kỳ hơn.
+Mỗi vùng Gaia trải qua chu kỳ mục ruỗng chính quyền — quan liêu tích lũy mất chính danh, phe cải cách nội bộ hình thành, phe lưu vong từ Gaia khác gia nhập — lặp lại khoảng 100 năm một chu kỳ. Vùng Gaia dọc các nguồn nước lớn bị tranh chấp nặng nhất, trải qua tối đa 4 chu kỳ trong cửa sổ xung đột năm 60 đến năm 450; vùng ít bị tranh chấp trải qua ít chu kỳ hơn. Chu kỳ cuối cùng mang tên cách mạng đại thụ, được nhiều vùng Gaia khắp lục địa hưởng ứng cùng lúc — đặt nền móng cho nhân quyền cao sau này.
 
 Tới năm 400-450, lục địa ổn định ở khoảng 48 Gaia, chứa khoảng 760.000 người. Tổng cộng khoảng 1.640.000 người bị đẩy ra ngoài qua suốt giai đoạn này.
 
@@ -110,7 +110,7 @@ Phân hóa Valdren / Korven hình thành trọn trong ~500 năm này (cơ chế 
 - Thành lập tuyến thương mại, thành quốc với các tộc nhân nhóm chuột, gặm nhấm sử dụng cơ chế ngủ đông để carry nhau di chuyển giữa các vùng đất không gaia để tạo liên kết đông tây buôn bán
 >Khối Sarvel
 - Thu hẹp thành 1 thành quốc duy nhất di chuyển trên đá sa minh, dùng sức mạnh tiên tri để phong tước và sửa/tăng sức mạnh syren cấp cao cho lãnh đạo các bộ lạc vireth xung quanh, đá saverl di chuyển bốn mùa để nhận cống nạp từ các bộ lạc chư hầu này
-- Một phần bộ lạc Vireth làm chư hầu Sarvel — chi tiết ở [[WB_F_2_Liênminh_Sarvel|Liên minh Sarvel]].
+- Một phần bộ lạc Vireth làm chư hầu Sarvel — chi tiết ở [[WB_C_2_Liênminh_Sarvel|Liên minh Sarvel]].
 >Mizuho
 - Thay đổi bộ máy Hoàng Tôn Huyền Chính đứng đầu quyền lợi của tướng quân về phía Hoàng Tôn để chống trả thảm họa thống nhất đất nước, Mizuho Học hỏi văn hóa Masquara và Thyria trong công cuộc cải cách trong khi vẫn giữ bản sắc phương đông
 >Đại viên

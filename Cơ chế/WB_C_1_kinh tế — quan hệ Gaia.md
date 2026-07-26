@@ -14,7 +14,7 @@ Vireth là tập hợp bộ lạc rải rác của các loài [[WB_6_Sinh học#
 Hai lớp sinh thái giữ Korven và Valdren ở hai môi trường tách biệt:
 
 - **Korven** sống trong vùng Syren dày. Vào Gaia thì các cơ quan vốn để Syren thay thế mất chức năng, sức tụt — họ làm chủ mép Gaia, lõi Gaia ngoài tầm.
-- **Valdren** sống bám Gaia. Cá nhân và đoàn nhỏ băng hoang dã Syren bằng Vessel và tiếp tế; quy mô lớn đóng giữ lâu dài thì hậu cần vượt sức ([[WB_00_Context|đế quốc bất khả thi]]).
+- **Valdren** sống bám Gaia. Cá nhân và đoàn nhỏ băng hoang dã Syren bằng Vessel và tiếp tế; quy mô lớn đóng giữ lâu dài thì hậu cần vượt sức (đế quốc bất khả thi).
 
 Quan hệ giữa hai khối chạy trên thương mại và cống nạp. Cá nhân mạo hiểm vẫn băng lục địa được — đó là chất phiêu lưu của thế giới.
 

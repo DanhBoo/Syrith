@@ -99,7 +99,7 @@ Mặt hàng chủ đạo tuyến Đông-Tây: **tơ lụa, gia vị, trà, sứ,
 # VII. Masquara — cộng hòa hàng hải
 
 ### Quản trị & quy mô
-- Hội đồng liên minh các cảng tự trị điều phối, nhiều đầu mối phân tán — không phải một siêu đô thị. Cap thành bang ~25k + không buôn lương thực (xem [[WB_00_Context]] mục 10) buộc mỗi cảng tự nuôi, nên Masquara mãi là liên minh nhiều cảng nhỏ.
+- Hội đồng liên minh các cảng tự trị điều phối, nhiều đầu mối phân tán — không phải một siêu đô thị. Cap thành bang ~25k + không buôn lương thực buộc mỗi cảng tự nuôi, nên Masquara mãi là liên minh nhiều cảng nhỏ.
 - Cốt lõi **3-5 cảng sở hữu**: một cổ chai ~25k (đầu cập gap biển, giàu nhất nhờ độc quyền chuyển tải biển↔bộ) + vệ tinh ~10-15k. Cộng **~6-8 factory** đặt nhờ trên Gaia nước khác dọc tuyến. Sàn tối thiểu có thể xuống ~2-3 cảng.
 - Cá thay phần lớn sàn săn lương thực. Lớp nghề buôn + đóng tàu + ngân hàng ~28% mỗi cảng (theo [[WB_P_3_Bảng phân bố nghề siêu chi tiết (toàn bộ thành quốc)]]), đa số dân còn lại là đánh bắt + nghề địa phương. Số cảng do **địa lý gap** quyết, không do lao động (buôn đường dài thuê ít người, nhân lực luôn đủ).
 

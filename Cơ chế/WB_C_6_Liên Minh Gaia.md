@@ -7,11 +7,11 @@
 ### 1. Liên Minh Gaia 
 Liên Minh Gaia là mạng liên kết tiếp tế và liên lạc giữa các vùng [[WB_4_Chaos & Gaia|Gaia]] Valdren với nhau.
 
-- Mục đích: giảm lệ thuộc thế giới [[WB_F_5_Bên ngoài Gaia|ngoài Gaia]].
+- Mục đích: giảm lệ thuộc thế giới [[WB_C_5_Bên ngoài Gaia|ngoài Gaia]].
 - Tuyến nối: [[WB_11_Ngủ đông thương mại|Masquara]] gánh đoạn xa giữa các Gaia.
 
 ### 2. Mặt còn lại của quan hệ với ngoài Gaia
-Khối Gaia cần nhiều loại hàng từ ngoài hơn là Korven cần hàng Gaia ([[WB_F_5_Bên ngoài Gaia#II. Vì sao tự chủ với khối Gaia|WB_F_5 mục II]]). Liên Minh Gaia là cách khối Gaia đáp lại sự phụ thuộc một chiều đó: gom nhu cầu của các Gaia vào một mạng nội bộ để bớt phụ thuộc thế giới Korven.
+Khối Gaia cần nhiều loại hàng từ ngoài hơn là Korven cần hàng Gaia ([[WB_C_5_Bên ngoài Gaia#II. Vì sao tự chủ với khối Gaia|WB_C_5 mục II]]). Liên Minh Gaia là cách khối Gaia đáp lại sự phụ thuộc một chiều đó: gom nhu cầu của các Gaia vào một mạng nội bộ để bớt phụ thuộc thế giới Korven.
 
 ---
 
@@ -30,7 +30,7 @@ Khối Gaia hạn chế giao thương với ngoài Gaia hết mức, vì hai lý
 Hiện tại mạng Gaia mới ở dạng phôi thai:
 
 - Chưa có liên minh hay tuyến giao thương xuyên quốc gia Gaia thường xuyên.
-- Giao thương ngoài Gaia thì dễ và sôi động ([[WB_F_5_Bên ngoài Gaia#V. Kinh tế & giao thương ngoài Gaia|WB_F_5 mục V]]); nối các Gaia với nhau mới là việc khó.
+- Giao thương ngoài Gaia thì dễ và sôi động ([[WB_C_5_Bên ngoài Gaia#V. Kinh tế & giao thương ngoài Gaia|WB_C_5 mục V]]); nối các Gaia với nhau mới là việc khó.
 - [[WB_11_Ngủ đông thương mại|Masquara]] thi thoảng mới tới một Gaia để liên lạc, chưa thành tuyến đều.
 - Mạng liên minh Gaia thường xuyên là tầng sẽ dựng ở thời kỳ sau Syrith.
 
@@ -59,7 +59,7 @@ Các thành bang Gaia gần nhau đã có sẵn cơ chế liên kết địa ph�
 ## VI. Hướng phát triển — liên minh xuyên quốc gia
 
 - Masquara từ tuyến liên lạc rời rạc tiến tới mạng liên minh Gaia đều đặn, biến các Gaia rời rạc thành một khối có tiếng nói chung.
-- Khi mạng thành hình, khối Gaia giảm hẳn phụ thuộc thế giới Korven, đủ sức làm đối trọng với vùng ngoài Gaia tự chủ ([[WB_F_5_Bên ngoài Gaia|WB_F_5]]).
+- Khi mạng thành hình, khối Gaia giảm hẳn phụ thuộc thế giới Korven, đủ sức làm đối trọng với vùng ngoài Gaia tự chủ ([[WB_C_5_Bên ngoài Gaia|WB_C_5]]).
 - Đây là phần để dành cho thời kỳ sau mốc Syrith hiện tại ([[WB_3_ASTRAEA#IV. THỜI HỒI SINH VÀ TÁI LIÊN MINH (SYRITH)|Syrith]]).
 
 ---

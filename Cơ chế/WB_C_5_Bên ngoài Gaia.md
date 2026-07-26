@@ -22,11 +22,11 @@ Khối Korven mất phần lớn văn hóa tổ tiên và phát triển chậm t
 
 ## II. Vì sao tự chủ với khối Gaia
 
-Hai lớp sinh thái giữ Korven và Valdren mỗi bên một môi trường riêng ([[WB_F_1_kinh tế — quan hệ Gaia#II. Mỗi bên trụ ở sân mình|WB_F_1 mục II]]); điểm mới là Korven tự chủ được:
+Hai lớp sinh thái giữ Korven và Valdren mỗi bên một môi trường riêng ([[WB_C_1_kinh tế — quan hệ Gaia#II. Mỗi bên trụ ở sân mình|WB_C_1 mục II]]); điểm mới là Korven tự chủ được:
 
 - **Lương thực**: Korven tự túc lương thực bằng nông nghiệp Syren.
 - **Ít phụ thuộc Gaia**: Korven thích nghi Syren nên cần hàng riêng của Gaia ở mức thấp. Thứ chỉ Gaia làm ra được — [[WB_4_Chaos & Gaia#6. Sữa Gaia và văn minh khai thác|sữa Gaia]], vách [[WB_9_Vessel|Vessel]], đồ chế tác tinh xảo — vẫn là cầu nối, nhưng chỉ ở mức nhu cầu nhỏ.
-- **Phụ thuộc một chiều**: vùng Gaia cần nhiều loại hàng từ ngoài (gia vị, hương liệu, khoáng, các loại nông sản khác) hơn là Korven cần hàng Gaia. Chính sự chênh này khiến khối Gaia đi tìm tự chủ bằng cách nối các Gaia với nhau ([[WB_F_6_Liên Minh Gaia|Liên Minh Gaia]]).
+- **Phụ thuộc một chiều**: vùng Gaia cần nhiều loại hàng từ ngoài (gia vị, hương liệu, khoáng, các loại nông sản khác) hơn là Korven cần hàng Gaia. Chính sự chênh này khiến khối Gaia đi tìm tự chủ bằng cách nối các Gaia với nhau ([[WB_C_6_Liên Minh Gaia|Liên Minh Gaia]]).
 
 ---
 

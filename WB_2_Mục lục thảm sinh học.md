@@ -35,7 +35,7 @@ _Phân bố môi trường:
 - Mọc sống ổn định trên đá Sa Minh
 _Ứng dụng:
 - Lợi dụng đặc tính di chuyển của Sen Sa Minh, Tạo một **phòng hình cầu khổng lồ** che hết ánh sáng, chỉ để một khung sáng có hướng đi họ muốn để Sen Sa Minh điều hướng di chuyển theo đó.
-- Là **Gaia di động**: thủ phủ tiên tri Sarvel cưỡi khối đá Sa Minh do Saltree khiêng để du mục nhận cống nạp. Cơ chế + số liệu đầy đủ ở [[WB_F_2_Liênminh_Sarvel]].
+- Là **Gaia di động**: thủ phủ tiên tri Sarvel cưỡi khối đá Sa Minh do Saltree khiêng để du mục nhận cống nạp. Cơ chế + số liệu đầy đủ ở [[WB_C_2_Liênminh_Sarvel]].
 #### Luweh
 _Hình dạng & loài & đặc điểm: 
 - Gaia dạng bụi tre, các bụi chung rễ lớn rải rác khắp Luweh
@@ -136,7 +136,7 @@ _Ứng dụng:
 - Đặc tính: **giàu dinh dưỡng, khoáng chất ưa thích** của Sen Sa Minh.
 - **Rắn chắc**, thích hợp làm nền móng công trình.
 - Khối Sa Minh lớn được đục thành **thành phố tổ ong 3 chiều** cho Sarvel: đỉnh + lõi trong (Gaia-an toàn) là khu ở, vỏ ngoài + tầng dưới (phơi Syren) là hang cho wyvern/khủng long bay vào đậu để săn.
-- **Ứng dụng:** nền móng kiêm thân thành quốc di động Sarvel, do Saltree khiêng đi. Chi tiết ở [[WB_F_2_Liênminh_Sarvel]].
+- **Ứng dụng:** nền móng kiêm thân thành quốc di động Sarvel, do Saltree khiêng đi. Chi tiết ở [[WB_C_2_Liênminh_Sarvel]].
 
 
 
