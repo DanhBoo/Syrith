@@ -1,16 +1,9 @@
 # ASTRAEA — Các Mốc Thời Đại
 
 
----
-
 ## I. THỜI KHAI SINH
 Chaos được tạo thành từ hư không trên lục địa không có loài nào có tri thức ở ASTRAEA đủ để biết trước khi có chaos thì lục địa sẽ như thế nào
 
-
-
-
-
----
 
 ## II. THỜI ĐẠI CŨ — THỜI HOÀNG KIM
 
@@ -25,16 +18,16 @@ Tăng trưởng nhanh nhưng chưa vượt ngưỡng công nghiệp.
 - Khi nhiều họ-loài cùng vùng → **giao thoa văn hóa**, hình thành bản sắc lai  (vd: người-hạc + người-gấu trúc cùng vùng → văn hóa pha).
 - Văn hóa đế chế = **tổng hòa các chủng loài** sinh sống trong đó.
 
-| Mốc                 | Sự kiện trước thảm họa                                                                                                                        | Hệ quả                                                  |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **T-5000 → T-2000** | Aetum đã là vùng cao nguyên/hoang mạc đa dân tộc ổn định. Luweh có Tam triều đối lập. Tiền-Doria còn rời rạc.                            | Bối cảnh nền: 3 khối lớn cổ nhất.                       |
-| **T-1500** (?)      | **Luweh:** Vũ Long thống nhất Tam triều → cực thịnh, văn hóa phương đông ổn định.                                                          | Luweh thành "nguồn văn hóa" mà Mizuho học theo.         |
-| **T-1200** (?)      | **Mizuho:** ổn định nội bộ sau nội chiến tướng quân, du nhập ảnh hưởng Luweh.                                                                 | Bộ máy Hoàng Tôn nắm quyền danh nghĩa; tướng quân là lãnh đạo quân sự tối cao và người cai trị thực tế, dưới có các lãnh chúa khắp nước.    |
-| **T-1000**          | **Doria:** Romulus đại đế thống nhất Đông + Tây Doria, giao Remus cai quản phía Tây.                                                        | Một đế quốc 2-nửa ngăn bởi eo biển. Đông Doria giữ vị trí thương mại thuận lợi với phương đông; Tây Doria thiên phòng thủ.                     |
-| **T-800**           | **Aetum:** Anaktor II nổi lên, xâm chiếm đồng bằng hoang mạc phía nam.                      | Cân bằng quyền lực vỡ. Aetum thành mối đe dọa mới.      |
-| **T-700 → T-500**   | **Aetum xâm Đại Viên 2 lần** — đều thất bại.                                                                                                  | Đại Viên dưới Lam Huyền Tông trụ vững, danh tiếng tăng. |
-| **T-500 → T-100**   | **Aetum xâm Tây Doria liên tục.** Vị trí thương mại kém hơn Đông Doria, cộng thêm áp lực phòng thủ liên miên → kinh tế kiệt → **Tây Doria chia 5 xẻ 7 nội bộ**. | Romulus/Remus motif suy. Quyền lực Tây trượt.           |
-| **T-100 → Năm 0**   | **Masquara di cư** từ Tây Doria lên bờ biển, vào vùng vẫn thuộc Đông Doria (vùng hồng trên map). Đông Doria bảo trợ tạm.                   | là cộng đồng nhỏ làng chài đoàn kết                     |
+| Mốc                 | Sự kiện trước thảm họa                                                                                                                                          | Hệ quả                                                                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **T-5000 → T-2000** | Aetum đã là vùng cao nguyên/hoang mạc đa dân tộc ổn định. Luweh có Tam triều đối lập. Tiền-Doria còn rời rạc.                                                   | Bối cảnh nền: 3 khối lớn cổ nhất.                                                                                                        |
+| **T-1500** (?)      | **Luweh:** Vũ Long thống nhất Tam triều → cực thịnh, văn hóa phương đông ổn định.                                                                               | Luweh thành "nguồn văn hóa" mà Mizuho học theo.                                                                                          |
+| **T-1200** (?)      | **Mizuho:** ổn định nội bộ sau nội chiến tướng quân, du nhập ảnh hưởng Luweh.                                                                                   | Bộ máy Hoàng Tôn nắm quyền danh nghĩa; tướng quân là lãnh đạo quân sự tối cao và người cai trị thực tế, dưới có các lãnh chúa khắp nước. |
+| **T-1000**          | **Doria:** Romulus đại đế thống nhất Đông + Tây Doria, giao Remus cai quản phía Tây.                                                                            | Một đế quốc 2-nửa ngăn bởi eo biển. Đông Doria giữ vị trí thương mại thuận lợi với phương đông; Tây Doria thiên phòng thủ.               |
+| **T-800**           | **Aetum:** Anaktor II nổi lên, xâm chiếm đồng bằng hoang mạc phía nam.                                                                                          | Cân bằng quyền lực vỡ. Aetum thành mối đe dọa mới.                                                                                       |
+| **T-700 → T-500**   | **Aetum xâm Đại Viên 2 lần** — đều thất bại.                                                                                                                    | Đại Viên dưới Lam Huyền Tông trụ vững, danh tiếng tăng.                                                                                  |
+| **T-500 → T-100**   | **Aetum xâm Tây Doria liên tục.** Vị trí thương mại kém hơn Đông Doria, cộng thêm áp lực phòng thủ liên miên → kinh tế kiệt → **Tây Doria chia 5 xẻ 7 nội bộ**. | Romulus/Remus motif suy. Quyền lực Tây trượt.                                                                                            |
+| **T-100 → Năm 0**   | **Masquara di cư** từ Tây Doria lên bờ biển, vào vùng vẫn thuộc Đông Doria (vùng hồng trên map). Đông Doria bảo trợ tạm.                                        | là cộng đồng nhỏ làng chài đoàn kết                                                                                                      |
 
 ---
 
@@ -92,8 +85,6 @@ Phân hóa Valdren / Korven hình thành trọn trong ~500 năm này (cơ chế 
 - Quyền lực tập trung quanh tài nguyên sống sót.
 
 ### Định hình bản sắc văn minh thời Syrith
-
-![[Pasted image 20260518084904.png]]
 
 > Khối Aetum
 - Biến mất khỏi bản đồ chỉ còn trong sử sách,các công trình đá bị vỡ nát, các học giả chạy sang Sarvel và lời truyền miệng
