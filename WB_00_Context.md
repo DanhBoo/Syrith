@@ -86,17 +86,7 @@
 - Cung đình + hành chính + vệ binh chỉ ~14-22% dân thành quốc thủ phủ (không phải 30-40% như đế chế lịch sử)
 - Phần lớn quản lý là địa phương / trực tiếp (cộng đồng nhỏ)
 
-## 8. Chiến tranh nhỏ và lễ nghi
 
-**Khác biệt**: Không có vũ khí sinh học. Không tổng động viên đại trà (mỗi người quá quý).
-
-**Hệ quả trực tiếp:**
-
-- Trận chiến vài trăm hiệp sĩ với vài nghìn lính bộ, không phải chục nghìn
-- Chiến tranh tổng lực không tồn tại
-- Đánh nhau là việc của giai cấp chiến binh chuyên / lính đánh thuê
-- Thợ săn (40% dân) đồng thời là militia khi cần — không có quân đội riêng
-- Xâm lược thành quốc cực kỳ tốn kém — đánh "cả dân số đều là thợ săn có Vessel"
 
 ---
 
@@ -209,7 +199,7 @@
 - Không thể tồn tại đế quốc.
 - Vấn đề mang quy mô thành quốc.
 - **Khó có cách mạng công nghệ.** 
-- **Mỗi mạng người đều đáng quý** — không có chiến tranh nuốt hàng triệu sinh mạng.
+- **Mỗi mạng người đều đáng quý** 
 - **Văn minh sống chung với hoang dã** — không thuần hoá được hết tự nhiên,
 - Mỗi chuyến đi xa là phiêu lưu
 

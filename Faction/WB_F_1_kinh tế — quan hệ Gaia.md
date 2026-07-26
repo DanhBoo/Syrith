@@ -34,7 +34,7 @@ Gốc của sự tách hai loài ở [[WB_6_Sinh học#e.Giải thích phân hó
 - Chuỗi giá trị: Korven khai → giao [[WB_11_Ngủ đông thương mại|Masquara]] carry qua gap → chợ Valdren. Korven đứng ở **thượng nguồn** chuỗi.
 
 ### Buôn hai chiều
-- Vireth ít làm nông và săn nên cần lương thực ổn định và đồ chế tác. Nông nghiệp ổn định, [[WB_4_Gaia#Sữa Gaia và văn minh khai thác|sữa Gaia]], [[WB_9_Vessel|Vessel]], công cụ tinh đều đến từ vùng Gaia ([[WB_P_1_Thương mại & Scale lục địa#VI. Chuyên môn các vùng|WB_P_1 mục VI]]).
+- Vireth ít làm nông và săn nên cần lương thực ổn định và đồ chế tác. Nông nghiệp ổn định, [[WB_4_Chaos & Gaia#6. Sữa Gaia và văn minh khai thác|sữa Gaia]], [[WB_9_Vessel|Vessel]], công cụ tinh đều đến từ vùng Gaia ([[WB_P_1_Thương mại & Scale lục địa#VI. Chuyên môn các vùng|WB_P_1 mục VI]]).
 - Hai bên thiếu chéo: Vireth cần lương thực và chế tác, khối Gaia cần khoáng Syren sâu. Mỗi bên cầm một độc quyền của mình → giá giữ thế cân bằng, cả hai cùng lợi.
 
 ## V. Bảo kê — dịch vụ bán từ thế mạnh

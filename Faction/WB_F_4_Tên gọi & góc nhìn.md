@@ -152,7 +152,7 @@ Syren là màng rối lượng tử nối thế giới này với vô số thế
 
 Ba trụ thờ gói từ chính cấu tạo thành quốc:
 
-- **Cây**: Saltree là thân thể sống của thần — cây bách thiêng biết đi, khiêng cả thành quốc. Làm hại Cây là tội nặng nhất: phản quốc, báng thần và giết thần gộp làm một (ép linh hồn Saltree quá ngưỡng sẽ kích cơ chế phòng thủ Gaia, [[WB_4_Gaia#Cơ chế phòng thủ|WB_4]]).
+- **Cây**: Saltree là thân thể sống của thần — cây bách thiêng biết đi, khiêng cả thành quốc. Làm hại Cây là tội nặng nhất: phản quốc, báng thần và giết thần gộp làm một (ép linh hồn Saltree quá ngưỡng sẽ kích cơ chế phòng thủ Gaia, [[WB_4_Chaos & Gaia#3. Cơ chế phòng thủ|WB_4]]).
 - **Mặt Trời**: khối đi ban ngày theo nắng, linh hồn Saltree hướng sáng; mặt trời là mắt thần dẫn đường.
 - **Tiếng Nói**: ý thần truyền qua dòng nữ thiêng — vương hậu là cái miệng, giáo đoàn Magbanu là cái tai.
 

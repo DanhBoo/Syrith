@@ -15,10 +15,17 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 
 ##### Rối cấp cao — liên kết đặc biệt 1-1
 
-- Ngoài lưới rối đa phần ở trên, mỗi hạt Syren còn có đúng một liên kết rối 1 chiều đặc biệt 1-1 với một hạt twin cụ thể trong số đó. Ví dụ: hạt Syren số 1 ở vũ trụ này rối cơ bản với toàn bộ Syren số 1 ở 1000+ Syrith-copy khác, nhưng đồng thời có một liên kết cấp cao riêng với Syren số 52 ở một Syrith-copy nhất định — liên kết mà không hạt Syren nào khác chia sẻ. Liên kết cấp cao nổi bật hơn rối cơ bản. Mọi hạt Syren đều có đúng một liên kết rối cấp cao như vậy.Liên kết rối cấp cao này có thể thay thế giữa các Syren twin rối cơ bản khác khi đạt đủ điều kiện tác động cụ thể. (ví dụ chuyển liên kết cấp cao syren1- 52 ra Syren 1-300)
+- Rối cấp cao 1-1 là trạng thái một hạt Syren sau khi chồng chập bị chốt: từ lưới rối cơ bản đa phần (mục trên) rút xuống chỉ còn một liên kết một chiều với đúng một hạt twin cụ thể. Ví dụ: hạt Syren số 1 vốn rối cơ bản với toàn bộ Syren số 1 ở 1000+ Syrith-copy; sau khi chốt, nó khóa riêng vào Syren số 52 ở một Syrith-copy nhất định — liên kết mà không hạt Syren nào khác chia sẻ, nổi bật hơn nền rối cơ bản. Việc chốt cần một ý thức quan sát nên chỉ xảy ra với Syren nằm trong cơ thể có ý thức (cơ chế ở mục dưới); Syren hoang dã ngoài tự nhiên ở nguyên lưới rối cơ bản. Liên kết cấp cao có thể thay thế sang một twin rối cơ bản khác khi đạt đủ điều kiện tác động cụ thể (ví dụ chuyển liên kết cấp cao Syren 1-52 sang Syren 1-300).
 - Gọi là rối 1-1 một chiều vì syren chỉ nhận thông tin rối twin kia chứ không ngược lại
 > Rối cấp cao không phải định nghĩa khoa học chuẩn, nó là một dạng trồi sinh ý thức của sinh vật trên lục địa, dạng ý thức có tính khai thác thông tin ở một rối liên kết đặc biệt nào đó và không thay đổi nên có thể hiểu nó là liên kết cấp cao 1:1 đặc biệt của sinh học như trên cho dễ hình dung.
 > Liên kết này nói kĩ hơn trong khái niệm [[WB_6_Sinh học#1) Syren lõi|Syren lõi]]
+
+###### Cơ chế khóa — quan sát lần đầu của ý thức chủ thể
+
+Trước khi khóa, [[WB_6_Sinh học#1) Syren lõi|Syren lõi]] ở nguyên trạng thái rối cơ bản: chồng chập đa phần với toàn bộ twin. Liên kết cấp cao 1-1 chốt vào một twin ngẫu nhiên ngay khi ý thức chủ thể lần đầu quan sát được lõi — xảy ra trong vài giờ đến vài ngày sau sinh, lúc não phát triển đủ để nối vào lõi. Hành vi quan sát ép chồng chập chốt như con mèo Schrödinger định trạng thái khi mở hộp; từ đó lõi giữ cố định liên kết ấy. Cơ chế khóa cần một chủ thể quan sát, nên chỉ Syren nằm trong cơ thể có ý thức mới khóa; Syren hoang dã ngoài tự nhiên ở nguyên lưới rối cơ bản.
+
+Sau khi khóa, Syren lõi bản thân chỉ phát ra [[#3) Syren "hồi" và các trạng thái Syren|Syren hồi]] và giấc mơ về đúng twin đã chốt; chủ thể tự đọc lại chính liên kết này bất thành vì nó đã dính cố định. Việc đọc và chọn twin chủ động thuộc [[WB_7_Năng lực#I. Tiên tri|tiên tri]], thao tác trên Syren ngoại (vật mẫu), để rối cấp cao của bản thân ngoài tầm.
+
 #### 3) Syren "hồi" và các trạng thái Syren
 
 - Syren tồn tại dưới dạng **MQC (Macroscopic Quantum Coherence — Vật chất Lượng tử Kết hợp Vĩ mô)** ở các pha rắn, lỏng, khí và pha sợi coherent ([[WB_6_Sinh học#a) Mạch ma lực|mạch ma lực]]). Hồi không phải pha vật chất mà là dạng thông tin đan từ mạch ma lực với rối twin.
@@ -42,6 +49,8 @@ Mỗi hạt Syren ở vũ trụ này rối lượng tử đa phần với nhiề
 ## II. Kryst, Veld & Nhiễm Syren
 
 Sau [[WB_3_ASTRAEA#III. THẢM HỌA, DI CƯ VÀ TÁI CẤU TRÚC|thảm họa]], syren từ đá [[WB_2_Mục lục thảm sinh học#Luminar|Luminar]] phân tán hầu hết toàn bộ vào nước, chất lỏng, không khí ở lục địa, làm cho tiêu chuẩn nước/chất lỏng/không khí ở lục địa thời Syrith được văn minh đây liên tưởng đến nhiễm Syren
+
+Lớp phủ Syren bám dần trên mọi bề mặt ngoài Gaia — không khí, nước, đồ vật, da và lông sinh vật. Vệ sinh thường xuyên (tắm, giặt, rửa) gột lớp phủ này trước khi ngấm sâu; bỏ mặc lâu ngày thì lớp phủ ngấm vào trong, nồng độ tích tụ đủ cao khiến sinh vật chạm phải dễ bị Kryst hơn bình thường.
 
 > Kryst xảy ra khi sinh vật bị nhiễm năng lượng Syren từ bên ngoài. Syren bám dính chặt vào điểm tiếp xúc và **tự sinh mạch ma lực bất ổn định** đâm rễ vào mô sinh học của nạn nhân sau đó, chúng đẩy năng lượng syren vào cơ thể bất chấp  — phần tiếp xúc bị tổn thương **hoạt hóa thu hút Syren xung quanh hội tụ về**, khiến Crystal Kryst lớn dần theo thời gian. Mô vật chủ tổn thương cấp. Đây là trạng thái bùng phát Vì cần neo ổn định để đâm rễ
 > Veld là giai đoạn Kryst dừng bùng phát và mạch ma lực ổn định, cơ thể tích hợp được Syren mới vào hệ Syren lưu hành để chúng ngừng hoạt hóa mất tự chủ—  Crystal chuyển sang hóa thành dạng tròn/oval/vuông ít sắc cạnh, chậm thu hút Syren mới. liên tục đẩy năng lượng vào vật chủ

@@ -58,8 +58,9 @@ Bên trong không tiến hóa chịu Syren mà giữ phụ-thuộc-Gaia lâu dà
 ### 1) Syren lõi
 > Trong cơ thể sinh vật lục địa có mang một hoặc vài Syren đặc biệt ở các trung tâm thần kinh ,thường thấy ở tủy sống gọi là Syren lõi. Syren lõi này liên kết với não bộ qua hệ thần kinh vật chủ nối vào vùng này.
 
-- Liên kết Syren lõi vớ cơ thể  là không thay đổi từ khi sinh ra. Trừ khi chịu tác động bên ngoài
-- Phần Syren lõi này sẽ tái tạo các thông tin và môi trường xung quanh của liên kết twin [[WB_5_SYREN#Rối cấp cao — liên kết đặc biệt 1-1|Syren bậc cao]] của nó trong giấc mơ của vật chủ khi ngủ/khi thiền định tập trung vào nó
+- Liên kết Syren lõi với cơ thể (thần kinh vật chủ cắm vào nốt Syren lõi) có từ khi sinh ra và không thay đổi, trừ khi chịu tác động bên ngoài.
+- Liên kết Syren lõi với twin bên kia (rối cấp cao 1-1) chốt vào một twin cụ thể ở lần đầu ý thức chủ thể quan sát được lõi, trong vài giờ đến vài ngày sau sinh — chi tiết ở [[WB_5_SYREN#Cơ chế khóa — quan sát lần đầu của ý thức chủ thể|cơ chế khóa]].
+- Sau khi đã chốt, phần Syren lõi này tái tạo thông tin và môi trường xung quanh của liên kết twin [[WB_5_SYREN#Rối cấp cao — liên kết đặc biệt 1-1|Syren bậc cao]] của nó trong giấc mơ của vật chủ khi ngủ/khi thiền định tập trung vào nó.
 - khi twin có lịch sử hay cảm xúc mạnh hơn cá thể cá thể thường sẽ bị ảnh hưởng, gây ảo giác trong sinh hoạt đời sống
 ### 2) Mạch ma lực & Linh hồn bảo mệnh & hệ thống tự vệ Syren
 #### a) Mạch ma lực

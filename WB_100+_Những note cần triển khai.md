@@ -13,10 +13,25 @@
 - ateum và sarvel có liên quan với nhau bằng ng chim không, chiến binh lông vũ từ trên không sarvel
 - lý do masquara thống nhất? nhờ vào giúp thyria bằng tôn giáo? ăn cắp tín vật, tuyên truyền tín vật về tay chủ, tín vật hiện thân của chủ quyền vùng đất (truyền thuyết)
 - hệ mizuh bóng tối hồng tím? luweh thanh cao rừng rú? eldryn, masquara thyria ánh sáng con người? sarvel thiên thần , thiên giới, vireth, balgath hung bạo
-
-đường cong sụp đổ có link nào k, xóa
+- ánh sáng mặt trời giúp hồi không ý thức hoạt hóa nguy hiểm ban ngày, các quốc gia không muốn văn minh
+- dựa vào nồng độ mà nguyên một vùng như gương soi
+- hermet kuddere được giải thích kĩ về rối,, xem thử có lễ hội gì, dừng chân gặp thương nhân quen, ngâm nước
+- tiên tri là đọc thông tin syren- chiến binh là đọc thông tin vật lýz -doc syren nhu tam guong phan chieu xung quanh de biet thong tin
 
 	phân theo bộ loài và phân tích theo góc nhìn tiềm năng của bộ những loài lai tạp ADN sẽ mix tính năng tùy vào cá thể
+- chaos 
+- cac nghi thuc lễ hội sarvel
+- catalog người đốt trầm hương
+- catalog người ghi chép
+- catalog khu vực lễ
+- catalog người chăm cây đo stress
+- catalog đội binh nữ vương
+- người phụ tá năng lượng, vật tế
+- người giám sát nghi lễ và chủ trì bảo vệ 
+- các hầu, chăm sóc nữ vương, các bác sĩ y tế
+- nghi thức sarvel 
+- catalog nữ vương sarvel
+- trồi sinh ý thức
 ## 1) Lớp thú 
 ### a) Bộ Gặm nhấm + Bộ thỏ +Bô ăn sâu bọ
 ### b) Bộ guốc
@@ -39,8 +54,6 @@
 ### a) Lưỡng cư
 ### b) có vảy
 ### c) cá
-
-
 
 
 

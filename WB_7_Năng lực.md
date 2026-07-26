@@ -48,7 +48,7 @@ nhóm chiến binh tạo ra vessel ổn định cao và dày: lưỡi đao, càn
 solider binh thuong, thyria, eldryn, quan doi
 
 Nhóm dị bản: tạo ra syren dị bản để sử dụng đủ để sử dụng: Ổn định syren cao.cảm nhận cao.dễ tổn thương về tinh thần vì tính tự ổn định trong syren ngoại lai.không hồi phục tốt.
-Darian
+đại viên
 
 Ngủ đông: nhóm này dễ hiểu có thể tốt về ngắt Syren ổn định cơ thể. LÀ một dạng bật tắt, tự điều chỉnh syren bản thân tốt Khả năng cảm nhận và ổn định syren kém vì bật tắt liên tục khó tự training. Vô cảm,khôn lỏi, lợi nhuận bản thân
 masqara
