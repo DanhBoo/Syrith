@@ -153,3 +153,5 @@ Xe ngựa/xe kéo (cần đường mòn): tải nặng 3-4 km/h, đường cái 
 **Tải nặng** = thợ săn mang thịt về sau săn được. **Tải nhẹ** = đi không, vũ khí + lương khô + dụng cụ xẻ.
 
 **Đa số ngày săn không đi tới rìa** - đoàn săn đi vào vùng lõi (5-15km), tìm thú quen thuộc của vùng đó, săn, về. Tới rìa chỉ khi cần thay đổi vùng (cho vùng cũ nghỉ), tìm thú đặc biệt, hoặc mở trại săn mùa.
+
+**Trung bình bộ lạc Vireth (chư hầu Sarvel) ~1.200 người/bộ lạc** — bộ lạc ngoài Gaia sống du cư, không ở cố định trong bán kính một thành bang, nên quy mô phụ thuộc năng lực trao đổi Syren-khoáng lấy lương thực Gaia, khác cơ chế sinh thái săn tại chỗ dùng cho công thức bán kính săn ở trên. Số này riêng cho nhánh Vireth làm chư hầu Sarvel, không tổng quát cho toàn bộ Vireth hay các bộ lạc ngoài Gaia khác. Chi tiết ở [[WB_C_2_Liênminh_Sarvel#V. Chư hầu Vireth & cống nạp|WB_C_2 mục V]].

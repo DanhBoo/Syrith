@@ -1,7 +1,7 @@
 # Sarvel
 
 ## I. Định nghĩa
-Sarvel là thành quốc du mục di chuyển trên khối Đá Sa Minh do Gaia Saltree khiêng đi, làm thủ phủ tiên tri của liên minh chư hầu Vireth.
+Sarvel là thành quốc du mục di chuyển trên khối Đá Sa Minh do Gaia Saltree khiêng đi, làm thủ phủ tiên tri của một liên minh chư hầu thuộc nhánh Vireth.
 
 ## II. Hồ sơ đầy đủ
 Toàn bộ cấu trúc, dân số, bộ máy, thương mại, danh xưng và góc nhìn của Sarvel đã viết chi tiết ở hai file:

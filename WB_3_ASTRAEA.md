@@ -99,6 +99,7 @@ Phân hóa Valdren / Korven hình thành trọn trong ~500 năm này (cơ chế 
 - Nửa còn lại của khối Đông Doria cũ, tách khỏi bản sắc Tây Doria khi Eldryn thành hình và đổi tên khỏi "Doria" — không bên nào giữ tên gốc thời cổ đại.
 >Masquara
 - Thành lập tuyến thương mại, thành quốc với các tộc nhân nhóm chuột, gặm nhấm sử dụng cơ chế ngủ đông để carry nhau di chuyển giữa các vùng đất không gaia để tạo liên kết đông tây buôn bán
+- Á Thần Tạo dựng ẩn mình tại Masquara, hướng nội và sợ hãi, giữa một liên minh thương mại đông đúc dễ giấu mình. Từ chối lời mời của đại diện Thu thập đối đầu Sekhmet, không dám ra mặt. Tín ngưỡng Phồn Thịnh tôn thờ cô lan xuyên lục địa từ chính gốc tích Masquara ([[WB_F_Phồn Thịnh|Phồn Thịnh]]).
 >Khối Sarvel
 - Thu hẹp thành 1 thành quốc duy nhất di chuyển trên đá sa minh, dùng sức mạnh tiên tri để phong tước và sửa/tăng sức mạnh syren cấp cao cho lãnh đạo các bộ lạc vireth xung quanh, đá saverl di chuyển bốn mùa để nhận cống nạp từ các bộ lạc chư hầu này
 - Một phần bộ lạc Vireth làm chư hầu Sarvel — chi tiết ở [[WB_C_2_Liênminh_Sarvel|Liên minh Sarvel]].
@@ -106,11 +107,11 @@ Phân hóa Valdren / Korven hình thành trọn trong ~500 năm này (cơ chế 
 - Thay đổi bộ máy Hoàng Tôn Huyền Chính đứng đầu quyền lợi của tướng quân về phía Hoàng Tôn để chống trả thảm họa thống nhất đất nước, Mizuho Học hỏi văn hóa Masquara và Thyria trong công cuộc cải cách trong khi vẫn giữ bản sắc phương đông
 >Đại viên
 - Vua Đại Viên tham vọng bị hóa điên vì biến cố vách ngăn cổ đại, Gaia Tĩnh Đàn của Đại Viên trở thành Xương Cuồng — một gaia điên bạo chúa, người dân Đại Viên số chạy loạn số bị ép vua điên toàn quyền sinh sát 
-- Nguyên nhân biến cố vách ngăn cổ đại: Á Thần Tích lũy gửi vua một Vessel cổ đại gây hóa điên. Hắn ở lại Đại Viên, tận hưởng hỗn loạn nơi đây — bản năng tích lũy lấn át thành gian xảo, trục lợi, chủ động gieo hỗn loạn vì hỗn loạn là cơ hội tích lũy, mục tiêu tối thượng là gom quyền lực khắp lục địa vào tay.
-- Tích lũy dựng Hội Tầm Gửi, mạng lưới ngầm xuyên nhiều thành quốc lục địa, mỗi nơi núp dưới một vỏ bọc hợp pháp riêng — hiệu buôn, tổ chức từ thiện, quan chức địa phương bị mua chuộc. Biểu tượng chung là hình cây non hoặc hạt giống, phần lớn hội viên hiểu đó là dấu hiệu thịnh vượng thông thường. Tầng lõi đặt tại Đại Viên, nơi Tích lũy trú — chỉ tầng lõi này biết Tích lũy là một Á Thần có thật; các chi nhánh khác vận hành độc lập, không biết về nhau lẫn về đầu não.
+- Nguyên nhân biến cố vách ngăn cổ đại: chân rết Hội Tầm Gửi tại Đại Viên trao vua một Vessel cổ đại gây hóa điên, theo lệnh Á Thần Tích lũy — bản năng tích lũy lấn át thành gian xảo, trục lợi, chủ động gieo hỗn loạn vì hỗn loạn là cơ hội tích lũy, mục tiêu tối thượng là gom quyền lực khắp lục địa vào tay.
+- Tích lũy dựng Hội Tầm Gửi, mạng lưới ngầm xuyên nhiều thành quốc lục địa, mỗi nơi núp dưới một vỏ bọc hợp pháp riêng — hiệu buôn, tổ chức từ thiện, quan chức địa phương bị mua chuộc. Biểu tượng chung là hình cây non hoặc hạt giống, phần lớn hội viên hiểu đó là dấu hiệu thịnh vượng thông thường. Tầng lõi đặt tại Luweh, nơi Tích lũy trú (chi tiết mục Luweh dưới đây) — chỉ tầng lõi này biết Tích lũy là một Á Thần có thật; các chi nhánh khác vận hành độc lập, không biết về nhau lẫn về đầu não.
 >Luweh
 - Bộ máy ổn định thảm họa vẫn làm thu hẹp quốc gia
-- Á Thần Tạo dựng ẩn ở Luweh, hướng nội và sợ hãi, dựng một khu phòng thủ kiên cố vì sợ bị Á Thần khác hoặc thực thể khác nhắm tới. Từ chối lời mời của đại diện Thu thập đối đầu Sekhmet, không dám ra mặt.
+- Á Thần Tích lũy trú tại Luweh, hợp khẩu vị tham tài nguyên/quyền lực của cô nhờ chính trị hôn nhân Long tộc ở đây ([[WB_F_Luweh_1_Luweh#III. Long tộc — hoàng tộc và quý tộc|chi tiết ở WB_F_Luweh mục III]]). Dân Luweh không biết cô là một Á Thần có thật.
 
 >Vùng Chaos cũ (Sekhmet)
 - Sekhmet còn sống, bám vào lớp hóa thạch Syren chưa cháy hết và tiếp tục lớn theo năm tháng, bất trị. Vùng quanh nó lạnh, Syren đặc, khó tiếp cận.
